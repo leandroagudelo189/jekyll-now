@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## A New Post
+
 ### Restricted Boltzmann Machines
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/Boltzmann-machines.jpg "an image title")
