@@ -11,6 +11,10 @@ My skill sets are metabolism, molecular biology and data science. I'm endlessly 
 
 A place to include any other types of information that you'd like to include about yourself.
 
+### Publications
+
+A place to include any other types 
+
 ### Contact me
 
 [leandroagudelo189@gmail.com](mailto:email@domain.com)
