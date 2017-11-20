@@ -7,7 +7,7 @@ published: true
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![an image alt text]({{ site.baseurl }}/images/Boltzmann-machines.jpg "an image title")
+![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/Boltzmann-machines.jpg "an image title")
 
 
 
