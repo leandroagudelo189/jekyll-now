@@ -13,11 +13,20 @@ A place to include any other types of information that you'd like to include abo
 
 ### Publications
 
+author-contribution
+
+Leandro Z. Agudelo, Teresa Femenıa, Funda Orhan et al. [Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression](http://www.cell.com/cell/pdf/S0092-8674(14)01049-6.pdf). Cell, 2014
+
 Igor Cervenka, Leandro Z. Agudelo, Jorge L. Ruas. [Kynurenines: Tryptophan’s metabolites in exercise, inflammation, and mental health](http://science.sciencemag.org/content/357/6349/eaaf9794). Science, 2017
 
 Maja Schlittler, Michel Goiny, Leandro Z. Agudelo et al. [Endurance exercise increases skeletal muscle kynurenine aminotransferases and plasma kynurenic acid in humans](http://ajpcell.physiology.org/content/310/10/C836.long). AJP, 2016
 
-Leandro Z. Agudelo, Teresa Femenıa, Funda Orhan et al. [Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression](http://www.cell.com/cell/pdf/S0092-8674(14)01049-6.pdf). Cell, 2014
+Richard Mills, Hermes Taylor-Weiner, Jorge C. Correia, Leandro Z. Agudelo et al. [Neurturin is a PGC-1a1-controlled myokine that promotes motor neuron recruitment and neuromuscular junction formation](http://www.molmetab.com/article/S2212-8778(17)30866-9/pdf). Moleucar Metabolism, 2017
+
+Vicente Martínez-Redondo, Paulo R. Jannig et al. [Peroxisome Proliferator-activated Receptor Coactivator-1 Isoforms Selectively Regulate Multiple Splicing Events on
+Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf). JBC, 2016
+
+Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing towards FXRα2 to modulate hepatic lipolysis and fatty acid metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4731735/). Molecular Metabolism, 2015
 
 ### Contact me
 
