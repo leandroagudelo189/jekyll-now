@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Unsupervised deep learning
+### Unsupervised deep learning
 
 Intuition on AutoEncoders (study notes)
 
