@@ -1,6 +1,20 @@
 ---
 published: true
 ---
-## A New Post
+## Unsupervised deep learning
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Intuition on self organizing maps (study notes)
+
+![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM1.jpg "an image title")
+----
+****
+
+![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM2.jpg "an image title")
+----
+****
+
+![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM3.jpg "an image title")
+----
+****
+
+![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM4.jpg "an image title")
