@@ -18,3 +18,7 @@ Intuition on self organizing maps (study notes)
 ****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM4.jpg "an image title")
+
+```pythonscript
+var = ["r", "a", "w", "r"];
+```
