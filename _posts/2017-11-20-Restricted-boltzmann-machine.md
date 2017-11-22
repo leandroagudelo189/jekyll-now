@@ -28,3 +28,27 @@ Intuition on resticted boltzmann machines (study notes)
 [The wake-sleep algorithm for unsupervised neural networks](http://www.gatsby.ucl.ac.uk/~dayan/papers/hdfn95.pdf), by Hinton et al.
 
 [Deep boltzmann machines](http://www.utstat.toronto.edu/~rsalakhu/papers/dbm.pdf), by Salakhutdinov et al.
+
+Implementation of RBM for recommendation-systems
+
+import the corresponding libraries
+in case of error during torch import, update numpy to 1.13 version
+test your version and path as follows:
+
+```python
+import numpy as np
+print (np.__version__)
+print (np.__path__)
+```
+
+```python
+# Importing the libraries
+import numpy as np
+import pandas as pd
+import torch
+import torch.nn as nn
+import torch.nn.parallel
+import torch.optim as optim
+import torch.utils.data
+from torch.autograd import Variable
+````
