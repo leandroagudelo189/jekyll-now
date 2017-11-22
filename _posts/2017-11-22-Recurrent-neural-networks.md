@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### Supervised deep learning (sequence models)
 
