@@ -34,8 +34,10 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 
 ### Computational Projects
 
-- Unsupervised deep learning 
-- Interrogation of KAT-enzymes overlaving gene networks for pathway-inference
+- Autoencoders for interrogation of regulatory networks 
+- Self-organizing maps for interrogation of regulatory networks   
+- CNN for organelle detection
+- Interrogation of KAT-enzymes overlapping gene networks for pathway-inference
 - Multi-omic approach to understand the role of kynurenine metabolism in obesity and diabetes
 - Prediction of GPR35 gene behaviour based on co-expressed molecular networks
 - Analysis of transcriptomic profile of immune cells specialized in type-2 immune responses: ILC2, T-regs and M2 macrophages
@@ -48,3 +50,4 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 ### Contact me
 
 [leandroagudelo189@gmail.com](mailto:email@domain.com)
+[leandro.agudelo@ki.se](mailto:email@domain.com)
