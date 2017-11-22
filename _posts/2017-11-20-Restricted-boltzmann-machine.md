@@ -5,6 +5,9 @@ published: true
 
 Intuition on resticted boltzmann machines (study notes)
 
+----
+****
+
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/Boltzmann-machines.jpg "an image title")
 ----
 ****
