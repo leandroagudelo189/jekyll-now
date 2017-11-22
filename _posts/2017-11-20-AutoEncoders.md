@@ -5,6 +5,9 @@ published: true
 
 Intuition on AutoEncoders (study notes)
 
+----
+****
+
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/AE1.jpg "an image title")
 ----
 ****
