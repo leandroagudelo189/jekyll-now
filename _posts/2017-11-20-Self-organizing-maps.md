@@ -5,6 +5,9 @@ published: true
 
 Intuition on self organizing maps (study notes)
 
+----
+****
+
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM1.jpg "an image title")
 ----
 ****
