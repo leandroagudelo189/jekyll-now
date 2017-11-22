@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/adae.png "an image title")
 
 Intuition on AutoEncoders (study notes)
 
