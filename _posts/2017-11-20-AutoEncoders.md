@@ -10,11 +10,12 @@ Intuition on AutoEncoders (study notes)
 ****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/AE2.jpg "an image title")
+
 ----
 ****
 
 
-Implementation of AE for recommendation systems
+### Implementation of AE for recommendation systems
 
 ```python
 # Importing the libraries
