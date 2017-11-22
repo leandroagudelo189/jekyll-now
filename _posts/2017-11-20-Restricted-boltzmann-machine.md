@@ -31,9 +31,10 @@ Intuition on resticted boltzmann machines (study notes)
 
 Implementation of RBM for recommendation-systems
 
-import the corresponding libraries
-in case of error during torch import, update numpy to 1.13 version
-test your version and path as follows:
+
+- import the corresponding libraries
+- in case of error during torch import, update numpy to 1.13 version
+- test your version and path as follows:
 
 ```python
 import numpy as np
