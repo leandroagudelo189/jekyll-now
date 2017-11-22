@@ -7,7 +7,7 @@ published: true
 
 I'm a postdoctoral fellow at the Karolisnka Institute. My skill sets are metabolism, molecular biology and data science. I'm endlessly curious about understanding the deep underlying order within complex biological systems. I apply machine and deep learning algorithms for pattern discovery in biological data, followed by experimental modeling and testing.
 
-With the advent of deep learning, the world is changing at an increasing pace. To keep up with this dynamism this blog was created; with the sole purpose of documenting the process of learning how to learn :)
+With the advent of deep learning, the world is changing at an increasing pace. To keep up with this dynamism, this blog was created with the  purpose of documenting the process of learning how to learn :)
 
 Research interest
 - Deep learning for multi-omic discovery of gene-regulatory networks
