@@ -15,6 +15,31 @@ Intuition on AutoEncoders (study notes)
 ****
 
 
+### Further reading
+
+[Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/), by Skarupke 
+
+[Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html), by Chollet
+
+[Sparse Autoencoders](http://mccormickml.com/2014/05/30/deep-learning-tutorial-sparse-autoencoder/), by McCormick  
+
+[Sparse Autoencoders](http://www.ericlwilkinson.com/blog/2014/11/19/deep-learning-sparse-autoencoders), by Wilkinson
+
+[K-sparse Autoencoders](https://arxiv.org/pdf/1312.5663.pdf), by Makhzani et al.
+
+[Denoising Autoencoders](http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf), by Vincent et al.
+
+[Contractive Autoencoders](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Rifai_455.pdf), by Rifai et al.
+
+[Stacked Denoising Autoencoders](http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf), by Vincent et al.
+
+[Reducing the Dimensionality of
+Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf), by Hinton et al.
+
+----
+****
+
+
 ### Implementation of AE for recommendation systems
 
 ```python
