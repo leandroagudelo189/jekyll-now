@@ -18,8 +18,15 @@ Intuition on self organizing maps (study notes)
 ****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM4.jpg "an image title")
+----
+****
 
-class for implementation of SOM
+
+
+### Implementation of SOM
+
+#### class for implementation of SOM
+
 ```python
 from math import sqrt
 
@@ -290,7 +297,8 @@ class TestMinisom:
 
 ```
 
-Implementation of SOM 
+### Implementation of SOM 
+
 
 ```python
 import numpy as np
@@ -374,7 +382,3 @@ frauds = np.concatenate((mappings[(8,7)], mappings[(7,7)]), axis=0) # 0 is the v
 # inverse scale the values 
 frauds = sc.inverse_transform(frauds)
 ````
-
-
-
-
