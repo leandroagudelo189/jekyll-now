@@ -289,3 +289,92 @@ class TestMinisom:
 
 
 ```
+
+Implementation of SOM 
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+%matplotlib inline 
+# Importing the dataset
+
+dataset = pd.read_csv('Credit_Card_Applications.csv')
+"""
+Plan
+The customers are the input of the neural network, and we will map this to a input space
+Each neuron being initialized as a vetocr of weights that is the same size of the vector of customers
+That is 15 elements since each customer has 15 features so for each customer the output will be the neuron that is closest to the customer
+This neuron is called the winning node. 
+Then we used a Gaussian neighborhood function to update the weights of the neurons closed to the winning node
+Every time we repeat this the output space decreases and looses dimensions 
+To detect the outliers here we need the mean interneuron distance (MID). The mean of the distance of all the neurons surrounding the winning node
+So if we are identifying outliers clusters with high MID would represent them well
+We then compute the euclidean distance of our neurons and the neurons in the neighborhood
+After this we use an inverse mapping function to know which customers are associated to this situation
+"""
+
+X = dataset.iloc[:, :-1].values
+y = dataset.iloc[:, -1].values # we are splitting the data to check in the end if the customer was approved. NOT FOR TRAINING 
+
+# Feature scaling 
+from sklearn.preprocessing import MinMaxScaler
+sc = MinMaxScaler(feature_range = (0,1))
+X = sc.fit_transform(X)
+
+
+# Training the SOM 
+# using the MiniSOM class developed by Giuseppe Vettigli licensed CC BY 3.0
+
+from minisom import MiniSom 
+# create an object
+som = MiniSom(x=10, y=10, input_len=15, sigma=1.0, learning_rate=0.5)  # arguments are the size of the grid, input_len=features or attributes, sigma=ratios of the neighborhood
+# the decay_function parameter can be used to improve the convergence 
+
+
+# Initialize the weights and Train
+# numbers close to 0
+som.random_weights_init(X)
+# euclidean distance, minimum distance, update the weights, gaussian neighborhood function
+som.train_random(X, num_iteration=100 ) # specify the number of iterations
+
+
+# Visualization 
+# we represent the MID 
+from pylab import bone, pcolor, colorbar, plot, show
+bone()
+# add the MID of all the winning nodes that the SOM identified
+pcolor(som.distance_map().T)
+colorbar()
+
+markers = ['o','s']
+colors = ['red', 'g']
+
+# now we loop over all the customers to get the winning code, followed by coloring the class they belong to
+for i, x in enumerate(X):
+    w = som.winner(x)
+    plot(w[0] + 0.5,  # plot the winning node at the center of the square
+         w[1] + 0.5,
+         markers[y[i]],
+         markeredgecolor = colors[y[i]],
+         markerfacecolor = 'None',
+         markersize=10,
+         markeredgewidth=2)
+show()    
+
+
+# Decoding
+# we will use a dictionary to obtain the customers id
+mappings = som.win_map(X) 
+# in the dictionary we will get the customers per node (the first value[0,0] corresponds to the id[remember the were scaled])
+
+# to get the ids you start with the coordinates of the nodes (outlier nodes=white close to 1)
+frauds = np.concatenate((mappings[(8,7)], mappings[(7,7)]), axis=0) # 0 is the vertical axis
+
+# inverse scale the values 
+frauds = sc.inverse_transform(frauds)
+````
+
+
+
+
