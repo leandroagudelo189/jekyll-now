@@ -1,10 +1,9 @@
 ---
 published: true
 ---
-### 
+
 in preparation
 
-![robot rubik cube_popup.jpg]({{site.baseurl}}/_posts/robot rubik cube_popup.jpg)
+![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/robot rubik cube_popup.jpg "an image title")
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
