@@ -35,6 +35,7 @@ Intuition on self organizing maps (study notes)
 [Anomaly detection using a self-organizing map and particle swarm optimization](http://www.sciencedirect.com/science/article/pii/S1026309811001751), by Shahreza et al.
 
 [A convolutional recursive modified Self Organizing Map for handwritten digits recognition](http://www.sciencedirect.com/science/article/pii/S0893608014001968?via%3Dihub), by Mohebi et al.
+
 ----
 ****
 
