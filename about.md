@@ -34,7 +34,15 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 
 ### Computational Projects
 
-A place to include any other types of information that you'd like to include about yourself.
+- Unsupervised deep learning 
+- Interrogation of KAT-enzymes overlaving gene networks for pathway-inference
+- Multi-omic approach to understand the role of kynurenine metabolism in obesity and diabetes
+- Prediction of GPR35 gene behaviour based on co-expressed molecular networks
+- Analysis of transcriptomic profile of immune cells specialized in type-2 immune responses: ILC2, T-regs and M2 macrophages
+- PGC-1A role in the CNS by mapping molecular signatures of astrocytes using transcriptomics
+- Systems biology approach to understand molecular cues of skeletal muscle role in depression
+- Multi-omic approach to characterize the secretome of conditioned skeletal muscle
+
 
 
 ### Contact me
