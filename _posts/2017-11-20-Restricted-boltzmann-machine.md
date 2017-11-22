@@ -14,6 +14,7 @@ Intuition on resticted boltzmann machines (study notes)
 ****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/boltzmann-machines-3.jpg "an image title")
+
 ----
 ****
 
@@ -31,8 +32,10 @@ Intuition on resticted boltzmann machines (study notes)
 [The wake-sleep algorithm for unsupervised neural networks](http://www.gatsby.ucl.ac.uk/~dayan/papers/hdfn95.pdf), by Hinton et al.
 
 [Deep boltzmann machines](http://www.utstat.toronto.edu/~rsalakhu/papers/dbm.pdf), by Salakhutdinov et al.
+
 ----
 ****
+
 
 
 ### Implementation of RBM for recommendation-systems
