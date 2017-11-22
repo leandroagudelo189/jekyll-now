@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-### Unsupervised deep learning
 
 Intuition on self organizing maps (study notes)
 
