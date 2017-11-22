@@ -11,6 +11,7 @@ Intuition on recurrent neural networks (Study notes)
 ****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/rnn2.jpg "an image title")
+
 ----
 ****
 
@@ -32,8 +33,10 @@ Intuition on recurrent neural networks (Study notes)
 [LSTM: A Search Space Odyssey](https://arxiv.org/pdf/1503.04069.pdf), by Greff et al.
 
 [Deep Sparse Rectifier Neural Networks](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf), by Glorot et al.
+
 ----
 ****
+
 
 ### Implementation of RNN
 
