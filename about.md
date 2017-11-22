@@ -7,13 +7,16 @@ published: true
 
 My skill sets are metabolism, molecular biology and data science. I'm endlessly curious about understanding the deep underlying order within complex biological systems. I apply machine and deep learning algorithms for pattern discovery in biological data, followed by experimental modeling and testing.
 
-### Computational Projects
+With the advent of deep learning, the world is changing at an increasing pace. To keep up with this dynamism this blog was created; with the sole purpose of documenting the process of learning how to learn :)
 
-A place to include any other types of information that you'd like to include about yourself.
+Research interest
+- Deep learning for multi-omic discovery of gene-regulatory networks
+- Unsupervised deep learning (autoencoders, restricted boltzmann machines and SOM)
+- Hybrid deep learning models for multi-omic discovery of regulatory networks (autoencoders and reinforcement learning)
+
 
 ### Publications
-
-author-contribution
+(by author-contribution)
 
 Leandro Z. Agudelo, Teresa Femenıa, Funda Orhan et al. [Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression](http://www.cell.com/cell/pdf/S0092-8674(14)01049-6.pdf). Cell, 2014
 
@@ -27,6 +30,12 @@ Vicente Martínez-Redondo, Paulo R. Jannig et al. [Peroxisome Proliferator-activ
 Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf). JBC, 2016
 
 Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing towards FXRα2 to modulate hepatic lipolysis and fatty acid metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4731735/). Molecular Metabolism, 2015
+
+
+### Computational Projects
+
+A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
