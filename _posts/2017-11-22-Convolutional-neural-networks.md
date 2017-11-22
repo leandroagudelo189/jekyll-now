@@ -120,6 +120,7 @@ else:
     pred_final = 'cat'
 ````
 
+### Additional implementation
 The following implementation gives higher accuracy. If training using GPUs is possible, the accuracy will increase much more. 
 
 ```python
