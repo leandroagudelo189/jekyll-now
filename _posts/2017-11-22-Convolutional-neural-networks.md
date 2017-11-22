@@ -27,9 +27,7 @@ Intuition on convolutional neural networks (study notes)
 
 [ Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/pdf/1502.01852.pdf), by He et al.
 
-[Evaluation of Pooling Operations in
-Convolutional Architectures for Object
-Recognition](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf), by Scherer et al.
+[Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf), by Scherer et al.
 
 [A convolutional recursive modified Self Organizing Map for handwritten digits recognition](http://www.sciencedirect.com/science/article/pii/S0893608014001968?via%3Dihub), by Mohebi et al.
 
