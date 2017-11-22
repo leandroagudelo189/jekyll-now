@@ -6,4 +6,12 @@ published: true
 Intuition on recurrent neural networks (Study notes)
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/rnn1.jpg "an image title")
+----
+****
+
+![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/rnn2.jpg "an image title")
+----
+****
+
+
