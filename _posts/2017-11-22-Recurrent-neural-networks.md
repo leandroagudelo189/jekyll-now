@@ -14,6 +14,7 @@ Intuition on recurrent neural networks (Study notes)
 ----
 ****
 
+
 ### Further reading
 
 [Learning long-term dependencies with gradient descent is difficult](http://ai.dinfo.unifi.it/paolo//ps/tnn-94-gradient.pdf), by Bengio et al. 
@@ -31,7 +32,8 @@ Intuition on recurrent neural networks (Study notes)
 [LSTM: A Search Space Odyssey](https://arxiv.org/pdf/1503.04069.pdf), by Greff et al.
 
 [Deep Sparse Rectifier Neural Networks](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf), by Glorot et al.
-
+----
+****
 
 ### Implementation of RNN
 
