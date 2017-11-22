@@ -1,6 +1,8 @@
 ---
 published: true
 ---
+![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/rnn-model.jpg "an image title")
+
 ### Supervised deep learning (sequence models)
 
 Intuition on recurrent neural networks (Study notes)
