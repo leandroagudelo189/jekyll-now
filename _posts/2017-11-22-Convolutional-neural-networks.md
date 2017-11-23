@@ -2,11 +2,11 @@
 published: true
 ---
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/neural-transfer.jpg "an image title") 
-
-Intuition on convolutional neural networks (study notes)
-
 ----
 ****
+
+### Intuition on convolutional neural networks (study notes)
+
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/cnn1.jpg "an image title")
 ----
