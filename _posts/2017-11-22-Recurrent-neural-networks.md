@@ -2,11 +2,11 @@
 published: true
 ---
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/lstm.png "an image title")
-
-Intuition on recurrent neural networks (Study notes)
-
 ----
 ****
+
+### Intuition on recurrent neural networks (Study notes)
+
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/rnn1.jpg "an image title")
 ----
