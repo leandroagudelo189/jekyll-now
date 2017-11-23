@@ -2,11 +2,11 @@
 published: true
 ---
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/facialexp-rbm.png "an image title")
-
-Intuition on resticted boltzmann machines (study notes)
-
 ----
 ****
+
+### Intuition on resticted boltzmann machines (study notes)
+
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/Boltzmann-machines.jpg "an image title")
 ----
