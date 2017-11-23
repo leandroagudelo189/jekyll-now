@@ -2,11 +2,11 @@
 published: true
 ---
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/sdae.png "an image title")
-
-Intuition on AutoEncoders (study notes)
-
 ----
-****
+**** 
+
+### Intuition on AutoEncoders (study notes)
+
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/AE1.jpg "an image title")
 ----
