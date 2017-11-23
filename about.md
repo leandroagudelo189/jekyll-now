@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I'm a postdoctoral fellow at the Karolisnka Institute. My skill sets are metabolism, molecular biology and data science. I'm endlessly curious about understanding the deep underlying order within complex biological systems. I apply machine and deep learning algorithms for pattern discovery in biological data, followed by experimental modeling and testing.
+I'm a postdoctoral fellow in Associate Professor [Jorge Ruas' lab](http://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology) at the Karolisnka Institute. My skill sets are metabolism, molecular biology and data science. I'm endlessly curious about understanding the deep underlying order within complex biological systems. I apply machine and deep learning algorithms for pattern discovery in biological data, followed by experimental modeling and testing.
 
 With the advent of deep learning, the world is changing at an increasing pace. Given this dynamism, the purpose of this blog is to document the process of learning how to learn :)
 
