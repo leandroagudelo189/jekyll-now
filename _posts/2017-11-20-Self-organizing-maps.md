@@ -2,11 +2,11 @@
 published: true
 ---
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/somm.jpg "an image title")
-
-Intuition on self organizing maps (study notes)
-
 ----
 ****
+
+### Intuition on self organizing maps (study notes)
+
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM1.jpg "an image title")
 ----
