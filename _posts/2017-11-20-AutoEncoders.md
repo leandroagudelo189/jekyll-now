@@ -45,7 +45,7 @@ Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf), by H
 
 ### Implementation of AE for recommendation systems
 
-[Dataset for training](https://github.com/leandroagudelo189/AutoEncoders/tree/master/ml-1m)
+[Dataset](https://github.com/leandroagudelo189/AutoEncoders/tree/master/ml-1m)
 
 ```python
 # Importing the libraries
