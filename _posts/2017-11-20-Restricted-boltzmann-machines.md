@@ -54,6 +54,9 @@ print (np.__version__)
 print (np.__path__)
 ```
 
+We will try to build a recommender system with data from visuallens which contains users ratings ([Dataset](https://github.com/leandroagudelo189/AutoEncoders/blob/master/ml-1m.zip))
+
+
 ```python
 # Importing the libraries
 import numpy as np
