@@ -11,6 +11,7 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 
 Research interest
 - Identification of regulatory networks critical for metabolic disease
+- Identification of regulatory networks mediating adaptations to metabolic challenges in obesity, diabetes and exercise
 - Deep learning inference of transcriptional regulatory networks from multi-omic data 
 - Unsupervised deep learning models for multi-omic inference of disease-associated networks
 - Hybrid deep learning models for multi-omic discovery of regulatory networks (autoencoders and reinforcement learning)
