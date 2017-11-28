@@ -10,10 +10,10 @@ I'm a postdoctoral fellow in Associate Professor [Jorge Ruas' lab](http://ki.se/
 With the advent of deep learning, the world is changing at an increasing pace. Given this dynamism, the purpose of this blog is to document the process of learning how to learn :)
 
 Research interest
-- Identification of regulatory networks critical for metabolic disease
-- Identification of regulatory networks mediating adaptations to metabolic challenges in obesity, diabetes and exercise
-- Deep learning inference of transcriptional regulatory networks from multi-omic data 
-- Unsupervised deep learning models for multi-omic inference of disease-associated networks
+
+- Identification of regulatory networks mediating adaptations to metabolic challenges (i.e. obesity, diabetes and exercise)
+- Multi-omic deep learning inference of regulatory networks governing metabolic adaptations
+- Multi-omic deep learning inference of comorbid molecular components across metabolic disorders
 - Hybrid deep learning models for multi-omic discovery of regulatory networks (autoencoders and reinforcement learning)
 
 
