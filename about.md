@@ -17,8 +17,10 @@ Research interest
 - Hybrid deep learning models for multi-omic discovery of regulatory networks (autoencoders and reinforcement learning)
 
 
-### Publications
+### Publications and manuscripts
 (by author-contribution)
+
+Leandro Z. Agudelo, Duarte Ferreira et al. [Kynurenic Acid and Gpr35 Regulate Adipose Tissue Energy Homeostasis and Inflammation](http://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30053-6). Cell Metabolism, 2018
 
 Leandro Z. Agudelo, Teresa Femenıa, Funda Orhan et al. [Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression](http://www.cell.com/cell/pdf/S0092-8674(14)01049-6.pdf). Cell, 2014
 
