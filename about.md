@@ -58,4 +58,4 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 ### Contact me
 
 - [leandroagudelo189@gmail.com](mailto:email@domain.com)
-- [leandro.agudelo@ki.se](mailto:email@domain.com)
+
