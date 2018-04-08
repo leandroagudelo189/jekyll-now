@@ -77,8 +77,6 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   
-source "https://rubygems.org"
-gem "github-pages", group: :jekyll_plugins
 
 # Exclude these files from your production _site
 exclude:
@@ -88,4 +86,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-slate
