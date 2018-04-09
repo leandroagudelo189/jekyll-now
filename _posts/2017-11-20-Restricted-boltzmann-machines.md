@@ -2,27 +2,20 @@
 published: true
 ---
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/facialexp-rbm.png "an image title")
-----
-****
 
-### Intuition on resticted boltzmann machines (study notes)
+
+# Study notes RBMs  
 
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/Boltzmann-machines.jpg "an image title")
-----
-****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/boltzmann-machines-2.jpg "an image title")
-----
-****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/boltzmann-machines-3.jpg "an image title")
 
-----
-****
 
 
-### Further reading
+# Further reading
 
 [Energy-based learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf), by Yann LeCun et al. 
 
@@ -36,12 +29,10 @@ published: true
 
 [Deep boltzmann machines](http://www.utstat.toronto.edu/~rsalakhu/papers/dbm.pdf), by Salakhutdinov et al.
 
-----
-****
 
 
 
-### Implementation of RBM for recommendation-systems
+# Implementation of RBM for recommendation-systems
 
 
 - import the corresponding libraries
