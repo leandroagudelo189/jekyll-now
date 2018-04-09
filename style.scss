@@ -246,6 +246,13 @@ nav {
   border-bottom: 1px solid $darkerGray;
 }
 
+.post {
+  .make-row();
+}
+.post {
+  .make-md-column;
+}
+
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
