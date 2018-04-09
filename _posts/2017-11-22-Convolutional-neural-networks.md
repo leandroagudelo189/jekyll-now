@@ -4,7 +4,7 @@ published: true
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/neural-transfer.jpg "an image title") 
 
 
-## Study notes convolutional neural networks 
+# Study notes CNNs 
 
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/cnn1.jpg "an image title")
@@ -14,7 +14,7 @@ published: true
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/cnn2.jpg "an image title")
 
 
-## Further reading
+# Further reading
 
 [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf), by LeCun et al. 
 
@@ -28,7 +28,7 @@ published: true
 
 [A convolutional recursive modified Self Organizing Map for handwritten digits recognition](http://www.sciencedirect.com/science/article/pii/S0893608014001968?via%3Dihub), by Mohebi et al.
 
-## Implementation
+# Implementation
 
 ```python
 ### Convolutional Neural Networks
