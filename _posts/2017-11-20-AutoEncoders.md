@@ -2,23 +2,17 @@
 published: true
 ---
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/sdae.png "an image title")
-----
-**** 
 
-### Intuition on AutoEncoders (study notes)
+# Study notes AutoEncoders 
 
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/AE1.jpg "an image title")
-----
-****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/AE2.jpg "an image title")
 
-----
-****
 
 
-### Further reading
+# Further reading
 
 [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/), by Skarupke 
 
@@ -39,11 +33,8 @@ published: true
 [Reducing the Dimensionality of
 Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf), by Hinton et al.
 
-----
-****
 
-
-### Implementation of AE for recommendation systems
+# Implementation of AE for recommendation systems
 
 [Dataset](https://github.com/leandroagudelo189/AutoEncoders/tree/master/ml-1m)
 
