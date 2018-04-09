@@ -18,7 +18,7 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 
 
 
-## Key publications and manuscripts
+# Key publications and manuscripts
 
 
 Leandro Z. Agudelo ¶, Shamim Dadvar ¶ et al. White adipose tissue GPR35 controls the amplitude of inflammation during impaired mitochondrial function. In submission, 2018 (¶ equal contribution)
@@ -42,7 +42,7 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 
 
 
-## Computational Projects
+# Computational Projects
 
 - Deep autoencoders and self-organizing maps (SOMs) for interrogation of gene-regulatory networks  
 - Convolutional neural networks for celular organelle detection
