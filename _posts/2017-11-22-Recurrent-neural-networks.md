@@ -2,23 +2,20 @@
 published: true
 ---
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/lstm.png "an image title")
-----
-****
 
-### Intuition on recurrent neural networks (Study notes)
+
+## Study notes RNNs 
 
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/rnn1.jpg "an image title")
-----
-****
+
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/rnn2.jpg "an image title")
 
-----
-****
 
 
-### Further reading
+
+## Further reading
 
 [Learning long-term dependencies with gradient descent is difficult](http://ai.dinfo.unifi.it/paolo//ps/tnn-94-gradient.pdf), by Bengio et al. 
 
@@ -36,11 +33,9 @@ published: true
 
 [Deep Sparse Rectifier Neural Networks](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf), by Glorot et al.
 
-----
-****
 
 
-### Implementation of RNN
+## Implementation 
 
 ```python
 ### 1. PREPROCESSING
