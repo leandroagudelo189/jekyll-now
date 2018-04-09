@@ -2,31 +2,21 @@
 published: true
 ---
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/somm.jpg "an image title")
-----
-****
 
-### Intuition on self organizing maps (study notes)
+
+# Intuition on self organizing maps (study notes)
 
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM1.jpg "an image title")
-----
-****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM2.jpg "an image title")
-----
-****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM3.jpg "an image title")
-----
-****
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/SOM4.jpg "an image title")
 
-----
-****
 
-
-### Further reading
+# Further reading
 
 [The SOM](http://sci2s.ugr.es/keel/pdf/algorithm/articulo/1990-Kohonen-PIEEE.pdf), by Kohonen et al. 
 
@@ -40,11 +30,9 @@ published: true
 
 [A convolutional recursive modified Self Organizing Map for handwritten digits recognition](http://www.sciencedirect.com/science/article/pii/S0893608014001968?via%3Dihub), by Mohebi et al.
 
-----
-****
 
 
-### Implementation of SOM
+# Implementation of SOM
 
 #### class for implementation of SOM
 
@@ -318,7 +306,7 @@ class TestMinisom:
 
 ```
 
-### Implementation of SOM 
+#### Implementation of SOM 
 
 
 ```python
