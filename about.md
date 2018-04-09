@@ -44,7 +44,7 @@ Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf). JBC, 2016
 
 # Computational Projects
 
-- Deep autoencoders and self-organizing maps (SOMs) for interrogation of gene-regulatory networks  
+- Deep autoencoders and self-organizing maps (SOMs) for interrogation of gene-regulatory networks 
 - Convolutional neural networks for celular organelle detection
 - Inference of metabolic networks in angiogenesis by hierarchical-clustering of transcriptomic profiles 
 - Targeted molecular dependencies by overlapping gene perturbations of key-regulators
