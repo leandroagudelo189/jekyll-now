@@ -4,7 +4,7 @@ published: true
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/lstm.png "an image title")
 
 
-## Study notes RNNs 
+# Study notes RNNs 
 
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/rnn1.jpg "an image title")
@@ -15,7 +15,7 @@ published: true
 
 
 
-## Further reading
+# Further reading
 
 [Learning long-term dependencies with gradient descent is difficult](http://ai.dinfo.unifi.it/paolo//ps/tnn-94-gradient.pdf), by Bengio et al. 
 
@@ -35,7 +35,7 @@ published: true
 
 
 
-## Implementation 
+# Implementation 
 
 ```python
 ### 1. PREPROCESSING
