@@ -9,7 +9,7 @@ My skill sets are metabolism, molecular biology and data science. I'm endlessly 
 
 With the advent of deep learning, the world is changing at an increasing pace. Given this dynamism, the purpose of this blog is to document the process of learning how to learn :)
 
-Research interest
+### Research interest
 
 - Identification of regulatory networks mediating adaptations to metabolic challenges (i.e. obesity, diabetes and exercise)
 - Multi-omic deep learning inference of regulatory networks governing metabolic adaptations
@@ -20,13 +20,14 @@ Research interest
 
 ## Key publications and manuscripts
 
-Leandro Z. Agudelo", Shamim Dadvar" et al. White adipose tissue GPR35 controls the amplitude of inflammation during impaired mitochondrial function. In submission, 2018 (" equal contribution)  
 
-Leandro Z. Agudelo", Duarte Ferreira" et al. Skeletal Muscle PGC-1α1 Reroutes Kynurenine to Support Aspartate Biosynthesis and Mitochondrial Respiration. In revision, 2018 (" equal contribution)
+Leandro Z. Agudelo ¶, Shamim Dadvar ¶ et al. White adipose tissue GPR35 controls the amplitude of inflammation during impaired mitochondrial function. In submission, 2018 (¶ equal contribution)
+
+Leandro Z. Agudelo ¶, Duarte Ferreira ¶ et al. Skeletal Muscle PGC-1α1 Reroutes Kynurenine to Support Aspartate Biosynthesis and Mitochondrial Respiration. In revision, 2018 (¶ equal contribution)
 
 Leandro Z. Agudelo, Duarte Ferreira et al. [Kynurenic Acid and Gpr35 Regulate Adipose Tissue Energy Homeostasis and Inflammation](http://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30053-6). Cell Metabolism, 2018
 
-Leandro Z. Agudelo", Teresa Femenıa" et al. [Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression](http://www.cell.com/cell/pdf/S0092-8674(14)01049-6.pdf). Cell, 2014 (" equal contribution)
+Leandro Z. Agudelo ¶, Teresa Femenıa ¶ et al. [Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression](http://www.cell.com/cell/pdf/S0092-8674(14)01049-6.pdf). Cell, 2014 (¶ equal contribution)
 
 Igor Cervenka, Leandro Z. Agudelo, Jorge L. Ruas. [Kynurenines: Tryptophan’s metabolites in exercise, inflammation, and mental health](http://science.sciencemag.org/content/357/6349/eaaf9794). Science, 2017
 
