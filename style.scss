@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $lightGray;
+  color: $gray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $lightGray;
+  color: $gray;
   font-size: 16px;
 
   @include mobile {
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $lightGray;
+    color: $gray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -267,7 +267,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 13px;
   }
 }
 
