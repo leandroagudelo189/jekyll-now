@@ -21,8 +21,6 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 # Key publications and manuscripts
 
 
-- Leandro Z. Agudelo †, Shamim Dadvar † et al. White adipose tissue GPR35 controls the amplitude of inflammation during impaired mitochondrial function. In submission, 2018 († equal contribution)
-
 - Leandro Z. Agudelo †, Duarte Ferreira † et al. Skeletal Muscle PGC-1α1 Reroutes Kynurenine to Support Aspartate Biosynthesis and Mitochondrial Respiration. In revision, 2018 († equal contribution)
 
 - Leandro Z. Agudelo, Duarte Ferreira et al. [Kynurenic Acid and Gpr35 Regulate Adipose Tissue Energy Homeostasis and Inflammation](http://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30053-6). Cell Metabolism, 2018
