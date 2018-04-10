@@ -3,20 +3,20 @@ layout: default
 ---
 
 
-		
-<h1>Computer Science</h1>
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div>		
+	<h1>Computer Science</h1>
+		<div class="posts">
+		  {% for post in site.posts %}
+		    <article class="post">
 
-      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+		      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
 
-      
-    </article>
-  {% endfor %}
+
+		    </article>
+		  {% endfor %}
+		</div>
 </div>
-
 
 <h1>Biology</h2>
 <p>Defines the design of website elements.</p>
