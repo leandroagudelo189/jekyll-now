@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="col-md-4">
-		<h1>Computer Science</h2>
-		<p>Used for content and structure of web pages.</p>
+		<h1>Computer Science</h1>
+		<p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
 </div>
 <div class="col-md-4">
 		<h1>Biology</h2>
@@ -17,7 +17,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1></h1>
 
 
       
