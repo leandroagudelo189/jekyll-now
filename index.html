@@ -2,23 +2,21 @@
 layout: default
 ---
 
+
+		
 <h1>Computer Science</h1>
-<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-
-<h1>Biology</h2>
-<p>Defines the design of website elements.</p>
-
-	
-	
-
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h1></h1>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
 
       
     </article>
   {% endfor %}
 </div>
+
+
+<h1>Biology</h2>
+<p>Defines the design of website elements.</p>
