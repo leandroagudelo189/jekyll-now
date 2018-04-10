@@ -271,17 +271,17 @@ nav {
   }
 }
 
-.posts2 > .post2 {
+.posts2 > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $darkerGray;
 }
 
-.posts2 > .post2:last-child {
+.posts2 > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }
 
-.post2 {
+.post {
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
