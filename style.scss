@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 840px;
   padding: 0 10px;
   width: 100%;
 }
@@ -271,17 +271,17 @@ nav {
   }
 }
 
-.posts2 > .post {
+.pages > .page {
   padding-bottom: 2em;
   border-bottom: 1px solid $darkerGray;
 }
 
-.posts2 > .post:last-child {
+.pages > .page:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }
 
-.post {
+.page {
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
