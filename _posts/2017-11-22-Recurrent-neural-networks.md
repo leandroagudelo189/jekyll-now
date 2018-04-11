@@ -38,7 +38,7 @@ published: true
 # Implementation 
 
 
-```python Dark mode
+```python
 
 ### 1. PREPROCESSING
 
