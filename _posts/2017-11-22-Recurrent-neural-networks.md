@@ -38,6 +38,7 @@ published: true
 # Implementation 
 
 ```python
+{% highlight ruby %}
 ### 1. PREPROCESSING
 
 # LIBRABRIES
@@ -199,5 +200,5 @@ scoring = 'accuracy'
 scoring = 'neg_mean_squared_error' 
 in the GridSearchCV class parameters
 """
-
+{% endhighlight %}
 ````
