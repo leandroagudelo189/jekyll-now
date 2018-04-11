@@ -37,8 +37,9 @@ published: true
 
 # Implementation 
 
-```python
-{% highlight ruby %}
+
+```{% highlight python %}
+
 ### 1. PREPROCESSING
 
 # LIBRABRIES
