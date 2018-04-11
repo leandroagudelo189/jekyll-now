@@ -38,7 +38,7 @@ published: true
 # Implementation 
 
 
-```{% highlight python %}
+```python
 
 ### 1. PREPROCESSING
 
@@ -201,5 +201,5 @@ scoring = 'accuracy'
 scoring = 'neg_mean_squared_error' 
 in the GridSearchCV class parameters
 """
-{% endhighlight %}
+
 ````
