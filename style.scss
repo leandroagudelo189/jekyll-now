@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 770px;
   padding: 0 10px;
   width: 100%;
 }
@@ -224,11 +224,11 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 15px;
     color: #a6a6a6;
     text-align: right;
     font-weight: 400;
-    letter-spacing: 0.7px;
+    letter-spacing: 0.5px;
 
     @include mobile {
       margin: 0 10px;
