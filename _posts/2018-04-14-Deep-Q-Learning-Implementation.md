@@ -118,27 +118,28 @@ class ReplayMemory(object):
     ''' now let's make the function that determines 
     the sample input from the batch-transition or batch_size'''
     def sample(self, batch_size):
+    
     	# we need the memory and the size of the batches
         samples = zip(*random.sample(self.memory, batch_size))
         
         '''
-        the zip function changes the shape of the list
-        we cannot return the samples directly because we need to put it in a pytorch variable
-        to do this we use the map() that will take the samples
-        and map them into torch variable containing the tensors and the gradients
-        it takes several arguments: the first is the function we want to use 
-        and the second the sequnce we want to applied the function on
-        in sum, we use the map() to create subfunctions for additional manipulations of the data
-        we call it lambda x and it is followed by what we want it to return
+        the zip function changes the shape of the list.
+        We cannot return the samples directly because 
+        we need to put it in a pytorch variable.
+        To do this, we use the map() function; it will take the samples
+        and map them to torch variables containing the tensors and the gradients.
+        It takes several arguments: the first one is the function we want to use 
+        and the second the sequnce we want to applied the function on.
+        In sum, we use the map() to create subfunctions for 
+        additional manipulations of the data.
+        We call it lambda x and it is followed by what we want it to return,
         in this case we want to transform our samples (previous line of code) 
-        into a torch variable
-        we will then use the Variable function from torch. 
-        Inside of this f(x) we will convert x since x is gonna be 
-        the sample once we apply lambda on it
-        in order to get everything well aligned 
-        we also need to concatenate the actions with the states
-        so each row corresponds to the action, the state and the reward for its "t"
-        we then use torch.cat to get x and the first dimension that has index 0
+        into a torch variables.
+        So we use the Variable function from torch. 
+        In order to get everything well aligned 
+        we also need to concatenate the actions with the states.
+        This way, each row corresponds to the action, the state and the reward for its "t"
+        
         '''
         return map(lambda x: Variable(torch.cat(x, 0)), samples)
         '''
@@ -146,8 +147,8 @@ class ReplayMemory(object):
         1. the lambda function will take the samples, 
         concatenate them with respect of the first dimension
         
-        2. convert those tensors into torch variables that 
-        contains both the tensors and the gradients
+        2. convert those tensors into torch variables containing 
+        both the tensors and the gradients
                  
         3. this torch varible[tensors, gradients] will be used 
         for stochastic gradient descent'''
