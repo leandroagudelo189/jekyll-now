@@ -96,6 +96,7 @@ last_distance = 0
 
 ```python
 
+# "NumericProperty" and "ReferenceListProperty", see kivy tutorials
 class Car(Widget):
     
     '''parameters for the car'''
@@ -189,6 +190,7 @@ class Ball3(Widget):
 # sensor 3 (see kivy tutorials: kivy https://kivy.org/docs/tutorials/pong.html)
     pass
 
+"ObjectProperty", see kivy tutorials
 
 class Game(Widget):
     
