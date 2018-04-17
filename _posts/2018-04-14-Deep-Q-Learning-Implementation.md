@@ -157,6 +157,111 @@ class ReplayMemory(object):
 ```
 
 
+# Deep Q-learning Network
+
+This is the class that integrates our model making use of the previous classes. We will have 7 different functions including:
+ 1. The __init__ function that creates the objects of our model
+ 2. A function to select the best action (softmax())
+ 3. A function where we carry out backpropagation
+ 4. A function where we update the weights
+ 5. A function to score the mean of the rewards
+ 6. A function to save the model in a pth file for re-training
+ 7. A funtion to load the last saved model
+ 
+ ```python
+ class Dqn():
+    
+    #  first create objects of what we need in our model
+    def __init__(self, input_size, nb_action, gamma):
+        
+        self.gamma = gammma
+        
+        # the following object will be the reward of th batch
+        self.reward_window = []
+        
+        # now an object of our neural network class
+        self.model = Network(input_size, nb_action)
+        
+        self.memory = ReplayMemory(100000)
+        self.optimizer = optim.Adam(self.model.parameters(), lr = 0.001)
+        
+        # now we create the variables composing the transition events
+        self.last_state = torch.Tensor(input_size).unsqueeze(0)
+        self.last_action = 0
+        self.last_reward = 0
+        
+        
+    '''now we create the function of selecting the best 
+       action depending on the states/batches'''
+    def select_action(self, state):   
+    	# takes the input-state as an argument. The signals comming from the sensors 
+        
+        # we use the softmax function to determine the distribution 
+        # of probabilities of any possible action
+        probs = F.softmax( self.model( Variable( state, volatile = True ) ) * 7 )
+        # temperature = 7. It helps the results from the softmax function 
+        #to undertake the decision with the highest probability.
+        
+        # now wetake a random prob fro our distribution softmax
+        # function by using the multinomial method
+        action = probs.multinomial()
+        
+        # now we return the action without the batch fake dimension, so we use .data[index]
+        return action.data[0,0]
+    
+    
+    '''now we will train our neural network carrying out forwrd- and backpropagation '''    
+    def learn(self, batch_state, batch_next_state, batch_reward, batch_action):
+        
+        # we want the outputs from our inputs in batch, so we use the self.model
+        # then we use the gather function to obtain the action that was chosen 
+        # remember that the batch-state has a fake dimmension added with the unsqueeze function
+        # we need to do the same with the batch action
+        # we will add the fake dimmension corresponding to the actions with unsqueeze function
+        # and we will make sure the total output is a commun variable 
+        # not a tensor so we squeeze the whole at the index of the actions so index 1
+        
+        outputs = self.model( batch_state ).gather( 1, batch_action.unsqueeze(1) ).squeeze(1) 
+        # 1 since it is the indice of the fake dimmension of the action 
+        
+        # now we need to calculate the next output in order to perform the loss function 
+        # just remember that we need the maximum of the Q value of all possible next-states. 
+        # to do so we use the detach function to extract all those possible values. 
+        # We then can calculate the max
+        # the correct index for that is 1 since it corresponds to the actions
+        # we also need to specify we are taking the Q value for the next state
+        # (q(a,st+1) and the index for that is 0 (the index for states is 0))
+        
+        next_outputs = self.model( batch_next_state ).detach().max(1)[0]
+        
+        # with the next-output calculated we can now compute the target,
+        # which is comming from the reward (state-t) plus 
+        # gamma times the next-output variable we just computed
+        
+        target = self.gamma * next_outputs + batch_reward
+        
+        # now wa can compute the loss function (empirical-output - predicted output)
+        # we will use the hubble loss from our functional module
+        # recommended function to calculate the loss in deep-q-learning
+        # is the smooth_l1_loss
+        
+        td_loss = F.smooth_l1_loss(outputs, target)
+        
+        
+        # now we will compute the optimizer that we chose previously, the adam optimizer
+        # we need to apply in the last error in order to perform SGD and update the weights
+        # in pytorch we need to re-initialize it at each iteration of the loop
+        # to do so we use the zero_grad method
+        
+        self.optimizer.zero_grad()
+        td_loss.backward(retain_variables = True) 
+        # we set it to True to improve the performance of the algorithm 
+        
+        # now we update the weights
+        self.optimizer.step()
+        
+ 
+ ```
 
 
 
