@@ -84,3 +84,97 @@ class Network(nn.Module): # we are doing inheritance of a the parent class Modul
         
 ```
 
+# Experience replay
+
+This class will help our agent to learn better the weights, even in the absence of variations from the incomming inputs. It will make an approximation (sample) of previous similar states as inputs (in batches or series of events). In sum, it saves state-transitions in an artificial memory.
+
+```python
+
+class ReplayMemory(object):
+    
+    def __init__(self, capacity):
+        
+        # the maximum number of transitions
+        self.capacity = capacity
+        
+        # initialize the list of series
+        self.memory = []
+    
+    
+    '''now we will create a push function to append 
+    the batches/transitions in the memory list. 
+    it will also make sure the transitions are for example 100 (fixed number)
+    The argument of this function (event) will contain 4 things. 
+    1. last state, 2. new state, 3. last action, 4 last reward'''
+    
+    def push(self, event):
+        self.memory.append(event)
+        
+        # we will try 100 000 transitions
+        if len(self.memory) > self.capacity:
+            del self.memory[0]
+    
+    
+    ''' now let's make the function that determines 
+    the sample input from the batch-transition or batch_size'''
+    def sample(self, batch_size):
+    	# we need the memory and the size of the batches
+        samples = zip(*random.sample(self.memory, batch_size))
+        
+        '''
+        the zip function changes the shape of the list
+        we cannot return the samples directly because we need to put it in a pytorch variable
+        to do this we use the map() that will take the samples
+        and map them into torch variable containing the tensors and the gradients
+        it takes several arguments: the first is the function we want to use 
+        and the second the sequnce we want to applied the function on
+        in sum, we use the map() to create subfunctions for additional manipulations of the data
+        we call it lambda x and it is followed by what we want it to return
+        in this case we want to transform our samples (previous line of code) 
+        into a torch variable
+        we will then use the Variable function from torch. 
+        Inside of this f(x) we will convert x since x is gonna be 
+        the sample once we apply lambda on it
+        in order to get everything well aligned 
+        we also need to concatenate the actions with the states
+        so each row corresponds to the action, the state and the reward for its "t"
+        we then use torch.cat to get x and the first dimension that has index 0
+        '''
+        return map(lambda x: Variable(torch.cat(x, 0)), samples)
+        '''
+        in sum: 
+        1. the lambda function will take the samples, 
+        concatenate them with respect of the first dimension
+        
+        2. convert those tensors into torch variables that 
+        contains both the tensors and the gradients
+                 
+        3. this torch varible[tensors, gradients] will be used 
+        for stochastic gradient descent'''
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
