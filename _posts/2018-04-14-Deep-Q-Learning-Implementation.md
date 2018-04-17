@@ -34,3 +34,21 @@ import torch.optim as optim  # to improve the SGD
 import torch.autograd as autograd # we need to converge our tensor to a variable that containg our gradients
 from torch.autograd import Variable
 ```
+
+# 1. The architecture
+
+Now, we create the network class, containing the architecture of the neural network, the amount of hidden layers and their activation functions. 
+
+```python
+
+class Network(nn.Module): # we are doing inheritance of a the parent class Module from torch
+    
+    def __init__(self, input_size, nb_action):
+        '''this will be our model that can be modified when we create objects of this class. Remember to always use the self
+        # we have 5 inputs from our sensors [left, right, front, orientation and - orientation].
+        # 3 actions to take with the softmax function. '''
+        
+        # we now use the super function from torch in order to use all the tools from the nn.module
+        super(Network, self).__init__()
+```
+
