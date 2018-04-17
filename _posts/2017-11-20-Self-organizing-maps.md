@@ -18,17 +18,17 @@ published: true
 
 # Further reading
 
-[The SOM](http://sci2s.ugr.es/keel/pdf/algorithm/articulo/1990-Kohonen-PIEEE.pdf), by Kohonen et al. 
+- [The SOM](http://sci2s.ugr.es/keel/pdf/algorithm/articulo/1990-Kohonen-PIEEE.pdf), by Kohonen et al. 
 
-[Kohonen's SOM](http://www.ai-junkie.com/ann/som/som1.html), by Buckland
+- [Kohonen's SOM](http://www.ai-junkie.com/ann/som/som1.html), by Buckland
 
-[SOM - Creating hexagonal heatmaps with D3.js](https://www.visualcinnamon.com/2013/07/self-organizing-maps-creating-hexagonal.html), by Bremer
+- [SOM - Creating hexagonal heatmaps with D3.js](https://www.visualcinnamon.com/2013/07/self-organizing-maps-creating-hexagonal.html), by Bremer
 
-[Knowledge Representation in Graphs using Convolutional Neural Networks](https://arxiv.org/pdf/1612.02255.pdf), by Vieira
+- [Knowledge Representation in Graphs using Convolutional Neural Networks](https://arxiv.org/pdf/1612.02255.pdf), by Vieira
 
-[Anomaly detection using a self-organizing map and particle swarm optimization](http://www.sciencedirect.com/science/article/pii/S1026309811001751), by Shahreza et al.
+- [Anomaly detection using a self-organizing map and particle swarm optimization](http://www.sciencedirect.com/science/article/pii/S1026309811001751), by Shahreza et al.
 
-[A convolutional recursive modified Self Organizing Map for handwritten digits recognition](http://www.sciencedirect.com/science/article/pii/S0893608014001968?via%3Dihub), by Mohebi et al.
+- [A convolutional recursive modified Self Organizing Map for handwritten digits recognition](http://www.sciencedirect.com/science/article/pii/S0893608014001968?via%3Dihub), by Mohebi et al.
 
 
 
