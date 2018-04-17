@@ -37,7 +37,7 @@ from torch.autograd import Variable
 
 # 1. The architecture
 
-Now, we will create the network class. This class contains the architecture of the neural network, the number of hidden layers and their activation function. 
+Now, we will create the network class. This class contains the architecture of the neural network, the number of hidden layers and their activation function. HHHH
 
 ```python
 
