@@ -69,8 +69,8 @@ scores = []
 first_update = True
 def init():
 
-	# sand is an array that has as many cells as our graphic interface has pixels. 
-	# Each cell has a one if there is sand, 0 otherwise.
+    # sand is an array that has as many cells as our graphic interface has pixels. 
+    # Each cell has a one if there is sand, 0 otherwise.
     global sand
     
     # x and y-coordinates of the goal 
