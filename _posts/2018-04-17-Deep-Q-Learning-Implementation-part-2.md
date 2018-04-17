@@ -31,7 +31,7 @@ from kivy.clock import Clock
 
 # 1. Import the Deep Q-learning class
 
-Now, we import the DQN class and set the parameters for some conditions in the game. For more information on kivy applications please visit [Kivy tutorials](https://kivy.org/docs/tutorials/pong.html). 
+Now, we import the DQN class and set the parameters for some conditions in the game. For more information on kivy applications please visit [Kivy tutorials](https://kivy.org/docs/tutorials/pong.html/" target="_blank"). 
 
 ```python
 # Importing the Dqn object 
