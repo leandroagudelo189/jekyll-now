@@ -37,7 +37,7 @@ from torch.autograd import Variable
 
 # 1. The architecture
 
-Now, we create the network class, containing the architecture of the neural network, the amount of hidden layers and their activation functions. 
+Now, we create the network class, containing the architecture of the neural network, the amount of hidden layers and their activation function. 
 
 ```python
 
@@ -45,10 +45,33 @@ class Network(nn.Module): # we are doing inheritance of a the parent class Modul
     
     def __init__(self, input_size, nb_action):
         '''this will be our model that can be modified when we create objects of this class. Remember to always use the self
-        # we have 5 inputs from our sensors [left, right, front, orientation and - orientation].
-        # 3 actions to take with the softmax function. '''
+        we have 5 inputs from our sensors [left, right, front, orientation and - orientation].
+        3 actions to take with the softmax function. '''
         
         # we now use the super function from torch in order to use all the tools from the nn.module
         super(Network, self).__init__()
+        
+        # now we will create a variables that will be attached to the objects. These variables contain the input neurons and actions to take
+        self.input_size = input_size
+        self.nb_action = nb_action
+        
+        # let's create the first full connection between the inputs and the hidden layers
+        # this can be changed to try to improve performance of the model
+        
+        self.fc1 = nn.Linear(input_size, 60) # let's add another hidden layer
+        self.fc2 = nn.Linear(60, 40)
+        self.fc3 = nn.Linear(40,25)
+        self.fc4 = nn.Linear(25, nb_action)
+        
+        def forward(self, state):
+        '''now we make the function that will carry out forward propagation. It will activate the neurons. It will also take the q values for each state'''
+        
+        # we will now activate the hidden layers using nn.functional from torch
+        x = F.relu(self.fc1(state))
+        x2 = F.relu(self.fc2(x))
+        x3 = F.relu(self.fc3(x2))
+        q_values = self.fc4(x3)
+        return q_values
+        
 ```
 
