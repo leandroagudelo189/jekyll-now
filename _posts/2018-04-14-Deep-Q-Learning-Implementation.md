@@ -13,12 +13,12 @@ published: true
 - Python 2.7 or 3.5 (for this, we will use the 2.7 version)
 - Create a new environment in anaconda with $ conda create --name autonomous-agents
 - You can also create a environments.yml file and install all the dependencies with $ conda env create -f environments.yml
-- Install pytorch and torch vision [installation here](http://pytorch.org/)
-- For the agent environment, install the kivy application [installation here](https://kivy.org/#home)
+- Install pytorch and torch vision [(installation here)](http://pytorch.org/)
+- For the agent environment, install the kivy application [(installation here)](https://kivy.org/#home)
 
-If you are all set-up, let's create the classes for the agent first
+If you're all set-up, let's first create the classes for the agent. 
 
-# Libraries
+# Autonomous Agent
 
 let's import the libraries we will be using in this file
 
