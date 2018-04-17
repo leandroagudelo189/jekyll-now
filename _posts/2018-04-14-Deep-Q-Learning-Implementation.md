@@ -33,4 +33,4 @@ import torch.nn.functional as F # this functional package conatins the different
 import torch.optim as optim  # to improve the SGD
 import torch.autograd as autograd # we need to converge our tensor to a variable that containg our gradients
 from torch.autograd import Variable
-´´´
+´´´´
