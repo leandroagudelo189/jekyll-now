@@ -84,7 +84,7 @@ class Network(nn.Module): # we are doing inheritance of a the parent class Modul
         
 ```
 
-# Experience replay
+# 2. Experience replay
 
 This class will help our agent to learn better the weights, even in the absence of variations from the incomming inputs. It will make an approximation (sample) of previous similar states as inputs (in batches or series of events). In sum, it saves state-transitions in an artificial memory.
 
@@ -157,7 +157,7 @@ class ReplayMemory(object):
 ```
 
 
-# Deep Q-learning Network
+# 3. Deep Q-learning Network
 
 This is the class that integrates our model making use of the previous classes. We will have 7 different functions including:
  1. The __init__ function that creates the objects of our model
