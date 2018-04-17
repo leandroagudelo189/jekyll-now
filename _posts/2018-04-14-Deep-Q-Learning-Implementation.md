@@ -20,7 +20,7 @@ If you're all set-up, let's first create the classes for the agent.
 
 # Autonomous Agent
 
-let's import the libraries we will be using in this file
+We start by importing the libraries we will be using.
 
 ```python
 
@@ -37,7 +37,7 @@ from torch.autograd import Variable
 
 # 1. The architecture
 
-Now, we create the network class, containing the architecture of the neural network, the amount of hidden layers and their activation function. 
+Now, we will create the network class. This class contains the architecture of the neural network, the number of hidden layers and their activation function. 
 
 ```python
 
