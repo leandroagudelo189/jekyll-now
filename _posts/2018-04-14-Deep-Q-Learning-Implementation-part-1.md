@@ -341,6 +341,4 @@ def update(self, reward, new_signal):
     
 
 ````
-
-
-### [Deep Q-learning implementation part 2 <img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 200px;"/>]({{ site.baseurl }}/Deep-Q-Learning-Implementation-part-2/)
+# [Deep Q-learning implementation part 2]({{ site.baseurl }}/Deep-Q-Learning-Implementation-part-2/)  [<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 200px;"/>]({{ site.baseurl }}/Deep-Q-Learning-Implementation-part-2/)
