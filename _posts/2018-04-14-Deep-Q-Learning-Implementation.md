@@ -29,29 +29,37 @@ import random # random samples from our batches when carrying out experience rep
 import os # this is to load the model and save it in a pth file
 import torch  
 import torch.nn as nn
-import torch.nn.functional as F # this functional package conatins the different functions we will use when implementing the NN
+
+# this functional package conatins the different functions we will use when implementing the NN
+import torch.nn.functional as F 
 import torch.optim as optim  # to improve the SGD
-import torch.autograd as autograd # we need to converge our tensor to a variable that containg our gradients
+
+# we need to converge our tensor to a variable that containg our gradients
+import torch.autograd as autograd 
 from torch.autograd import Variable
 ```
 
 # 1. The architecture
 
-Now, we will create the network class. This class contains the architecture of the neural network, the number of hidden layers and their activation function. HHHH
+Now, we will create the network class. This class contains the architecture of the neural network, the number of hidden layers and their activation function. 
 
 ```python
 
 class Network(nn.Module): # we are doing inheritance of a the parent class Module from torch
     
     def __init__(self, input_size, nb_action):
-        '''this will be our model that can be modified when we create objects of this class. Remember to always use the self
-        we have 5 inputs from our sensors [left, right, front, orientation and - orientation].
-        3 actions to take with the softmax function. '''
+        '''this will be our model that can be modified when we create objects of this class.
+        Remember to always use the self
+        Here, we have 5 inputs from our sensors 
+        [left, right, front, orientation and - orientation].
+        And 3 actions to take with the softmax function. '''
         
-        # we now use the super function from torch in order to use all the tools from the nn.module
+        # we now use the super function from torch 
+        # this in order to use all the tools from the nn.module
         super(Network, self).__init__()
         
-        # now we will create a variables that will be attached to the objects. These variables contain the input neurons and actions to take
+        # now we will create a variables that will be attached to the objects. 
+        #These variables contain the input neurons and actions to take
         self.input_size = input_size
         self.nb_action = nb_action
         
