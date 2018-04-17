@@ -22,7 +22,7 @@ If you are all set-up, let's create the classes for the agent first
 
 let's import the libraries we will be using in this file
 
-``` python
+```python
 
 import numpy as np
 import random # random samples from our batches when carrying out experience replay
@@ -34,5 +34,3 @@ import torch.optim as optim  # to improve the SGD
 import torch.autograd as autograd # we need to converge our tensor to a variable that containg our gradients
 from torch.autograd import Variable
 ´´´
-
-
