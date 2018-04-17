@@ -1,12 +1,12 @@
 ---
 published: true
 ---
-# Deep Q-learning
+
 
 <iframe src="https://www.slideshare.net/LeandroAgudelo2/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 
   
-# [Implementation](https://leandroagudelo189.github.io/Deep-Q-Learning-Implementation/)
+# [see implementation](https://leandroagudelo189.github.io/Deep-Q-Learning-Implementation/)
 
 
 
