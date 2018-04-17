@@ -64,7 +64,8 @@ class Network(nn.Module): # we are doing inheritance of a the parent class Modul
         self.fc4 = nn.Linear(25, nb_action)
         
         def forward(self, state):
-        '''now we make the function that will carry out forward propagation. It will activate the neurons. It will also take the q values for each state'''
+        '''now we make the function that will carry out forward propagation. 
+        It will activate the neurons. It will also take the q values for each state'''
         
         # we will now activate the hidden layers using nn.functional from torch
         x = F.relu(self.fc1(state))
