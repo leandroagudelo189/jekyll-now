@@ -169,6 +169,7 @@ This is the class that integrates our model making use of the previous classes. 
  7. A funtion to load the last saved model
  
  ```python
+ 
  class Dqn():
     
     #  first create objects of what we need in our model
@@ -262,9 +263,84 @@ This is the class that integrates our model making use of the previous classes. 
         
  
  ```
+In the update function the main goal is to get the weights that gives the least loss and highest reward. Therefore, anytime the agent reaches a new state we need to update the model. This means that once an action is selected we need to update all the actions of the transition/batch.
+We then append this to our memory and follow-up the reward to see how the training is going.
+In sum, we use the select-function and we integrate it with the update function to choose the best action.
 
+```python
 
+def update(self, reward, new_signal):
 
+        new_state = torch.Tensor(new_signal).float().unsqueeze(0)
+        
+        # update the memory 
+        # append the transition
+        self.memory.push( ( self.last_state, new_state, torch.LongTensor( [ int( self.last_action ) ] ), torch.Tensor( [ self.last_reward ] ) ) )
+        
+        # we now play an action by using the select action function
+        # then we use the new state as the argument
+        action = self.select_action(new_state)
+        
+        # now we need to learn from the selected action
+        # we make the ai learn from the last 100 events
+        # we make sure we are selecting 100 events by using the "if" function
+        # we have a batch of 100 000 and we then take a random sample of 100 events
+        # we use the memory (object of the replaymemory class) 
+        # and the second memory which is the object of the attribute
+        if len(self.memory.memory) > 100:
+            batch_state, batch_next_state, batch_action, batch_reward = self.memory.sample(100)
+            self.learn(batch_state, batch_next_state, batch_reward, batch_action)
+        
+        # update with the new parameters
+        self.last_action = action
+        self.last_state = new_state
+        self.last_reward = reward
+        
+        # append the reward to the reward window (reward of the batch)
+        # make sure the length is correct
+        self.reward_window.append(reward)
+        if len(self.reward_window) > 1000:
+            del self.reward_window[0]
+        return action
+    
+    
+    # compute the mean of all the rewards stored in the reward window
+    def score(self):
+        return sum(self.reward_window)/(len(self.reward_window)+1.) 
+        # the + 1 is to make sure the denominator is not 0
+    
+    
+    # let's save the model for any future models
+    # save the brain of the car
+    # we can then load the last version of the model
+    # we want to save the optimizer and the weights
+    # we will use a dictionary
+    def save(self):
+        torch.save({'state_dict': self.model.state_dict(),  
+        # the .state_dict() is to save the parameters 
+                    'optimizer' : self.optimizer.state_dict(),
+                   }, 'last_brain.pth') 
+        # we use a pth file to save the model. 
+        # Pth files add additional locations sys.path
+    
+    
+    # take what we save and use it again. Useful for long training experiments
+    # make sure the file exists
+    def load(self):
+        if os.path.isfile('last_brain.pth'):
+            print("=> loading checkpoint... ")
+            checkpoint = torch.load('last_brain.pth')
+            # now we need to update the files
+            self.model.load_state_dict(checkpoint['state_dict'])
+            self.optimizer.load_state_dict(checkpoint['optimizer'])
+            print("done !")
+        else:
+            print("no checkpoint found...")
+    
+    
+    
+
+````
 
 
 
