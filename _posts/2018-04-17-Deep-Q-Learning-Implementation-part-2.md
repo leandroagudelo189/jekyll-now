@@ -427,15 +427,7 @@ if __name__ == '__main__':
 
 
 
-
-
-
-
-
-
-
-
-
+See [Deep Q-learning implementation part 3]({{ site.baseurl }}/Deep-Q-Learning-Implementation-part-3/)		[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 100px;"/>]({{ site.baseurl }}/Deep-Q-Learning-Implementation-part-3/)
 
 
 
