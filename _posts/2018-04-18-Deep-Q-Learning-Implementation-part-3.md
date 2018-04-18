@@ -1,6 +1,6 @@
 ---
 published: false
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+We start by taking a look into the kivy file where one can customize some of the environment parameters. Please visit 
