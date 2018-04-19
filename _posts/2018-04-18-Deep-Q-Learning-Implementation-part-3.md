@@ -3,7 +3,7 @@ published: false
 ---
 
 
-We start by taking a look into the kivy file where one can customize some of the environment parameters. Please visit [Kivy tutorials](https://kivy.org/docs/tutorials/pong.html){:target="_blank"}. for more information.
+We start by taking a look into the kivy file where we can customize some of the environment parameters. Please visit [Kivy tutorials](https://kivy.org/docs/tutorials/pong.html){:target="_blank"}. for more information.
 
 ```python
 
@@ -67,4 +67,5 @@ We start by taking a look into the kivy file where one can customize some of the
 
 
 ```
+
 
