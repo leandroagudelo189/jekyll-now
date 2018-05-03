@@ -73,7 +73,7 @@ Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf){:target="_blank"
 - 2009-2011, [Biochemistry and Biophysics Dept, Stockholm University](https://ki.se/en/fyfa/startpage){:target="_blank"}, MSc Chemistry and Neurochemistry 
 - 2002-2008, [Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}, Medicine  
 
-### Contact @
+# Contact
 
 - [leandroagudelo189@gmail.com](mailto:email@domain.com)
  and currently waiting for [leandroagudelo@csail.mit.edu](mailto:email@domain.com)
