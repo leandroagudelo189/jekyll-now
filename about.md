@@ -30,12 +30,13 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 
 # Key publications and manuscripts
 
+- Leandro Z. Agudelo †, Shamim Dadvar † et al. GPR35 restores mitochondrial function in white adipose tissue with impaired electric transport chain activity. In submission
 
-- Leandro Z. Agudelo †, Duarte Ferreira † et al. Skeletal Muscle PGC-1α1 Reroutes Kynurenine to Support Aspartate Biosynthesis and Mitochondrial Respiration. Under Review, 2018 († equal contribution)
+- Leandro Z. Agudelo †, Duarte Ferreira † et al. Skeletal Muscle PGC-1α1 Reroutes Kynurenine to Support Aspartate Biosynthesis and Mitochondrial Respiration. Under Review 
 
 - Leandro Z. Agudelo, Duarte Ferreira et al. [Kynurenic Acid and Gpr35 Regulate Adipose Tissue Energy Homeostasis and Inflammation](http://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30053-6){:target="_blank"}. Cell Metabolism, 2018
 
-- Leandro Z. Agudelo †, Teresa Femenıa † et al. [Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression](http://www.cell.com/cell/pdf/S0092-8674(14)01049-6.pdf){:target="_blank"}. Cell, 2014 († equal contribution)
+- Leandro Z. Agudelo †, Teresa Femenıa † et al. [Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression](http://www.cell.com/cell/pdf/S0092-8674(14)01049-6.pdf){:target="_blank"}. Cell, 2014 
 
 - Igor Cervenka, Leandro Z. Agudelo, Jorge L. Ruas. [Kynurenines: Tryptophan’s metabolites in exercise, inflammation, and mental health](http://science.sciencemag.org/content/357/6349/eaaf9794){:target="_blank"}. Science, 2017
 
@@ -48,6 +49,7 @@ Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf){:target="_blank"
 
 - Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing towards FXRα2 to modulate hepatic lipolysis and fatty acid metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4731735/){:target="_blank"}. Molecular Metabolism, 2015
 
+(† equal contribution)
 
 # Computational Projects
 
