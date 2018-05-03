@@ -9,7 +9,9 @@ Renesence labs is an educational, research and open-source organization with pri
 
 - 
 
-We are currently located in Stockholm and Boston
+### location 
+We are currently located in [Stockholm] (https://www.google.com/maps/place/Wennerbergsgatan+3,+112+58+Stockholm,+Sweden/@59.3277794,18.0112949,17z/data=!3m1!4b1!4m5!3m4!1s0x465f762c9902969f:0x54168908aadb88!8m2!3d59.3277767!4d18.0134836){:target="_blank"} and [Boston]
+(https://www.google.com/maps/place/12+Short+St,+Brookline,+MA+02446/@42.341108,-71.1301605,17z/data=!3m1!4b1!4m5!3m4!1s0x89e379b95aeabd0b:0xe1f22bb0ac5c4f15!8m2!3d42.341108!4d-71.1279718){:target="_blank"}
 
 
 # Founder
