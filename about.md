@@ -5,9 +5,13 @@ permalink: /about/
 published: true
 ---
 
-Renesence labs is an educational, research and open-source organization with primarily two goals:
+Renesence labs is an educational, research and open-source organization whose primarily goals are:
 
 - 
+
+- Complex networks in biology 
+
+With the advent of deep learning, the world is changing at an increasing pace. Given this dynamism, we want to curate and document the process of learning how to learn :)
 
 ### Location 
 We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target="_blank"} and [Boston](https://goo.gl/maps/C9Ra8WjCXdx){:target="_blank"}
@@ -18,9 +22,8 @@ We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target
 
 My skill sets are metabolism, molecular biology and data science. I'm endlessly curious about understanding the deep underlying order within complex biological systems. I apply machine and deep learning algorithms for pattern discovery in biological data, followed by experimental modeling and testing.
 
-With the advent of deep learning, the world is changing at an increasing pace. Given this dynamism, the purpose of this blog is to document the process of learning how to learn :)
 
-### Research interest
+# Research interest
 
 - Identification of regulatory networks mediating adaptations to metabolic challenges (i.e. obesity, diabetes and exercise)
 - Multi-omic deep learning inference of regulatory networks governing metabolic adaptations
