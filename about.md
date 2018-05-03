@@ -19,8 +19,7 @@ We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target
 
 # Founder
 
-
-My skill sets are metabolism, molecular biology and data science. I'm endlessly curious about understanding the deep underlying order within complex biological systems. I apply machine and deep learning algorithms for pattern discovery in biological data, followed by experimental modeling and testing.
+Leandro is currently a Postdoc at [Computer Science and Artificial Intelligence Laboratory @ MIT](https://www.csail.mit.edu/){:target="_blank"} in [Kellis Lab (MIT Computer Science and Broad Institute)](http://compbio.mit.edu/compbio.html){:target="_blank"}, where he works at the intersection between metabolism and computational biology. His skill-sets are whithin the fields of metabolism, molecular biology and computer science. He is endlessly curious about understanding the deep underlying order within complex biological systems. He applies machine and deep learning algorithms for pattern discovery in biological data, followed by experimental validation.
 
 
 # Research interest
