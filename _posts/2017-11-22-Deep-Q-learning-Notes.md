@@ -39,8 +39,3 @@ published: true
 
 - [Deep reinforcement learining course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#hth){:target="_blank"}, by Simonini 
 
-
-
-
-
-![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/robot rubik cube_popup.jpg "an image title")
