@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About (in development)
+title: About us (in development)
 permalink: /about/
 published: true
 ---
