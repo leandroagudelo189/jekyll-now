@@ -1,9 +1,19 @@
 ---
 layout: page
-title: About
+title: 'About '
 permalink: /about/
 published: true
 ---
+
+Renesence labs is an educational, research and open-source organization with primarily two goals:
+
+- 
+
+
+
+
+# Founder
+
 
 My skill sets are metabolism, molecular biology and data science. I'm endlessly curious about understanding the deep underlying order within complex biological systems. I apply machine and deep learning algorithms for pattern discovery in biological data, followed by experimental modeling and testing.
 
@@ -21,7 +31,7 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 # Key publications and manuscripts
 
 
-- Leandro Z. Agudelo †, Duarte Ferreira † et al. Skeletal Muscle PGC-1α1 Reroutes Kynurenine to Support Aspartate Biosynthesis and Mitochondrial Respiration. In revision, 2018 († equal contribution)
+- Leandro Z. Agudelo †, Duarte Ferreira † et al. Skeletal Muscle PGC-1α1 Reroutes Kynurenine to Support Aspartate Biosynthesis and Mitochondrial Respiration. Under Review, 2018 († equal contribution)
 
 - Leandro Z. Agudelo, Duarte Ferreira et al. [Kynurenic Acid and Gpr35 Regulate Adipose Tissue Energy Homeostasis and Inflammation](http://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30053-6){:target="_blank"}. Cell Metabolism, 2018
 
@@ -37,7 +47,6 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf){:target="_blank"}. JBC, 2016
 
 - Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing towards FXRα2 to modulate hepatic lipolysis and fatty acid metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4731735/){:target="_blank"}. Molecular Metabolism, 2015
-
 
 
 # Computational Projects
@@ -56,8 +65,15 @@ Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf){:target="_blank"
 - Systems biology approach to understand molecular cues of skeletal muscle role in depression
 - Multi-omic approach to characterize the secretome of conditioned skeletal muscle
 
+# Education
 
+- 2018, Postdoctoral Associate @ [CSAIL - MIT](https://www.csail.mit.edu/){:target="_blank"}, [Compbio - Kellis Lab](http://compbio.mit.edu/compbio.html){:target="_blank"} 
+- 2017, Postdoctoral Associate @ [FyFa - Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology - Ruas Lab](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}
+- 2012-2017, PhD student @ [FyFa - Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology - Ruas Lab](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}
+- 2009-2011, MSc Chemistry - Neurochemistry @ [Biochemistry-Biophysics - Stockholm University](https://ki.se/en/fyfa/startpage){:target="_blank"}
+- 2002-2008, Medicine @ [Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}
 
 ### Contact @
 
 - [leandroagudelo189@gmail.com](mailto:email@domain.com)
+currently waiting for [leandroagudelo@csail.mit.edu](mailto:email@domain.com)
