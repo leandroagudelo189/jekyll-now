@@ -9,7 +9,7 @@ Renesence labs is an educational, research and open-source organization with pri
 
 - 
 
-
+We are currently located in Stockholm and Boston
 
 
 # Founder
