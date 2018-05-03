@@ -76,4 +76,4 @@ Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf){:target="_blank"
 ### Contact @
 
 - [leandroagudelo189@gmail.com](mailto:email@domain.com)
-currently waiting for [leandroagudelo@csail.mit.edu](mailto:email@domain.com)
+ and currently waiting for [leandroagudelo@csail.mit.edu](mailto:email@domain.com)
