@@ -21,7 +21,7 @@ We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target
 
 # Founder
 
-Leandro is a Postdoctoral associate in [Computer Science and Artificial Intelligence Laboratory at  the Massachusetts Institute of Technology](https://www.csail.mit.edu/){:target="_blank"} in [Manolis Kellis Lab](http://compbio.mit.edu/compbio.html){:target="_blank"}(MIT-Computer Science and Broad Institute), where he works at the intersection between metabolism and computational biology. His skill-sets are whithin the areas of metabolism, molecular biology and computer science. He is endlessly curious about understanding the deep underlying order within complex biological systems. Therefore, he applies machine and deep learning algorithms for pattern discovery in biological data, followed by experimental validation.  
+Leandro is a Postdoctoral associate in [Computer Science and Artificial Intelligence Laboratory at  the Massachusetts Institute of Technology](https://www.csail.mit.edu/){:target="_blank"} in [Manolis Kellis Lab](http://compbio.mit.edu/compbio.html){:target="_blank"} (MIT-Computer Science and Broad Institute), where he works at the intersection between metabolism and computational biology. His skill-sets are whithin the areas of metabolism, molecular biology and computer science. He is endlessly curious about understanding the deep underlying order within complex biological systems. Therefore, he applies machine and deep learning algorithms for pattern discovery in biological data, followed by experimental validation.  
 
 
 # Research interest
