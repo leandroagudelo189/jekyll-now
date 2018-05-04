@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Renesence labs is an educational, research and open-source organization whose primarily goals are:
+Renesence labs is an educational, research and open-source organization whose primary goals are:
 
 - Develop allostatic deep learning systems that combine both reinforcement learning and evolutionary strategies
 
