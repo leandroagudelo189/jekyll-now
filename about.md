@@ -19,7 +19,6 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 
 
 <br />
-<br />
 
 
 ### THE FOUNDERS
@@ -36,7 +35,6 @@ See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
 See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)	
 
 
-<br />
 <br />
 
 
