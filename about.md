@@ -9,11 +9,15 @@ published: true
 
 Renesence labs is an educational, research and open-source organization whose primary goals are:
 
+### Research
+
 - Develop allostatic deep learning systems that combine both reinforcement learning and evolutionary strategies
 
 - Develop hybrid deep learning algorithms suitable for understanding complex biological networks 
 
-- Metabolic systems are one of the most allostatic networks by nature. We believe that borrowing the flexibility 
+- Metabolic systems are one of the most allostatic networks by nature..
+
+### Education
 
 With the advent of deep learning, the world is changing at an increasing pace. Given this dynamism, we want to curate and document the process of learning how to learn :)
 
