@@ -3,8 +3,12 @@ layout: page
 title: Leandro Agudelo
 published: true
 ---
+---
+layout: page
+title: Leandro Agudelo, Head of Research
+published: true
+---
 
-# Leandro Agudelo, Head of Research
 Leandro is a postdoctoral associate at the [Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology](https://www.csail.mit.edu/){:target="_blank"} in [Manolis Kellis lab](http://compbio.mit.edu/compbio.html){:target="_blank"} , where he works at the intersection between metabolism, computational biology and deep learning. His skill-sets are whithin the areas of molecular metabolism and computer science. He is endlessly curious about understanding the deep underlying order within complex biological systems. Therefore, he applies machine and deep learning algorithms for pattern discovery in biological data, followed by experimental validation.  
 
 # Research interest
