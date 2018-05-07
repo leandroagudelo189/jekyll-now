@@ -29,7 +29,7 @@ published: true
 
 
 # Contact
-
+- [asa@renesence.com](mailto:email@domain.com)
 - [segerstolpe@gmail.com](mailto:email@domain.com)
 - [asa.segerstolpe@ki.se](mailto:email@domain.com)
- and currently waiting for [segerstolpe@broadinstitute.org](mailto:email@domain.com)
+- currently waiting for [segerstolpe@broadinstitute.org](mailto:email@domain.com)
