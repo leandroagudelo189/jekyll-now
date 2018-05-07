@@ -21,6 +21,8 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 ### Leandro Agudelo, Head of Research
 Leandro is a postdoctoral associate at the [Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology](https://www.csail.mit.edu/){:target="_blank"} in [Manolis Kellis lab](http://compbio.mit.edu/compbio.html){:target="_blank"} , where he works at the intersection between metabolism, computational biology and deep learning. His skill-sets are whithin the areas of molecular metabolism and computer science. He is endlessly curious about understanding the deep underlying order within complex biological systems. Therefore, he applies machine and deep learning algorithms for pattern discovery in biological data, followed by experimental validation.   
 
+See [Full bio here]({{ site.baseurl }}/Deep-Q-Learning-Implementation-part-2/)		[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 100px;"/>]({{ site.baseurl }}/Deep-Q-Learning-Implementation-part-2/)
+
 
 ### Åsa Segerstolpe, Head of Applied Research 
 Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works in single RNA-seq and development of high throughput methods for systems biology.
