@@ -57,10 +57,10 @@ Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf){:target="_blank"
 
 # Education
 
-- 2018-present, [CSAIL - MIT](https://www.csail.mit.edu/){:target="_blank"}, [Kellis Lab @ MIT Computer Science and Broad Institute](http://compbio.mit.edu/compbio.html){:target="_blank"}, Postdoctoral Associate, Metabolism and Computational biology
-- 2017, [FyFa, Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, Postdoctoral Associate, Metabolism and Computational biology  
-- 2012-2017, [FyFa, Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, PhD student, Metabolism and Computational biology 
-- 2009-2011, [Biochemistry and Biophysics Dept, Stockholm University](https://ki.se/en/fyfa/startpage){:target="_blank"}, MSc Chemistry and Neurochemistry 
+- 2018-present, [Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/){:target="_blank"}, [Kellis Lab @ MIT Computer Science and Broad Institute](http://compbio.mit.edu/compbio.html){:target="_blank"}, Postdoctoral Associate, Metabolism and Computational biology
+- 2017, [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, Postdoctoral Associate, Metabolism and Computational biology  
+- 2012-2017, [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, PhD student, Metabolism and Computational biology 
+- 2009-2011, [Stockholm University, Dept of Neurochemistry, Chemistry section](https://www.kemi.su.se/utbildning/masterprogram/neurokemi-med-molekyl%C3%A4r-neurobiologi){:target="_blank"}, MSc in Chemistry and Neurochemistry 
 - 2002-2008, [Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}, Medicine  
 
 # Contact
