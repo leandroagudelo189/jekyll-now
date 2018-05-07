@@ -15,8 +15,6 @@ Renesence labs is an educational, research and open-source organization whose pr
 
 With the advent of deep learning, the world is changing at an increasing pace. Given this dynamism, we want to curate and document the process of learning how to learn :)
 
-### Location 
-We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target="_blank"} and [Boston](https://goo.gl/maps/C9Ra8WjCXdx){:target="_blank"}
 
 
 # The Founders
@@ -27,6 +25,10 @@ Leandro is a postdoctoral associate at the [Computer Science and Artificial Inte
 ### Åsa Segerstolpe, Head of Applied Research 
 Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works in single RNA-seq and development of high throughput methods for systems biology.
 
+
+
+### Location 
+We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target="_blank"} and [Boston](https://goo.gl/maps/C9Ra8WjCXdx){:target="_blank"}
 
 
 # Research interest
