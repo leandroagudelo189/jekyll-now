@@ -30,12 +30,12 @@ See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
 
 See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)	
 
-### Location 
-We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target="_blank"} and [Boston](https://goo.gl/maps/C9Ra8WjCXdx){:target="_blank"}
-
 
 # Contact
 
 - [contact@renesence.com](mailto:email@domain.com)
 - [leandroagudelo189@gmail.com](mailto:email@domain.com)
  and currently waiting for [leandroagudelo@csail.mit.edu](mailto:email@domain.com)
+
+### Location 
+We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target="_blank"} and [Boston](https://goo.gl/maps/C9Ra8WjCXdx){:target="_blank"}
