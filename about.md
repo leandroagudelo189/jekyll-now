@@ -48,3 +48,5 @@ See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)
 
 ### Location 
 We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target="_blank"} and [Boston](https://goo.gl/maps/C9Ra8WjCXdx){:target="_blank"}
+
+### [Terms of Use](https://app.termly.io/document/terms-of-use-for-website/216f94cc-bf38-4d06-955d-e28045c1699d){:target="_blank"}
