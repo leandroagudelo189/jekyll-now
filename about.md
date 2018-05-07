@@ -22,8 +22,6 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 <br />
 
 
-
-
 ### THE FOUNDERS
 
 ### [Leandro Agudelo PhD, Head of Research]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
