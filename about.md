@@ -19,7 +19,7 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 
 
 <br />
-<pre>
+<br />
 
 
 
