@@ -38,6 +38,12 @@ See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
 See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)	
 
 
+<br />
+<br />
+
+
+
+
 # Contact
 
 - [contact@renesence.com](mailto:email@domain.com)
