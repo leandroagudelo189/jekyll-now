@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Leandro Agudelo, Head of Research'
+title: 'Leandro Agudelo PhD, Head of Research'
 published: true
 ---
 
