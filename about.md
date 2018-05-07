@@ -42,8 +42,6 @@ See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)
 <br />
 
 
-
-
 # Contact
 
 - [contact@renesence.com](mailto:email@domain.com)
