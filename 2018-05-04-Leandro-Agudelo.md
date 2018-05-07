@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leandro Agudelo PhD
+title: 'Leandro Agudelo, PhD'
 published: true
 ---
 
