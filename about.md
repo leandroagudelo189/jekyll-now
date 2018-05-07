@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About us (in development)
+title: About us
 permalink: /about/
 published: true
 ---
+
+### We are currently in development
 
 Renesence labs is an educational, research and open-source organization whose primary goals are:
 
