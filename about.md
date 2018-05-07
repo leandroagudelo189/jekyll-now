@@ -24,10 +24,10 @@ Leandro is a postdoctoral associate at the [Computer Science and Artificial Inte
 See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)		
 
 
-### [Åsa Segerstolpe PhD, Head of Applied Research ]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
+### [Åsa Segerstolpe PhD, Head of Applied Research ]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)
 Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works in single RNA-seq and development of high throughput methods for systems biology.
 
-See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)	
+See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)	
 
 ### Location 
 We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target="_blank"} and [Boston](https://goo.gl/maps/C9Ra8WjCXdx){:target="_blank"}
