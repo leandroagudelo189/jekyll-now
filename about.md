@@ -5,23 +5,23 @@ permalink: /about/
 published: true
 ---
 
-### (We are currently in development)
-
-Renesence labs is an educational, research and open-source organization whose primary goals are:
-
-### Research
-
-- Develop allostatic deep learning systems that combine both reinforcement learning and evolutionary strategies
-
-- Develop hybrid deep learning algorithms suitable for understanding complex biological networks 
-
-- Metabolic systems are one of the most allostatic networks by nature..
+(We are currently in development). Renesence labs is an educational, research and open-source organization whose primary goals are:
 
 ### Education
 
 With the advent of deep learning, the world is changing at an increasing pace. Given this dynamism and because we believe in a culture of learning and development, we want to curate, document, implement and ameliorate machine and deep learning techniques that can be applied for automated scientific discovery. We firmly believe that this method will not only improve the process of learning how to learn but also help us finding new solutions to existing problems.
 
 focus on answering fundamental biological questions, disease mechanisms, evolutionary biological strategies. We want to borrow from this process to apply flexibilityin DL
+
+### Research
+
+- Develop allostatic deep learning systems that combine both reinforcement learning and evolutionary strategies
+
+- Metabolic systems are one of the most allostatic networks by nature..
+
+### Applied Research
+
+- Develop hybrid deep learning algorithms suitable for understanding complex biological networks 
 
 <br />
 
@@ -39,9 +39,6 @@ See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
 See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)	
 
 
-<br />
-
-
 # Contact
 
 - [contact@renesence.com](mailto:email@domain.com)
@@ -54,4 +51,4 @@ We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target
 
 
 
-### [Terms of Use](https://app.termly.io/document/terms-of-use-for-website/216f94cc-bf38-4d06-955d-e28045c1699d){:target="_blank"}
+#### [Terms of Use](https://app.termly.io/document/terms-of-use-for-website/216f94cc-bf38-4d06-955d-e28045c1699d){:target="_blank"}
