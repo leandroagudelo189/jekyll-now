@@ -33,7 +33,7 @@ See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
 
 
 ### [Åsa Segerstolpe, PhD]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)
-Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works developing high throughput methods for systems biology. Åsa has extensive experience with single-RNA seq and RNA biology. She is currently interested in understanding complex regulatory circuits in type-1 and type-2 diabetes.
+Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works developing high throughput methods for systems biology. Åsa has extensive experience with single-RNA seq and RNA biology. She is currently interested in understanding complex regulatory circuits in type-1 and type-2 diabetes. Åsa is also involved in the human cell atlas project, where the goal is to map individually all human cells. This will be a step forward towards our understanding of several disease processes. 
 
 See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)	
 
