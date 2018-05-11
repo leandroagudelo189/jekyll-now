@@ -34,7 +34,7 @@ See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
 
 
 ### [Åsa Segerstolpe PhD, Head of Applied Research ]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)
-Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works in single RNA-seq and with development of high throughput methods for systems biology.
+Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works developing high throughput methods for systems biology. Åsa has extensive experience with single-RNA seq and RNA biology. She is currently interested in understanding complex regulatory circuits in type-1 and type-2 diabetes.
 
 See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)	
 
