@@ -11,7 +11,6 @@ published: true
 
 With the advent of deep learning, the world is changing at an increasing pace. Given this dynamism and because we believe in a culture of learning and development, we want to curate, document, implement and ameliorate machine and deep learning techniques that can be applied for automated scientific discovery. We firmly believe that this method will not only improve the process of learning how to learn but also help us finding new solutions to existing problems.
 
-focus on answering fundamental biological questions, disease mechanisms, evolutionary biological strategies. We want to borrow from this process to apply flexibilityin DL
 
 ### Research
 
