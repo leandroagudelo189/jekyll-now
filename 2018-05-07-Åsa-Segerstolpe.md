@@ -28,7 +28,7 @@ published: true
 
 - Kallberg Y, SEGERSTOLPE Å, Lackmann F, Persson B and Wieslander L. Evolutionary conservation of the ribosomal biogenesis factor Rbm19/Mrd1: implications for function. PLoS One, 2012
 
--  Lundkvist P, Jupiter S, SEGERSTOLPE Å, Osheim YN, Beyer AL and Wieslander L. Mrd1p is required for release of base-paired U3 snoRNA within the preribosomal complex. Molecular and Cellular Biology, 2009
+- Lundkvist P, Jupiter S, SEGERSTOLPE Å, Osheim YN, Beyer AL and Wieslander L. Mrd1p is required for release of base-paired U3 snoRNA within the preribosomal complex. Molecular and Cellular Biology, 2009
 2009
 
 - SEGERSTOLPE Å, Lundkvist P, Osheim YN, Beyer AL and Wieslander L. Mrd1p binds to pre-rRNA early during transcription independent of U3 snoRNA and is required for compaction of the pre-rRNA into small subunit processomes. Nucleic Acids Research, 2008
