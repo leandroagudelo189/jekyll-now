@@ -11,7 +11,7 @@ published: true
 
 - Develpment of single-cell high throughput methods
 - Understanding disease circuitry in type-1 and type-2 diabetes
-- Understanding how single cells work together. She believes that mapping individual cellular profiles will provide interconnected networks whose disruption are at the basis of many pathological processes
+- Mapping individual cellular profiles will generate a better understanding of how single cells work together and how thesse interconnected networks are disrupted during pathological processes
 
 
 # Publications
