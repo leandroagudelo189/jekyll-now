@@ -16,7 +16,6 @@ With the advent of deep learning, the world is changing at an increasing pace. G
 
 - Develop allostatic deep learning systems that combine both reinforcement learning and evolutionary strategies
 
-- Metabolic systems are one of the most allostatic networks by nature..
 
 ### Applied Research
 
