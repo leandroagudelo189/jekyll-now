@@ -4,7 +4,8 @@ title: About us
 permalink: /about/
 published: true
 ---
-#### We are currently in development. We hope to see you back when we are up and running :) (enquiries for careers prospects, funding and investment opportunities @ [contact@renesence.com](mailto:email@domain.com)
+#### We are currently in development. We hope to see you back when we are up and running :) 
+#### (enquiries for careers prospects, funding and investment opportunities, please refer to [contact@renesence.com](mailto:email@domain.com))
 
 
 Renesence labs is an educational, research and open-source organization whose primary goals are:
