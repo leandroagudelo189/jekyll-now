@@ -4,7 +4,7 @@ title: About us
 permalink: /about/
 published: true
 ---
-#### We are currently in development. We hope to see you back when we are up and running. Enquiries for careers prospects, funding and investment opportunities, please refer to [contact@renesence.com](mailto:email@domain.com)
+#### We are currently in development. We hope to see you back when we are up and running. Enquiries for career prospects, funding and investment opportunities, please refer to [contact@renesence.com](mailto:email@domain.com)
 
 
 Renesence labs is an educational, research and open-source organization whose primary goals are:
@@ -51,4 +51,4 @@ We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target
 
 
 
-#### [Terms of Use Copyright © Renesence labs 2018](https://app.termly.io/document/terms-of-use-for-website/216f94cc-bf38-4d06-955d-e28045c1699d){:target="_blank"} 
+#### [Terms of Use Copyright © Renesence labs 2018](https://app.termly.io/document/terms-of-use-for-website/216f94cc-bf38-4d06-955d-e28045c1699d){:target="_blank"}
