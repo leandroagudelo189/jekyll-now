@@ -9,7 +9,7 @@ published: true
 
 
 
-# Further reading
+# References
 
 - [Reinforcement learning I: introduction](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.32.7692){:target="_blank"}, by Sutton et al. 
 
@@ -37,5 +37,4 @@ published: true
 
 - [Artificial intelligence A-Z handbook](https://www.superdatascience.com/wp-content/uploads/2017/05/AI_AZ_Handbook_Kickstarter.pdf){:target="_blank"}, by de Ponteves et al.
 
-- [Deep reinforcement learining course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#hth){:target="_blank"}, by Simonini 
-
+- [Deep reinforcement learining course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#hth){:target="_blank"}, by Simonini
