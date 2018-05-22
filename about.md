@@ -14,14 +14,9 @@ Given our believe that the creation of long-term solutions entails long-term end
 Existing deep learning models lack allostatic strategies. In addition, current systems offer great performance in narrow environment or applications. This means that deep reinforcement learning or evolutionary strategies fail to integrate responses across multiple non-related environments. In fact, there is no viable long-term memory approach for multi-environment integration. Training these systems remains very expensive, even for approaches that mimic natural selection such as genetic algorithms. Interestingly, biological systems have solved the problem of integrating massive tons of data with a long-term memory response for a particular environment in mainly two ways... low entropy information and transcriptional encoding. Fortunately, our understanding of biological/cellular systems that have evolved long-term memory encoding via genetic transcription makes them suitable for multi-environment integration.
 
 - Develop allostatic deep learning systems that emulate transcriptional encoding
-- Develop systems that pre-process data to increase their redundancy. This allows us to use deep autoencoders or compressive algorithm to keep low-entropy models.
+- Develop systems that pre-process data to increase their redundancy. This allows us to use deep autoencoders or compressive algorithm to keep low metric entropy models.
 - Develop deep learning systems that combine reinforcement learning and evolutionary strategies
 - Develop hybrid deep learning algorithms for unsupervised tasks
-
- 
-In addition, biological systems such as genomic data has a lot of commonalities/redundancy, which explains their low metric entropy. This allows the use of compressive algorithms for reconstitution
-
-
 
 
 # Applied Research
