@@ -6,15 +6,21 @@ published: true
 ---
 #### We are currently in development. We hope to see you back when we are up and running. Enquiries for career prospects, funding and investment opportunities, please refer to [contact@renesence.com](mailto:email@domain.com)
 
-
-Renesence labs is a research and educational organization whose primary goals are:
-
+Given our believe that the creation of long-term solutions entails long-term endeavours, renesence labs embrace scientific discovery with research and education. We are an organization whose primary goals are:
 
 
 # Research
 
-- Develop allostatic deep learning systems that combine reinforcement learning and evolutionary strategies
-- 
+Existing deep learning models lack allostatic strategies. In addition, current systems offer great performance in narrow environment or applications. This means that deep reinforcement learning or evolutionary strategies fail to integrate responses across multiple non-related environments. In fact, there is no viable long-term memory approach for multi-environment integration. Training these systems remains very expensive, even for approaches that mimic natural selection such as genetic algorithms. Interestingly, biological systems have solved the problem of integrating massive tons of data with long-term memory of a particular response in mainly two ways.  Fortunately, our understanding of biological/cellular systems that have evolved long-term memory encoding via genetic transcription makes them suitable for multi-environment integration.
+
+- Allostatic deep learning systems that emulate transcriptional encoding
+- Develop deep learning systems that combine reinforcement learning and evolutionary strategies
+- Develop hybrid deep learning algorithms for unsupervised tasks
+
+ 
+In addition, biological systems such as genomic data has a lot of commonalities/redundancy, which explains their low metric entropy. This allows the use of compressive algorithms for reconstitution
+
+
 
 
 # Applied Research
