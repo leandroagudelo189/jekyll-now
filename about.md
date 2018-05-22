@@ -32,9 +32,8 @@ With the renascence of machine and deep learning, the world is changing at an in
 
 # The Founders
 ### [Leandro Agudelo, PhD]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
-Leandro is a postdoctoral associate at the [Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology](https://www.csail.mit.edu/){:target="_blank"} in [Manolis Kellis lab](http://compbio.mit.edu/compbio.html){:target="_blank"}, where he works at the intersection between metabolism, transcriptional regulation, computational biology and deep learning. His skill-sets are whithin the areas of molecular biology and computer science so he integrates them to understand the deep underlying order within complex biological systems. He applies machine and deep learning algorithms for pattern discovery in biological data, followed by experimental validation. On the other hand,    
+Leandro is a postdoctoral associate at the [Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology](https://www.csail.mit.edu/){:target="_blank"} in [Manolis Kellis lab](http://compbio.mit.edu/compbio.html){:target="_blank"}, where he works at the intersection between metabolism, transcriptional regulation, computational biology and deep learning. His skill-sets are whithin the areas of molecular biology and computer science so he integrates them to understand the deep underlying order within complex biological systems. On the one hand, he applies machine and deep learning algorithms for pattern discovery in biological data, followed by experimental validation. On the other hand, he aims at emulating strategies from evolutionary molecular adaptations to improve existing machine and deep learning systems.  
 
-he also borrow exmaples from evolutionary adaptations that have built through millenia low-entropy models so rich in biological and metabolic networks
 
 See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)		
 
