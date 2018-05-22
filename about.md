@@ -11,13 +11,13 @@ Given our believe that the creation of long-term solutions entails long-term end
 
 # Research
 
-Existing machine and deep learning models lack allostatic strategies. In addition, current systems offer great performance in narrow environment or applications. This means deep reinforcement learning or evolutionary strategies fail to integrate responses across multiple non-related environments. In fact, there is no viable long-term memory approach for multi-environment integration. Training these systems remains very expensive, even for approaches that mimic natural selection such as genetic algorithms. Interestingly, biological systems have developed solutions for integrating massive tons of data with encoded responses that can last many generations and can be used in different environments. Among the solutions offering better evolutionary outcomes are comparmentalization of specific tasks, development of low entropy models at quasi equilibrium and transcriptional encoding of information for memory recall. In line with this, we aim at applying our understanding of biological, metabolic and cellular systems to develop machine and deep learning models that mimic long-term transcriptional encoding. We believe which makes them suitable for multi-environment integration.
+Existing machine and deep learning models lack allostatic strategies. In addition, current systems offer great performance in narrow environment or applications. This means deep reinforcement learning or evolutionary strategies fail to integrate responses across multiple non-related environments. In fact, there is no viable long-term memory approach for multi-environment integration. Training these systems remains very expensive, even for approaches that mimic natural selection such as genetic algorithms. Interestingly, biological systems have developed solutions for integrating massive tons of data with encoded responses that can last many generations and can be used in different environments. Among the solutions offering better evolutionary outcomes are comparmentalization of specific tasks, development of low entropy models at quasi equilibrium and transcriptional encoding of information for memory recall. In line with this, we aim at applying our understanding of biological, metabolic and cellular systems to develop machine and deep learning models that mimic long-term transcriptional encoding. We believe this scientific journey would be a step closer to the generation of agents suitable for multi-environment integration.
 
 - Develop allostatic deep learning systems that emulate transcriptional encoding
 - Develop low-metric entropy models that pre-process data to increase their redundancy or commonality. We complement this with the use of deep autoencoders or compressive algorithms for reconstitution of learned tasks. 
 - Develop deep learning systems that combine reinforcement learning and evolutionary strategies
 - Develop hybrid deep learning algorithms for unsupervised tasks
-- Develop environments
+- Develop 3d machine learning environments suitable for visualization and assessment of complex biological data
 
 
 # Applied Research
