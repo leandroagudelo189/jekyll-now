@@ -23,13 +23,16 @@ body {
   color: #bfbfbf;
 }
 
-bg { 
-    background-image: url('leandroagudelo189.github.io/images/somm.jpg') no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-} 	
+bg {
+      position: fixed;
+      top: 1em;
+      right: 30%;
+      bottom: 0;
+      left: 30%;
+      margin: 0 -600px;
+      background-size: cover;
+      z-index: -1;
+}
 
 .container {
   margin: 0 auto;
