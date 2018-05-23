@@ -23,6 +23,14 @@ body {
   color: #bfbfbf;
 }
 
+bg { 
+    background: url(leandroagudelo189.github.io/images/somm.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 	
+
 .container {
   margin: 0 auto;
   max-width: 840px;
@@ -153,13 +161,7 @@ img {
 .wrapper-masthead {
   margin-bottom: 50px;
 
-  bg { 
-    background: url(leandroagudelo189.github.io/images/somm.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  } 	
+  
 }
 
 .masthead {
