@@ -161,14 +161,15 @@ img {
   @include mobile {
     text-align: center;
   }
+  bg { 
+    background: url(leandroagudelo189.github.io/images/somm.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } 
+		
 }
-bg { 
-  background: url(leandroagudelo189.github.io/images/somm.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-} 
 
 
 .site-avatar {
