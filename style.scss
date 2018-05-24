@@ -25,7 +25,7 @@ body {
 
 bg2 {
       position: fixed;
-      top: 1em;
+      top: 0em;
       right: 30%;
       bottom: 0;
       left: 30%;
@@ -44,11 +44,12 @@ bg2 {
     background-size: cover;
     position: fixed;
     top: 0em;
-    right: 0%;
+    right: 30%;
     bottom: 0;
-    left: 0%;
-    margin: -600 -600px; 
-    z-index: -1;	
+    left: 30%;
+    margin: 0 -600px;
+      
+    z-index: -1;
 }
 
 .container {
