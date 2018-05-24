@@ -5,3 +5,12 @@ layout: research
 <bg>	  
     <img src="leandroagudelo189.github.io/images/aquarium-2.jpg" width="100%" height="auto" border="0" alt="">   
 </bg>  		
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>		
