@@ -35,14 +35,20 @@ bg2 {
 }
 
 .bg {
-    /* The image used */
-    background-image: url("https://raw.githubusercontent.com/leandroagudelo189/leandroagudelo189.github.io/master/images/nebula.jpg");
+  
     /* Full height */
     height: 30%; 
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    position: fixed;
+    top: 1em;
+    right: 30%;
+    bottom: 0;
+    left: 30%;
+    margin: 0 -600px; 
+    z-index: -1;	
 }
 
 .container {
