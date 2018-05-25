@@ -45,8 +45,6 @@ bg2 {
 
 .bg {
 	 
-   
-  
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
   
@@ -68,16 +66,9 @@ bg2 {
    */
 }
 
-/* For mobile devices */
-@media only screen and (max-width: 767px) {
-  .bg {
-    /* The file size of this background image is 93% smaller
-     * to improve page load speed on mobile internet connections */
-    
-  }
-	}
+
 	
-}
+
 
 .center {
     display: block;
