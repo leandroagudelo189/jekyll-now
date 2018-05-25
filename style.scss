@@ -23,40 +23,35 @@ body {
   color: #bfbfbf;
 }
 
-bg2 {
-      position: fixed;
-      top: 0em;
-      right: 30%;
-      bottom: 0;
-      left: 30%;
-      margin: 0 -600px;
-      
-      z-index: -1;
-       width: 2000px;
-	  height: 100%;
-	  position: absolute;
-	  top: -1em;
-	  right: 10%;
-	  bottom: 0;
-	  left: 50%;
-	  margin:  0px -700px;
-	  z-index: -1;	
+bg {
+    /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;   
 }
 
 .bg {
-	 
-  /* Image is centered vertically and horizontally at all times */
-  background-position: center center;
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;   	 
   
-  /* Image doesn't repeat */
-  background-repeat: no-repeat;
-  
-  /* Makes the image fixed in the viewport so that it doesn't move when 
-     the content height is greater than the image height */
-  background-attachment: fixed;
-  
-  /* This is what makes the background image rescale based on its container's size */
-  background-size: cover;
  
   z-index: -1;
  
