@@ -52,6 +52,13 @@ bg2 {
     z-index: -1;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .container {
   margin: 0 auto;
   max-width: 860px;
