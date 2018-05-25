@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master }}/images/sdae.png "an image title")
 
 # Study notes AutoEncoders 
