@@ -32,10 +32,7 @@ bg2 {
       margin: 0 -600px;
       
       z-index: -1;
-}
-
-.bg {
-	  width: 2000px;
+       width: 2000px;
 	  height: 100%;
 	  position: absolute;
 	  top: -1em;
@@ -43,7 +40,43 @@ bg2 {
 	  bottom: 0;
 	  left: 50%;
 	  margin:  0px -700px;
-	  z-index: -1;
+	  z-index: -1;	
+}
+
+.bg {
+	 
+   
+  
+  /* Image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Image doesn't repeat */
+  background-repeat: no-repeat;
+  
+  /* Makes the image fixed in the viewport so that it doesn't move when 
+     the content height is greater than the image height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based on its container's size */
+  background-size: cover;
+  
+  /* Pick a solid background color that will be displayed while the background image is loading */
+  background-color:#464646;
+  
+  /* SHORTHAND CSS NOTATION
+   * background: url(background-photo.jpg) center center cover no-repeat fixed;
+   */
+}
+
+/* For mobile devices */
+@media only screen and (max-width: 767px) {
+  .bg {
+    /* The file size of this background image is 93% smaller
+     * to improve page load speed on mobile internet connections */
+    
+  }
+	}
+	
 }
 
 .center {
