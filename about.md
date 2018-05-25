@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About us
 permalink: /about/
 published: true
