@@ -4,7 +4,13 @@ title: About us
 permalink: /about/
 published: true
 ---
-#### We are currently in development. We hope to see you back when we are up and running. Enquiries for career prospects, funding and investment opportunities, please refer to [contact@renesence.com](mailto:email@domain.com)
+
+<br />
+> We don't know, but we are willing to find out -Charles F. Kettering
+
+<br />
+
+__We are currently in development. We hope to see you back when we are up and running. Enquiries for career prospects, funding and investment opportunities, please refer to [contact@renesence.com](mailto:email@domain.com)
 
 Given our believe that the creation of long-term solutions entails long-term endeavours, renesence labs embrace scientific discovery with research and education. We are an organization whose primary goals are:
 
