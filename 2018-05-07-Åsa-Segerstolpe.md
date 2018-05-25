@@ -3,7 +3,7 @@ layout: post
 title: ''
 published: true
 ---
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 # Åsa Segerstolpe, PhD
 Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works developing high throughput methods for systems biology. Åsa has extensive experience with single-RNA seq and RNA biology. She is currently interested in understanding complex regulatory circuits in type-1 and type-2 diabetes.
 
