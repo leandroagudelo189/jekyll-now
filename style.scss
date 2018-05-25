@@ -35,7 +35,8 @@ bg {
   /* Set up positioning */
   position: fixed;
   top: 0;
-  left: 0;   
+  left: 0;
+  z-index: -1;
 }
 
 .bg {
