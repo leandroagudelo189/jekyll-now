@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About us
+title: ""
 permalink: /about/
 published: true
 ---
