@@ -42,12 +42,12 @@ bg2 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: fixed;
-    top: 6em;
+    position: absolute;
+    top: 16em;
     right: 0%;
     bottom: 0;
-    left: 24%;
-    margin: -600px;
+    left: 40%;
+    margin: -800px;
       
     z-index: -1;
 }
