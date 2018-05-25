@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-	
-	
+  
   <head>
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
@@ -16,12 +15,10 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-	  
-	  
   </head>
-  
-  
-  <body>	  
+
+  <body>
+    
     <div class="wrapper-masthead" >
       <div class="container">
         <header class="masthead clearfix">
@@ -44,12 +41,14 @@
       </div>
     </div>
 	  
-    <div class='bg'>	  
-    	<img src="leandroagudelo189.github.io/images/aquarium-2.jpg" width="100%" height="auto" border="0" alt="">   
-    </div>  				  
     
-	  <img src="leandroagudelo189.github.io/images/aquarium-2.jpg" width="100%" height="auto" border="0" alt="">
-	  
+    <img src="leandroagudelo189.github.io/images/aquarium-2.jpg" width="100%" height="auto" border="0" alt="">
+   
+  
+    <div id="main" role="main" class="container">
+           {{ content }}
+    </div>
+       
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
@@ -58,10 +57,6 @@
       </div>
     </div>
 
-    {% include analytics.html %}	  
+    {% include analytics.html %}
   </body>
-
 </html>
-
-
-  
