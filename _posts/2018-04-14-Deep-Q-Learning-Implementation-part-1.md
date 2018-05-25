@@ -2,7 +2,7 @@
 published: true
 ---
 
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 ![an image alt text]({{ leandroagudelo189.github.io/tree/master}}/images/deep-q-implementation.jpg "an image title")
 
