@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: About us
 permalink: /about/
 published: true
