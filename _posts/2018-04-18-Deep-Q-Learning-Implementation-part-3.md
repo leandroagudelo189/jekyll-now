@@ -2,7 +2,7 @@
 published: true
 ---
 
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 We start by taking a look into the kivy file where we can customize some of the environment parameters. Please visit [Kivy tutorials](https://kivy.org/docs/tutorials/pong.html){:target="_blank"}. for more information.
 
 ```python
