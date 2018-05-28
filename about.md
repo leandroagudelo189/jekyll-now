@@ -6,9 +6,6 @@ published: true
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <br />
-> "We don't know, but we are willing to find out" -Charles F. Kettering
-
-<br />
 
 #### We are currently in development. We hope to see you back when we are up and running. Enquiries for career prospects, funding and investment opportunities, please refer to [contact@renesence.com](mailto:email@domain.com)
 <br />
