@@ -50,4 +50,4 @@ We are currently located in [Stockholm](https://goo.gl/maps/3wWs6dNhyyj){:target
 
 <br />
 
-#### [Terms of Use Copyright © Renesence labs 2018](https://app.termly.io/document/terms-of-use-for-website/216f94cc-bf38-4d06-955d-e28045c1699d){:target="_blank"}
+
