@@ -1,19 +1,20 @@
 
 .highlight {
-  background-color: #282a2e;
+  background-color: #16191c;
   padding: 0px 0px 0px 0px;
-  border: 0.5px solid #ddd;
-  -moz-box-shadow: 0px 0px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 0px 0px rgba(0,0,0,0.1);
-  box-shadow: 0px 0px rgba(0,0,0,0.1);
-  margin: 0px  0px ;
+  border: 0.5px solid #16191c;
+  -moz-box-shadow: 0px 0px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0px 0px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px rgba(0, 0, 0, 0.1);
+  margin: 10px 10px;
   overflow: auto;
 }
+
 pre,
 code {
-  background-color: #282a2e;
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
-  font-size: 14px;
+  background-color: #16191c;
+  font-family: 'Bitstream Vera Sans Mono','Courier', monospace;
+  font-size: 16px;
 }
 
 .highlight .c { color: #cc6666 } /* Comment */
