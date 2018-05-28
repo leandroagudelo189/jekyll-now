@@ -23,7 +23,7 @@ Existing machine and deep learning models lack allostatic strategies. In additio
 
 # Education
 
-With the renascence of machine and deep learning, the world is changing at an increasing pace. Given this dynamism and because we believe in a culture of learning and development, we want to curate, document, implement and ameliorate machine and deep learning techniques that can be applied for automated scientific discovery. We firmly believe that this method will improve the process of learning how to learn and help us finding new solutions to existing problems.
+With the renascence of machine and deep learning, the world is changing at an increasing pace. Given this dynamism and because we believe in a culture of learning and development, we want to curate, document, implement and ameliorate machine and deep learning techniques that can be applied for automated scientific discovery. We firmly believe that this method will improve the process of learning how to learn and the process of finding new solutions to existing problems.
 
 
 # The Founders
