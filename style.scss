@@ -254,7 +254,7 @@ img {
 .site-description {
   margin: -1px 0 0 0;
   color: #a6a6a6;
-  font-size: 16px;
+  font-size: 14px;
   letter-spacing: 2px;
 	
   @include mobile {
@@ -267,7 +267,7 @@ nav {
   margin-top: 21px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 15px;
-	letter-spacing: 2px;
+	letter-spacing: 1px;
 
   @include mobile {
     float: none;
