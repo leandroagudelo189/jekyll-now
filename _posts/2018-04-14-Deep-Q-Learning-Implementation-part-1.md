@@ -271,7 +271,7 @@ This is the class that integrates our model making use of the previous classes. 
 In the update function the main goal is to obtain the weights. They are calulated from the loss function with respect to the actions giving the highest reward. Therefore, anytime the agent reaches a new state we need to update the model. This means that once an action is selected we need to update all the actions of the transition/batch.
 We then append this to our memory and follow-up the reward to see how the training is going.
 In sum, we use the select-function and we integrate it with the update function to choose the best action.
-<br>
+<br />
 
 ```python
 
