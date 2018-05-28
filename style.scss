@@ -248,8 +248,8 @@ img {
   color: #a6a6a6;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 400;
-  font-size: 25px;
+  font-weight: 300;
+  font-size: 28px;
   letter-spacing: 4px;
 }
 
@@ -258,6 +258,7 @@ img {
   color: #ddd;
   font-size: 15.5px;
   letter-spacing: 2px;
+ font-weight: 300;
 	
   @include mobile {
     margin: 10px 0;
@@ -268,8 +269,9 @@ nav {
   float: right;
   margin-top: 21px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 15px;
+  font-size: 16px;
 	letter-spacing: 1px;
+	font-weight: 300;
 
   @include mobile {
     float: none;
@@ -282,7 +284,7 @@ nav {
     margin-left: 14px;
     color: #ddd;
     text-align: right;
-    font-weight: 500;
+    font-weight: 400;
     letter-spacing: 1.5px;
 
     @include mobile {
