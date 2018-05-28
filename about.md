@@ -10,7 +10,7 @@ published: true
 
 <br />
 
-### We are currently in development. We hope to see you back when we are up and running. Enquiries for career prospects, funding and investment opportunities, please refer to [contact@renesence.com](mailto:email@domain.com)
+#### We are currently in development. We hope to see you back when we are up and running. Enquiries for career prospects, funding and investment opportunities, please refer to [contact@renesence.com](mailto:email@domain.com)
 <br />
 We believe in the creation of long-term solutions with long-term endeavours. For this reason, renesence labs embrace scientific discovery with research and education. We are an organization whose primary goals are:
 
