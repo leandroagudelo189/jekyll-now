@@ -21,6 +21,7 @@ If you're all set-up, let's first create the classes for the agent.
 # A. Autonomous Agent
 
 We start by importing the libraries we will be using.
+<br>
 
 ```python
 
@@ -42,6 +43,7 @@ from torch.autograd import Variable
 # 1. The architecture
 
 Now, we will create the network class. This class contains the architecture of the neural network, the number of hidden layers and their activation function. 
+<br>
 
 ```python
 
@@ -87,6 +89,7 @@ class Network(nn.Module): # we are doing inheritance of a the parent class Modul
 # 2. Experience replay
 
 This class will help our agent to learn better the weights, even in the absence of variations from the incomming inputs. It will make an approximation (sample) of previous similar states as inputs (in batches or series of events). In sum, it saves state-transitions in an artificial memory.
+<br>
 
 ```python
 
@@ -160,13 +163,14 @@ class ReplayMemory(object):
 # 3. Deep Q-learning Network
 
 This is the class that integrates our model making use of the previous classes. We will have 7 different functions including:
- 1. The __init__ function that creates the objects of our model
- 2. A function to select the best action (softmax())
- 3. A function where we carry out backpropagation
- 4. A function where we update the weights
- 5. A function to score the mean of the rewards
- 6. A function to save the model in a pth file for re-training
- 7. A funtion to load the last saved model
+- The __init__ function that creates the objects of our model
+- A function to select the best action (softmax())
+- A function where we carry out backpropagation
+- A function where we update the weights
+- A function to score the mean of the rewards
+- A function to save the model in a pth file for re-training
+- A funtion to load the last saved model
+<br>
  
  ```python
  
@@ -263,9 +267,11 @@ This is the class that integrates our model making use of the previous classes. 
         
  
  ```
+ <br>
 In the update function the main goal is to obtain the weights. They are calulated from the loss function with respect to the actions giving the highest reward. Therefore, anytime the agent reaches a new state we need to update the model. This means that once an action is selected we need to update all the actions of the transition/batch.
 We then append this to our memory and follow-up the reward to see how the training is going.
 In sum, we use the select-function and we integrate it with the update function to choose the best action.
+<br>
 
 ```python
 
