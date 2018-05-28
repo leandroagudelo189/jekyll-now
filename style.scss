@@ -255,8 +255,8 @@ img {
 
 .site-description {
   margin: -1px 0 0 0;
-  color: #a6a6a6;
-  font-size: 14px;
+  color: #ddd;
+  font-size: 15.5px;
   letter-spacing: 2px;
 	
   @include mobile {
@@ -280,10 +280,10 @@ nav {
 
   a {
     margin-left: 14px;
-    color: #a6a6a6;
+    color: #ddd;
     text-align: right;
     font-weight: 500;
-    letter-spacing: 2px;
+    letter-spacing: 1.5px;
 
     @include mobile {
       margin: 0 10px;
