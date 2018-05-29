@@ -61,6 +61,15 @@
     clear: both;
 }    
 	    
+.name {
+  
+  color: #a6a6a6;
+  cursor: pointer;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 4px;
+}
 	    
 	    
 	    
@@ -90,7 +99,7 @@
 
           <div class="site-info">
 	    	  
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <h1 class="site-name">  <a href="{{ site.baseurl }}/">{{ site.name }}</a>   </h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
 	  		
@@ -118,6 +127,10 @@
 	      
 		<div class="row">
 		  <div class="column left">
+			  
+			  <div class="name">
+				  <a href="{{ site.baseurl }}/">{{ site.name }} >Renesence labs</a>
+			  </div> 
 			  
 			  <div class="terms"> 
 	<a href="https://app.termly.io/document/terms-of-use-for-website/216f94cc-bf38-4d06-955d-e28045c1699d" target="_blank">Terms & Conditions</a>
