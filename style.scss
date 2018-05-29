@@ -186,13 +186,17 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+    max-width: none;
   display: block;
   text-align: center;
   display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 190%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 110%;
+   position:    static;
+   margin-left:-5px;
+  
+      
     
 }
 // Fixes images in popup boxes from Google Translate
