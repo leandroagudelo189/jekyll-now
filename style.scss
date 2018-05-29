@@ -386,6 +386,17 @@ nav {
   background-color: #000eb;
   padding: 20px 0;
 }
+
+
+
+@media screen and (max-width: 640px) {
+  .name a{
+   display: block;
+   text-align: center;
+}  
+
+
+
 footer {
   padding: 40px 0;
 
