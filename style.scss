@@ -347,7 +347,7 @@ nav {
 }
 
 .post {
-	blockquote {
+	.blockquote {
   margin: 1em 0em;
   border-left: 1px solid #666;
   padding: 1em 1em;
@@ -363,8 +363,8 @@ nav {
      color: #FF7043;
      text-decoration: none;
    }
- }
-}	
+  }
+
   .comments {
     margin-top: 10px;
   }
