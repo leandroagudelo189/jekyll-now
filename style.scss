@@ -346,18 +346,24 @@ nav {
   border-bottom: none;
 }
 
-.post {
-  blockquote {
-    margin: em em;
-    border-left: px solid $gray;
-    padding: 0em em;
-    color: #797676;
-    font-size: 20px;
-    font-style: italic;
-    letter-spacing: 1px;
-	  font-weight:300;
-  }
-	
+.post blockquote {
+  margin: 1em 0em;
+  border-left: 1px solid #666;
+  padding: 1em 1em;
+  color: #ebebeb;
+  font-size: 18px;
+  font-style:  normal;
+  letter-spacing: 1px;
+  font-weight: 300;
+  text-align: center;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+}
+
+.post blockquote:hover, .post blockquote:active {
+  color: #FF7043;
+  text-decoration: none;
+}
+
   .comments {
     margin-top: 10px;
   }
