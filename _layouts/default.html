@@ -35,6 +35,38 @@
     text-decoration: none;
     }
 
+	    
+       /* Create two unequal columns that floats next to each other */
+.column {
+    float: left;
+    padding: 10px;
+    height: 200px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 50%;
+}
+
+.right {
+  width: 50%;
+  text-align: right;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
     </style>   
 	  
 	  
@@ -81,15 +113,23 @@
     <div class="wrapper-footer">
       <div class="container">
 		
-		<div class="terms"> 
-		   <a href="https://app.termly.io/document/terms-of-use-for-website/216f94cc-bf38-4d06-955d-e28045c1699d" target="_blank">Terms of Use</a>
+	      
+		<div class="row">
+		  <div class="column left">
+			  
+			  <div class="terms"> 
+		   		<a href="https://app.termly.io/document/terms-of-use-for-website/216f94cc-bf38-4d06-955d-e28045c1699d" target="_blank">Terms of Use</a>
+			 </div>
+			 <div class="terms"> Copyright © Renesence labs 2018</div> 
+		   
+		  </div>
+			
+		  <div class="column right" >
+		       {% include svg-icons.html %}
+		  </div>
 		</div>
-		
-               {% include svg-icons.html %}
-		
-		
-		<div class="terms"> Copyright © Renesence labs 2018</div>
-        
+
+
       </div>
     </div>
 
