@@ -10,12 +10,17 @@ published: true
 #### We are currently in development. We hope to see you back when we are up and running. Enquiries for career prospects, funding and investment opportunities, please refer to [contact@renesence.com](mailto:email@domain.com)
 <br />
 We believe in the creation of long-term solutions with long-term endeavours. For this reason, renesence labs embrace scientific discovery with research and education. We are an organization whose primary goals are:
-
+<br>
+  <br>
+  <br>
 
 # Research
 
 Existing machine and deep learning models lack allostatic strategies. In addition, current systems offer great performance in narrow environment or applications. This means deep reinforcement learning or evolutionary strategies fail to integrate responses across multiple non-related environments. In fact, there is no viable long-term memory approach for multienvironment integration. Training these systems remains very expensive, even for approaches that mimic natural selection such as genetic algorithms. 
 [Read more]({{ site.baseurl }}/2018-05-24-Research)
+<br>
+  <br>
+  <br>
 
 # Applied Research
 
@@ -24,7 +29,9 @@ Existing machine and deep learning models lack allostatic strategies. In additio
 # Education
 
 With the renascence of machine and deep learning, the world is changing at an increasing pace. Given this dynamism and because we believe in a culture of learning and development, we want to curate, document, implement and ameliorate machine and deep learning techniques that can be applied for automated scientific discovery. We firmly believe that this method will improve the process of learning how to learn and the process of finding new solutions to existing problems.
-
+<br>
+  <br>
+  <br>
 
 # The Founders
 ### [Leandro Agudelo, PhD]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
@@ -32,13 +39,17 @@ Leandro is a postdoctoral associate at the [Computer Science and Artificial Inte
 
 
 See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)		
-
+<br>
+  <br>
+  <br>
 
 ### [Åsa Segerstolpe, PhD]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)
 Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works developing high throughput methods for systems biology. Åsa has extensive experience with single-RNA seq and RNA biology. She is currently interested in understanding complex regulatory circuits in type-1 and type-2 diabetes. Åsa is also involved in the human cell atlas project, where the goal is to map individually all human cells. This will be a step forward towards our understanding of several disease processes. 
 
 See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)	
-
+<br>
+  <br>
+  <br>
 
 # Contact
 
