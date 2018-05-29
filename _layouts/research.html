@@ -19,28 +19,22 @@
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 	  
     <style>
+	    
 	 .responsive {
 	   
 	    height: auto;
 	}
-    	
-	  
- 
 	 .media {
 	    max-width: 600px;
 	    height: auto;
-	}
-	    
-	    
-	    
+	}     
 	   .title {
   font-size: 30px;
   letter-spacing: 1px;
   font-weight: 400;
   font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
 	text-align: center;
-		   color: $blue;
-		   
+		   color: $blue;		   
   a {
     color: $blue;
   }
@@ -52,7 +46,124 @@
 }   
  
 }	    	    
+	 /* for footer terms and conditions link */   
+	 .terms {
+	font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 300;
+	line-height: 16px;
+		 text-align:left;
+	
+        color: #f2f2f2;
+     }
 	    
+    a:active {
+    color: #4183c4;
+    background-color: none;
+    text-decoration: none;
+    }
+	    
+       /* Create two unequal columns that floats next to each other */
+.column {
+    
+    
+   
+}
+.left {
+  width: 50%;
+  padding: 5px;
+	text-align: left;
+	float: left;
+	
+}
+.right {
+  width: 50%;
+  padding: 5px;
+  text-align: right;
+	float: right;
+	
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+.left {
+  display: block;
+  text-align: center;
+   margin-left: auto;
+    margin-right: auto;
+}
+.right {
+ 
+  text-align: center;
+}
+}
+	    
+	    
+.name {
+  
+  color: #f2f2f2;
+  cursor: pointer;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+  font-weight: 400;
+  font-size: 13.5px;
+  letter-spacing: 2px;
+	 text-align:left;
+}
+@media screen and (max-width: 640px) {
+  .name a{
+   display: block;
+   text-align: center;
+}  
+}  
+	
+.term {
+  
+  color: #f2f2f2;
+  cursor: pointer;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+  font-weight: 400;
+  font-size: 12.5px;
+  letter-spacing: 2px;
+	 text-align:left;
+}
+@media screen and (max-width: 640px) {
+  .term a{
+   display: block;
+   text-align: center;
+}  
+}  	    
+	    
+	    
+.copyright {
+  
+  color: #f2f2f2;
+  cursor: pointer;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 2px;
+	 text-align:left;
+} 
+	    
+ 
+@media screen and (max-width: 640px) { 
+  .copyright {
+     display: block;
+     text-align: center;
+}   
+ 
+}	    
+	        
      </style>
 	  
   </head>
@@ -127,15 +238,34 @@
     <div id="main" role="main" class="container">
            {{ content }}
     </div>
-       
-    <div class="wrapper-footer">
-      <div class="container-b">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+     
+	
+<div class="wrapper-footer">
+      
+	<div class="container-b">
+	      
+		<div class="row">
+		  <div class="column left">
+			  
+			  <div class="name">
+				  <a href="{{ site.baseurl }}/">{{ site.name }} </a>
+			  </div> 
+			  
+			  <div class="term"> 
+	        <a href="https://app.termly.io/document/terms-of-use-for-website/216f94cc-bf38-4d06-955d-e28045c1699d" target="_blank">Terms & Conditions</a>
+			 </div>
+			 <div class="copyright"> © Renesence labs 2018</div> 
+		   
+		  </div>
+			
+		  <div class="column right" >
+		       {% include svg-icons.html %}
+		  </div>
+		</div>
 
+          </div>
+     
+    </div>
     {% include analytics.html %}
   </body>
 </html>
