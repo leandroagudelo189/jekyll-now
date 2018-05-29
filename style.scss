@@ -346,7 +346,8 @@ nav {
   border-bottom: none;
 }
 
-.post blockquote {
+.post {
+	blockquote {
   margin: 1em 0em;
   border-left: 1px solid #666;
   padding: 1em 1em;
@@ -357,13 +358,13 @@ nav {
   font-weight: 300;
   text-align: center;
   font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
-}
 
-.post blockquote:hover, .post blockquote:active {
-  color: #FF7043;
-  text-decoration: none;
-}
-
+  &:hover, &:active {
+     color: #FF7043;
+     text-decoration: none;
+   }
+ }
+}	
   .comments {
     margin-top: 10px;
   }
