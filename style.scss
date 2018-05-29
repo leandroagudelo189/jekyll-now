@@ -263,7 +263,7 @@ img {
   color: #a6a6a6;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 28px;
   letter-spacing: 4px;
 }
@@ -300,7 +300,7 @@ nav {
     margin-left: 19px;
     color: #e2e6e8;
     text-align: right;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 3px;
 
     @include mobile {
