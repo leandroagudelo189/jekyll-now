@@ -79,6 +79,20 @@ bg {
   }
 }
 
+.container-b {
+  margin: 0 auto;
+  max-width: 840px;
+  padding: 0 0px;
+  width: 90%;
+}
+@media screen and (max-width: 640px) {
+  .container-b {
+    
+    font-size: 18px;
+    
+  }
+}
+
 
 
 
