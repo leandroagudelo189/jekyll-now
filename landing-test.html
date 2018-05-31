@@ -29,6 +29,23 @@
     <link rel="icon" href="/favicon.ico" type="image/x-icon" />
     <title>Soulwire</title>
     <link rel="stylesheet" type="text/css" href="/app-3af6dd.css">
+    <style> 
+      
+/* Animation */
+.anim-typewriter{
+  animation: typewriter 4s steps(44) 1s 1 normal both,
+             blinkTextCursor 500ms steps(44) infinite normal;
+}
+@keyframes typewriter{
+  from{width: 0;}
+  to{width: 24em;}
+}
+@keyframes blinkTextCursor{
+  from{border-right-color: rgba(255,255,255,.75);}
+  to{border-right-color: transparent;}
+}
+      
+    </style>   
   </head>
   <body>
     <section id="content">
@@ -95,7 +112,7 @@
 
 
           <section id="greeting" class="greeting-component done">
-            <span class="message typer-component">Renesence labs</span>
+            <span class="message typer-component anim-typewriter">Renesence labs</span>
             <span class="cursor"></span>
           </section>
 
@@ -105,7 +122,7 @@
             <h3 class="section-title typer-component">
             "Info"
             </h3>
-            <div class="content">
+            <div class="content anim-typewriter">
             "I'm Justin Windle, a Creative Developer from London who likes to mix code, animation, interactivity and generative design. I work across the full JavaScript stack and have presented my work at conferences like Resonate and FITC. Formerly Google Creative Lab / Qwiki / FI. Currently Spotify."
             </div>
           </section>
@@ -121,14 +138,14 @@
 
               <a class="link typer-component">
               <span class="index">000</span>
-              <span class="title">
+              <span class="title anim-typewriter">
               "Primordial Soup"
               </span>
               </a>
 
               <a class="link typer-component">
               <span class="index">001</span>
-              <span class="title"> "Tensor Field" </span>
+              <span class="title anim-typewriter"> "Tensor Field" </span>
               </a>
 
               <a class="link typer-component">
