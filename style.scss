@@ -186,18 +186,17 @@ strong, b {
 }
 
 img {
-    max-width: none;
+  max-width: 1350px;
   display: block;
-  text-align: center;
+  
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 110%;
-   position:    static;
-   margin-left:-5px;
-  
-      
-    
+  width: 100%;
+  position:  static;
+  margin-left: auto;
+}
+
 }
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
@@ -350,19 +349,18 @@ nav {
   border-bottom: none;
 }
 
-.post {
-  blockquote {
+.post blockquote {
   margin: 1em 0em;
   border-left: 1px solid #666;
   padding: 1em 1em;
   color: #bac0c3;
-  font-size: 18px;
-  font-style:  normal;
+  font-size: 20px;
+  font-style: normal;
   letter-spacing: 0px;
   font-weight: 100;
-  text-align: center;
+  text-align: left;
   font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
-
+	
   &:hover, &:active {
      color: #FF7043;
      text-decoration: none;
