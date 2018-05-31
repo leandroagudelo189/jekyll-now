@@ -8,6 +8,18 @@
     display: inline-block
 }
 
+img {
+  max-width: 1350px;
+  display: block;
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position:  static;
+  margin-left: auto;
+}
+
 .typer-component .temp {
     opacity: .25;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
