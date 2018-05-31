@@ -11,13 +11,12 @@
 img {
   max-width: 1350px;
   display: block;
-  
-  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
   position:  static;
   margin-left: auto;
+    z-index: -1
 }
 
 .typer-component .temp {
