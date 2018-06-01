@@ -27,6 +27,7 @@ img {
 
 .greeting-component {
      font-size: 28px;
+    opacity: .8;
     letter-spacing: 1px;
     display: flex;
     color:hsl(207, 88%, 58%);
