@@ -26,21 +26,15 @@ img {
 }
 
 .greeting-component {
-    font-size: 28px;
+     font-size: 28px;
     letter-spacing: 1px;
-    position: relative;
-    top: 50%;  
-    width: 24em;
-    margin: 0 auto;
-    border-right: 0px solid rgba(255,255,255,.75);
-    font-size: 180%;
-    text-align: left;
-    white-space: nowrap;
-     overflow: hidden;
-    transform: translateY(-50%);  
     display: flex;
     color:hsl(207, 88%, 58%);
-
+    letter-spacing: 1px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: box;
+    display: flex
 }
 
 .greeting-component .anim-typewriter{
@@ -616,7 +610,7 @@ img {
 .menu-component .projects {
     -webkit-column-gap: 24px;
     -moz-column-gap: 24px;
-    column-gap: 24px;
+    column-gap: 74px;
     font-size: 13px;
     -webkit-columns: 3 auto;
     -moz-columns: 3 auto;
@@ -689,7 +683,7 @@ img {
 }
 
 .menu-component .projects .link:hover .index {
-    opacity: .4;
+    opacity: .6;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
     filter: alpha(opacity=40)
 }
@@ -939,8 +933,8 @@ button {
 }
 
 #application .container .wrapper,.application-component .container .wrapper {
-    max-width: 720px;
-    padding: 24px 16px;
+    max-width: 820px;
+    padding: 0px 6px;
     margin: auto;
     width: 100%
 }
