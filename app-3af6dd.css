@@ -475,6 +475,7 @@ img {
     display: flex;
     font-size: 13px;
     letter-spacing:1px;
+    opacity: .8;
 }
 
 .header-component .social .link {
@@ -561,7 +562,10 @@ img {
     display: -webkit-box;
     display: -ms-flexbox;
     display: box;
-    display: flex
+    display: flex;
+     letter-spacing:1px;
+    opacity: .8;
+    font-size: 13px;
 }
 
 .footer-component .social .link {
