@@ -647,7 +647,8 @@ img {
     overflow: hidden;
     display: block;
     cursor: pointer;
-    color: inherit
+    color: inherit;
+    color: #FF7043;
 }
 
 .menu-component .projects .link .index {
