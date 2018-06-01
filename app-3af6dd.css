@@ -39,6 +39,7 @@ img {
      overflow: hidden;
     transform: translateY(-50%);  
     display: flex;
+    color:hsl(207, 88%, 58%);
 
 }
 
