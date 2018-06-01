@@ -25,7 +25,7 @@ img {
     filter: alpha(opacity=25)
 }
 
-.greeting-component-a {
+.greeting-component {
     font-size: 28px;
     letter-spacing: 1px;
     position: relative;
@@ -42,7 +42,7 @@ img {
 
 }
 
-.greeting-component-a .anim-typewriter{
+.greeting-component .anim-typewriter{
   animation: typewriter 4s steps(44) 1s 1 infinite both,
              blinkTextCursor 500ms steps(10) infinite normal;
 }
@@ -56,7 +56,7 @@ img {
 }
 
 
-.greeting-component {
+.greeting-component-a{
     font-size: 23px;
     letter-spacing: 1px;
     display: -webkit-box;
@@ -65,18 +65,18 @@ img {
     display: flex
 }
 
-.greeting-component .cursor {
+.greeting-component-a .cursor {
     -webkit-transition: opacity .5s ease;
     transition: opacity .5s ease
 }
 
-.greeting-component .cursor:before {
+.greeting-component-a .cursor:before {
     -webkit-animation: c 1s normal;
     animation: c 1s normal;
     content: '_'
 }
 
-.greeting-component.done .cursor {
+.greeting-component-a.done .cursor {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0)
