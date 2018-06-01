@@ -438,6 +438,34 @@ img {
     filter: none
 }
 
+.header-component .social {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    font-size: 12px;
+    letter-spacing:px;
+}
+
+.header-component .social .link {
+    -webkit-transition: opacity .3s cubic-bezier(.23,1,.32,1);
+    transition: opacity .3s cubic-bezier(.23,1,.32,1);
+    margin-left: 16px;
+    text-decoration: none;
+    opacity: .66;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=66)";
+    filter: alpha(opacity=66);
+    color: #e2e6e8
+}
+
+
+
+.header-component .social .link:hover {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none
+}
+
 .footer-component {
     -webkit-box-pack: justify;
     -o-box-pack: justify;
