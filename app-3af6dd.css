@@ -35,7 +35,8 @@ img {
     display: -webkit-box;
     display: -ms-flexbox;
     display: box;
-    display: flex
+    margin-bottom: -9px;
+   
 }
 
 .greeting-component .anim-typewriter{
