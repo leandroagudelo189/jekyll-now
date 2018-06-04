@@ -592,8 +592,9 @@ img {
     word-wrap: brea;
     line-height: 1.7;
     font-size: 14px;
-    letter-spacing: 1px;
-    margin: 40px 0 32px
+    letter-spacing: 2px;
+    font-weight:100;
+    margin: 52px 0 52px
 }
 
 .about-component .section-title {
@@ -616,8 +617,10 @@ img {
 .menu-component .projects {
     -webkit-column-gap: 24px;
     -moz-column-gap: 24px;
-    column-gap: 74px;
-    font-size: 13px;
+    column-gap: 20px;
+    font-size: 14px;
+    font-weight:100;
+     letter-spacing: 2px;
     -webkit-columns: 2 auto;
     -moz-columns: 2 auto;
     columns: 2 auto
