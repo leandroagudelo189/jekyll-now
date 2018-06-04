@@ -599,12 +599,12 @@ img {
     position: relative;
     word-wrap: brea;
     line-height: 1.7;
-    font-size: 14px;
-    letter-spacing: 2px;
+  
+       font-size: 14px;
+    letter-spacing: 1px;
     font-weight:100;
-    margin: 52px 0 52px;
-    opacity:.7;
-    
+    margin: 32px 0 32px;
+    opacity:.9;
 }
 
 .about-component .section-title {
@@ -629,13 +629,14 @@ img {
     -webkit-column-gap: 24px;
     -moz-column-gap: 24px;
     column-gap: 20px;
-    font-size: 14px;
+   
+     font-size: 14px;
     font-weight:100;
-     letter-spacing: 2px;
+     letter-spacing: 1px;
     -webkit-columns: 2 auto;
     -moz-columns: 2 auto;
     columns: 2 auto;
-    opacity:.7;
+    opacity:.8;
 }
 
 @media screen and (max-width: 719px) {
