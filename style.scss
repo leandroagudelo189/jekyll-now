@@ -105,30 +105,28 @@ bg {
 
 
 h1, h2, h3, h4, h5, h6 {
- 
-  color:hsl(207, 88%, 58%);  
+  color: #369df2;
   font-weight: normal;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
   font-family: Roboto Mono,monospace;
-
   opacity: .8;
-
-  @include mobile {
+}
+@media screen and (max-width: 640px) {
+  h1, h2, h3, h4, h5, h6 {
     line-height: 1.4;
   }
 }
 
-
 h1 {
- font-size: 30px;
+  font-size: 30px;
   letter-spacing: 1px;
   font-weight: 400;
-font-family: Roboto Mono,monospace;
-  a {
-    color: $blue;
-  }
+  font-family: Roboto Mono,monospace;
+}
+h1 a {
+  color: #4183C4;
 }
 
 h2 {
@@ -142,9 +140,9 @@ h3 {
 
 h4 {
   font-size: 20px;
-  color: $blue;
-	font-weight: 300;
-	letter-spacing: 2px;
+  color: #4183C4;
+  font-weight: 300;
+  letter-spacing: 2px;
 }
 
 p {
@@ -152,18 +150,18 @@ p {
   letter-spacing: px;
   font-weight: 300;
   font-family: Roboto Mono,monospace;
-  color: #e2e6e8
+  color: #e2e6e8;
+  font-size:22px;
 }
 
 a {
   color: #4183C4;
   text-decoration: none;
   cursor: pointer;
-
-  &:hover, &:active {
-    color: #FF7043;
-   text-decoration:    none;
-  }
+}
+a:hover, a:active {
+  color: #FF7043;
+  text-decoration: none;
 }
 
 ul, ol {
@@ -176,7 +174,8 @@ ul {
   letter-spacing: px;
   font-weight: 300;
   font-family: Roboto Mono,monospace;
-  color: #e2e6e8
+  color: #e2e6e8;
+  font-size:22px
 }
 
 ol {
