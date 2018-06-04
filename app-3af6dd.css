@@ -594,11 +594,14 @@ img {
     font-size: 14px;
     letter-spacing: 2px;
     font-weight:100;
-    margin: 52px 0 52px
+    margin: 52px 0 52px;
+    opacity:.7;
+    
 }
 
 .about-component .section-title {
-    top: 4px
+    top: 6px;
+    opacity:.3;
 }
 
 .about-component .typer-component {
@@ -623,7 +626,8 @@ img {
      letter-spacing: 2px;
     -webkit-columns: 2 auto;
     -moz-columns: 2 auto;
-    columns: 2 auto
+    columns: 2 auto;
+    opacity:.7;
 }
 
 @media screen and (max-width: 719px) {
