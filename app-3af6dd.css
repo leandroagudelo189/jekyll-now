@@ -617,9 +617,9 @@ img {
     -moz-column-gap: 24px;
     column-gap: 74px;
     font-size: 13px;
-    -webkit-columns: 3 auto;
-    -moz-columns: 3 auto;
-    columns: 3 auto
+    -webkit-columns: 2 auto;
+    -moz-columns: 2 auto;
+    columns: 2 auto
 }
 
 @media screen and (max-width: 719px) {
