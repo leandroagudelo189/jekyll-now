@@ -943,7 +943,7 @@ button {
     -o-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-   
+   overflow-y: scroll;
     position: absolute;
     display: -webkit-box;
     display: -ms-flexbox;
