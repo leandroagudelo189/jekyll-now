@@ -731,7 +731,8 @@ a,abbr,acronym,address,applet,big,blockquote,body,caption,cite,code,dd,del,dfn,d
 body {
     line-height: 1;
     color: #000;
-    background: #fff
+    background: #fff;
+     overflow-y: scroll;
 }
 
 ol,ul {
@@ -762,7 +763,7 @@ a img {
 
 body,html {
     background: #16191b;
-    overflow: hidden;
+   
     height: 100%
 }
 
@@ -933,7 +934,7 @@ button {
     -o-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    overflow-y: scroll;
+   
     position: absolute;
     display: -webkit-box;
     display: -ms-flexbox;
