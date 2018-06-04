@@ -451,26 +451,28 @@ footer {
 
 
 .header-component {
-    -webkit-box-pack: justify;
-    -o-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    -webkit-box-align: center;
-    -o-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    position: absolute;
-    padding: 0 16px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: box;
-    display: flex;
-    width: 100%;
-    height: 60px;
-    top: 0;
-    font-size: 12px;
-    letter-spacing:1px;
-    font-family: Roboto Mono,monospace;
+  -webkit-box-pack: justify;
+  -o-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -o-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: fixed;
+  padding: 0 16px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  width: 100%;
+  height: 60px;
+  top: 0;
+  font-size: 12px;
+  letter-spacing: 1px;
+  font-family: Roboto Mono,monospace;
+  overflow: hidden;
+  background-color: #15191c;
 }
 
 .header-component .logo {
