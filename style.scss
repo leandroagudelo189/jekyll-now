@@ -106,13 +106,14 @@ bg {
 
 h1, h2, h3, h4, h5, h6 {
  
-	  color: #4183C4;
+  color:hsl(207, 88%, 58%);  
   font-weight: normal;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
   font-family: Roboto Mono,monospace;
   opacity: ;
+  opacity: .8;
 
   @include mobile {
     line-height: 1.4;
@@ -367,14 +368,15 @@ nav {
   margin: 1em 0em;
   border-left: px solid #666;
   padding: 1em 1em;
-  color: #bac0c3;
+  color: #FF7043;
   font-size: 14px;
   font-style: normal;
   letter-spacing: 0px;
   font-weight: 400;
   text-align: right;
 font-family: Roboto Mono,monospace;
-  opacity: .6;
+  opacity: .5;
+	
 	
 
   }
