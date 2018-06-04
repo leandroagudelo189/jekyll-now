@@ -957,7 +957,7 @@ button {
 
 #application .container .wrapper,.application-component .container .wrapper {
     max-width: 1020px;
-    padding: 24px 36px;
+    padding: 0px 96px;
     margin: auto;
     width: 100%
 }
