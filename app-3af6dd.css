@@ -1,9 +1,6 @@
 ---
 ---
 
-
-
-
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono:100,300,400,500);.typer-component {
     display: inline-block
 }
@@ -600,15 +597,24 @@ img {
     word-wrap: brea;
     line-height: 1.7;
   
-       font-size: 14px;
+       font-size: 18px;
     letter-spacing: 1px;
     font-weight:100;
-    margin: 32px 0 32px;
+    margin: 62px 0 62px;
     opacity:.9;
 }
+@media screen and (max-width: 640px) {
+    .about-component  {
+        -webkit-columns:1 auto;
+        -moz-columns: 1 auto;
+        columns: 1 auto;
+        font-size: 16px
+    }
+}
+
 
 .about-component .section-title {
-    top: 6px;
+    top: 8px;
     opacity:.3;
 }
 
@@ -622,7 +628,9 @@ img {
 }
 
 .menu-component .section-title {
-    top: 10px
+    top: 10px;
+        margin-top: px;
+
 }
 
 .menu-component .projects {
@@ -630,20 +638,21 @@ img {
     -moz-column-gap: 24px;
     column-gap: 20px;
    
-     font-size: 14px;
+     font-size: 16px;
     font-weight:100;
      letter-spacing: 1px;
-    -webkit-columns: 2 auto;
-    -moz-columns: 2 auto;
-    columns: 2 auto;
+    -webkit-columns: 1 auto;
+    -moz-columns: 1 auto;
+    columns: 1 auto;
     opacity:.8;
 }
 
-@media screen and (max-width: 719px) {
+@media screen and (max-width: 640px) {
     .menu-component .projects {
-        -webkit-columns:2 auto;
-        -moz-columns: 2 auto;
-        columns: 2 auto
+        -webkit-columns:1 auto;
+        -moz-columns: 1 auto;
+        columns: 1 auto;
+        font-size: 14px
     }
 }
 
@@ -951,13 +960,52 @@ button {
     display: flex;
     bottom: 50px;
     right: 0;
-    left: 0;
+    left: 80px;
     top: 60px
 }
 
+
+@media screen and (max-width: 640px) {
+    #application .container,.application-component .container {
+    -webkit-overflow-scrolling: touch;
+    -webkit-box-pack: center;
+    -o-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -o-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+   overflow-y: scroll;
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    bottom: 50px;
+    right: 0;
+    left: 20px;
+    top: 60px
+
+    }
+    
+}
+
 #application .container .wrapper,.application-component .container .wrapper {
-    max-width: 1020px;
-    padding: 0px 96px;
+    max-width: 920px;
+    padding: 115px 96px;
     margin: auto;
     width: 100%
 }
+
+@media screen and (max-width: 640px) {
+    #application .container .wrapper,.application-component .container .wrapper {
+        max-width: 920px;
+    padding: 40px 0px;
+    margin: auto;
+    width: 100%;
+    font-size: 10px;
+
+
+    }
+    }
