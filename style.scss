@@ -105,13 +105,14 @@ bg {
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $blue;
+ 
+	  color: #4183C4;
   font-weight: normal;
-
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
+  font-family: Roboto Mono,monospace;
+  opacity: ;
 
   @include mobile {
     line-height: 1.4;
@@ -120,10 +121,10 @@ h1, h2, h3, h4, h5, h6 {
 
 
 h1 {
-  font-size: 30px;
+ font-size: 30px;
   letter-spacing: 1px;
   font-weight: 400;
-  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+font-family: Roboto Mono,monospace;
   a {
     color: $blue;
   }
@@ -147,8 +148,10 @@ h4 {
 
 p {
   margin: 15px 0;
-	letter-spacing: 2px;
-	font-weight: 300;
+  letter-spacing: px;
+  font-weight: 300;
+  font-family: Roboto Mono,monospace;
+  color: #e2e6e8
 }
 
 a {
@@ -169,8 +172,10 @@ ul, ol {
 
 ul {
   list-style-type: disc;
-	letter-spacing: 2px;
-	font-weight: 300;
+  letter-spacing: px;
+  font-weight: 300;
+  font-family: Roboto Mono,monospace;
+  color: #e2e6e8
 }
 
 ol {
@@ -360,20 +365,18 @@ nav {
 .post {
   blockquote {
   margin: 1em 0em;
-  border-left: 1px solid #666;
+  border-left: px solid #666;
   padding: 1em 1em;
   color: #bac0c3;
-  font-size: 20px;
+  font-size: 14px;
   font-style: normal;
   letter-spacing: 0px;
-  font-weight: 100;
-  text-align: left;
-  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+  font-weight: 400;
+  text-align: right;
+font-family: Roboto Mono,monospace;
+  opacity: .6;
 	
-  &:hover, &:active {
-     color: #FF7043;
-     text-decoration: none;
-   }
+
   }
 
   .comments {
