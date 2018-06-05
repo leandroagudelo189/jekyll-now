@@ -478,6 +478,7 @@ img {
     font-size: 14px;
     letter-spacing:1px;
     opacity: .8;
+     font-weight: 100
 }
 
 .header-component .social .link {
@@ -488,7 +489,8 @@ img {
     opacity: .8;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=66)";
     filter: alpha(opacity=66);
-    color: #e2e6e8
+    color: #e2e6e8;
+     font-weight: 100
 }
 
 
@@ -574,6 +576,7 @@ img {
      letter-spacing:1px;
     opacity: .8;
     font-size: 14px;
+     font-weight: 100
 }
 
 .footer-component .social .link {
