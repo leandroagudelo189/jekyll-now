@@ -599,25 +599,28 @@ img {
     word-wrap: brea;
     line-height: 1.7;
   
-       font-size: 18px;
-    letter-spacing: 1px;
+       font-size: 20px;
+    letter-spacing: 0.5px;
     font-weight:100;
     margin: 62px 0 62px;
     opacity:.9;
+     color: #e2e6e8;
 }
 @media screen and (max-width: 640px) {
     .about-component  {
         -webkit-columns:1 auto;
         -moz-columns: 1 auto;
         columns: 1 auto;
-        font-size: 16px
+        font-size: 16px;
+         color: #e2e6e8;
+         opacity: 1
     }
 }
 
 
 .about-component .section-title {
-    top: 8px;
-    opacity:.3;
+    top: 10px;
+    opacity:.4;
 }
 
 .about-component .typer-component {
@@ -630,8 +633,9 @@ img {
 }
 
 .menu-component .section-title {
-    top: 10px;
+    top: 14px;
         margin-top: px;
+        opacity: .3
 
 }
 
@@ -639,14 +643,17 @@ img {
     -webkit-column-gap: 24px;
     -moz-column-gap: 24px;
     column-gap: 20px;
+     color: #e2e6e8;
+         line-height:1.9;
+
    
-     font-size: 16px;
+     font-size: 18px;
     font-weight:100;
-     letter-spacing: 1px;
+     letter-spacing: 0.5px;
     -webkit-columns: 1 auto;
     -moz-columns: 1 auto;
     columns: 1 auto;
-    opacity:.8;
+    opacity:.9;
 }
 
 @media screen and (max-width: 640px) {
@@ -654,9 +661,12 @@ img {
         -webkit-columns:1 auto;
         -moz-columns: 1 auto;
         columns: 1 auto;
-        font-size: 14px
+        font-size: 14px;
+        opacity:1;
+        line-height: 2;
     }
 }
+
 
 @media screen and (max-width: 450px) {
     .menu-component .projects {
@@ -665,7 +675,6 @@ img {
         columns: 1 auto
     }
 }
-
 .menu-component .projects .link {
     text-decoration: none;
     text-overflow: ellipsis;
@@ -679,7 +688,7 @@ img {
 }
 
 .menu-component .projects .link .index {
-    margin-right: 8px;
+    margin-right: 10px;
     opacity: .2;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
     filter: alpha(opacity=20)
