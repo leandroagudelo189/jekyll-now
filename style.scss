@@ -65,7 +65,6 @@ bg {
 .greeting-component {
      
     opacity: .8;
-    letter-spacing: 1px;
     display: flex;
     color:hsl(207, 88%, 58%);
     letter-spacing: 1px;
@@ -74,6 +73,8 @@ bg {
     display: box;
     margin-bottom: 0px;
 	  line-height: 1.7;
+	font-size: 34px;
+	font-weight: 400;
    
 }
 	
