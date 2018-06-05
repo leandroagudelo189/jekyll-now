@@ -114,7 +114,19 @@ bg {
 }
 
 
-
+.container-title {
+  margin: 0 auto;
+  max-width: 760px;
+  padding: 0 0px;
+  width: 90%;
+}
+@media screen and (max-width: 640px) {
+  .container-b {
+    
+    font-size: 18px;
+    
+  }
+}
 
 h1, h2, h3, h4, h5, h6 {
   color: #369df2;
