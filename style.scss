@@ -577,71 +577,78 @@ footer {
 
 
 .footer-component {
-    -webkit-box-pack: justify;
-    -o-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    -webkit-box-align: center;
-    -o-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    line-height: 2;
-    font-size: 12px;
-    font-family: Roboto Mono,monospace;
-    position: absolute;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: box;
-    display: flex;
-    padding: 0 16px;
-    bottom: 0;
-    width: 100%;
-    height: 50px;
-    letter-spacing:1px;
+  -webkit-box-pack: justify;
+  -o-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -o-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  line-height: 2;
+  font-size: 12px;
+  font-family: Roboto Mono,monospace;
+  position: fixed;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  padding: 0 16px;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  letter-spacing: 1px;
+  font-family: Roboto Mono,monospace;
+  overflow: hidden;
+  background-color: #15191c;
+  z-index: 1;
 }
 
+
+
 .footer-component .status {
-    -webkit-transition: opacity .66s cubic-bezier(.23,1,.32,1);
-    transition: opacity .66s cubic-bezier(.23,1,.32,1);
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
-    opacity: .25;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
-    filter: alpha(opacity=25)
+  -webkit-transition: opacity 0.66s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: opacity 0.66s cubic-bezier(0.23, 1, 0.32, 1);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  opacity: .25;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
+  filter: alpha(opacity=25);
+  font-weight: 500
 }
 
 .footer-component .status:hover {
-    opacity: .75;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-    filter: alpha(opacity=75)
+  opacity: .75;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+  filter: alpha(opacity=75);
 }
 
 .footer-component .social {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: box;
-    display: flex;
-     letter-spacing:1px;
-    opacity: .8;
-    font-size: 14px;
-	font-weight:400;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  letter-spacing: 1px;
+  opacity: .8;
+  font-size: 14px;
+  font-weight:500
 }
 
 .footer-component .social .link {
-    -webkit-transition: opacity .3s cubic-bezier(.23,1,.32,1);
-    transition: opacity .3s cubic-bezier(.23,1,.32,1);
-    margin-left: 16px;
-    text-decoration: none;
-    opacity: .8;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=66)";
-    filter: alpha(opacity=66);
-    color: #e2e6e8
+  -webkit-transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  margin-left: 16px;
+  text-decoration: none;
+  opacity: .8;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=66)";
+  filter: alpha(opacity=66);
+  color: #e2e6e8;
 }
 
 .footer-component .social .link:hover {
-    opacity: .8;
-     color: #FF7043;
-    -ms-filter: none;
-    filter: none
+  opacity: .8;
+  color: #FF7043;
+  -ms-filter: none;
+  filter: none;
 }
