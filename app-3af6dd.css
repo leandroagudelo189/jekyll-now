@@ -573,7 +573,7 @@ img {
     display: flex;
      letter-spacing:1px;
     opacity: .8;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .footer-component .social .link {
@@ -581,14 +581,14 @@ img {
     transition: opacity .3s cubic-bezier(.23,1,.32,1);
     margin-left: 16px;
     text-decoration: none;
-    opacity: .66;
+    opacity: .8;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=66)";
     filter: alpha(opacity=66);
     color: #e2e6e8
 }
 
 .footer-component .social .link:hover {
-    opacity: 1;
+    opacity: .8;
      color: #FF7043;
     -ms-filter: none;
     filter: none
