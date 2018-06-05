@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: research
 title: ""
 permalink: /about/
 published: true
