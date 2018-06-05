@@ -152,7 +152,7 @@ p {
   font-family: Roboto Mono,monospace;
   color: #e2e6e8;
   font-size:22px;
-opacity: .75	
+opacity: .65	
 }
 
 
@@ -161,7 +161,7 @@ opacity: .75
    display: block;
    font-size: 16px;
    text-align: left;
-   opacity: .9;
+   opacity: .8;
 }  
 }  
 
@@ -184,11 +184,21 @@ ul, ol {
 ul {
   list-style-type: disc;
   letter-spacing: px;
-  font-weight: 300;
+  font-weight: 400;
   font-family: Roboto Mono,monospace;
   color: #e2e6e8;
-  font-size:22px
+  font-size:22px;
+	opacity: .65;
 }
+@media screen and (max-width: 640px) {
+  ul {
+   display: block;
+   font-size: 16px;
+   text-align: left;
+   opacity: .8;
+}  
+}  
+
 
 ol {
   list-style-type: decimal;
