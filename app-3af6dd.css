@@ -606,7 +606,7 @@ img {
     letter-spacing: 0.5px;
     font-weight:100;
     margin: 62px 0 62px;
-    opacity:.9;
+    opacity:.75;
      color: #e2e6e8;
 }
 @media screen and (max-width: 640px) {
