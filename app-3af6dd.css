@@ -679,7 +679,7 @@ img {
     text-decoration: none;
     text-overflow: ellipsis;
     white-space: nowrap;
-    line-height: 28px;
+  line-height: 1.9;
     overflow: hidden;
     display: block;
     cursor: pointer;
