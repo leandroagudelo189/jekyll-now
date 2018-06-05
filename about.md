@@ -16,7 +16,7 @@ We believe in the creation of long-term solutions with long-term endeavours. For
 
 # Research
 
-Existing machine and deep learning models lack allostatic strategies. In addition, current systems offer great performance in narrow environment or applications. This means deep reinforcement learning or evolutionary strategies fail to integrate responses across multiple non-related environments. In fact, there is no viable long-term memory approach for multienvironment integration. Training these systems remains very expensive, even for approaches that mimic natural selection such as genetic algorithms. 
+Existing machine and deep learning models lack allostatic strategies. In addition, current systems offer great performance in narrow environments. This means deep reinforcement learning or evolutionary strategies fail to integrate responses across multiple non-related environments. In fact, there is no viable long-term memory approach for multienvironment integration. Training these systems remains very expensive, even for approaches that mimic natural selection such as genetic algorithms. 
 [Read more]({{ site.baseurl }}/2018-05-24-Research)
 <br>
   <br>
@@ -24,7 +24,7 @@ Existing machine and deep learning models lack allostatic strategies. In additio
 
 # Applied Research
 
-- Develop hybrid deep learning algorithms suitable for understanding complex biological networks 
+Develop hybrid deep learning algorithms suitable for understanding complex biological networks and studying human disease. 
 
 # Education
 
