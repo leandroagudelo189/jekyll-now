@@ -34,7 +34,7 @@ With the renascence of machine and deep learning, the world is changing at an in
   <br>
 
 # The Founders
-### [Leandro Agudelo, PhD]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
+### Leandro Agudelo, PhD
 Leandro is a postdoctoral associate at the [Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology](https://www.csail.mit.edu/){:target="_blank"} in [Manolis Kellis lab](http://compbio.mit.edu/compbio.html){:target="_blank"}. He works at the intersection between metabolism, transcriptional regulation, computational biology and deep learning. His skill-sets are whithin the areas of molecular biology and computer science so he integrates them to understand the deep underlying order within complex biological systems. On the one hand, he applies machine and deep learning algorithms for pattern discovery in biological data, followed by experimental validation. On the other hand, he is insterested in finding ways to emulate strategies from evolutionary molecular adaptations to improve existing machine and deep learning systems.  
 
 
@@ -43,7 +43,7 @@ See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
   <br>
   <br>
 
-### [Åsa Segerstolpe, PhD]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)
+### Åsa Segerstolpe, PhD
 Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works developing high throughput methods for systems biology. Åsa has extensive experience with single-RNA seq and RNA biology. She is currently interested in understanding complex regulatory circuits in type-1 and type-2 diabetes. Åsa is also involved in the human cell atlas project, where the goal is to map individually all human cells. This will be a step forward towards our understanding of several disease processes. 
 
 See [full bio here]({{ site.baseurl }}/2018-05-07-Åsa-Segerstolpe)	
