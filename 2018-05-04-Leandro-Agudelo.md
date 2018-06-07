@@ -7,7 +7,8 @@ published: true
 # Leandro Agudelo, PhD
 
 Leandro is a postdoctoral associate at the [Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology](https://www.csail.mit.edu/){:target="_blank"} in [Manolis Kellis lab](http://compbio.mit.edu/compbio.html){:target="_blank"}. He works at the intersection between metabolism, transcriptional regulation, computational biology and deep learning. His skill-sets are whithin the areas of molecular biology and computer science so he integrates them to understand the deep underlying order within complex biological systems. On the one hand, he applies machine and deep learning algorithms for pattern discovery in biological data, followed by experimental validation. On the other hand, he is insterested in finding ways to emulate strategies from evolutionary molecular adaptations to improve existing machine and deep learning systems. 
- 
+<br>
+<br> 
  
 
 # Research interest
@@ -17,30 +18,40 @@ Leandro is a postdoctoral associate at the [Computer Science and Artificial Inte
 - Multi-omic deep learning inference of comorbid molecular components across metabolic disorders
 - Hybrid deep learning models for multi-omic discovery of regulatory networks (autoencoders and reinforcement learning)
 
-
+<br>
+<br>
 
 # Key publications and manuscripts
 
 LEANDRO Z. AGUDELO †, Shamim Dadvar † et al. GPR35 restores mitochondrial function in white adipose tissue with impaired electric transport chain activity. In submission
 <br>
+<br>
 LEANDRO Z. AGUDELO †, Duarte Ferreira † et al. Skeletal Muscle PGC-1α1 Reroutes Kynurenine to Support Aspartate Biosynthesis and Mitochondrial Respiration. Under Review 
+<br>
 <br>
 LEANDRO Z. AGUDELO, Duarte Ferreira et al. [Kynurenic Acid and Gpr35 Regulate Adipose Tissue Energy Homeostasis and Inflammation](http://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30053-6){:target="_blank"}. Cell Metabolism, 2018
 <br>
+<br>
 LEANDRO Z. AGUDELO †, Teresa Femenıa † et al. [Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression](http://www.cell.com/cell/pdf/S0092-8674(14)01049-6.pdf){:target="_blank"}. Cell, 2014 
 <br>
+<br>
 Igor Cervenka, LEANDRO Z. AGUDELO, Jorge L. Ruas. [Kynurenines: Tryptophan’s metabolites in exercise, inflammation, and mental health](http://science.sciencemag.org/content/357/6349/eaaf9794){:target="_blank"}. Science, 2017
-
+<br>
+<br>
 Maja Schlittler, Michel Goiny, LEANDRO Z. AGUDELOet al. [Endurance exercise increases skeletal muscle kynurenine aminotransferases and plasma kynurenic acid in humans](http://ajpcell.physiology.org/content/310/10/C836.long){:target="_blank"}. AJP, 2016
-
+<br>
+<br>
 Richard Mills, Hermes Taylor-Weiner, Jorge C. Correia, LEANDRO Z. AGUDELO et al. [Neurturin is a PGC-1a1-controlled myokine that promotes motor neuron recruitment and neuromuscular junction formation](http://www.molmetab.com/article/S2212-8778(17)30866-9/pdf){:target="_blank"}. Molecular Metabolism, 2017
 
 Vicente Martínez-Redondo, Paulo R. Jannig et al. [Peroxisome Proliferator-activated Receptor Coactivator-1 Isoforms Selectively Regulate Multiple Splicing Events on
 Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf){:target="_blank"}. JBC, 2016
-
+<br>
+<br>
 Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing towards FXRα2 to modulate hepatic lipolysis and fatty acid metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4731735/){:target="_blank"}. Molecular Metabolism, 2015
 
 († equal contribution)
+<br>
+<br>
 
 # Computational Projects
 
@@ -57,15 +68,23 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 - PGC-1A role in the CNS by mapping molecular signatures of astrocytes using transcriptomics
 - Systems biology approach to understand molecular cues of skeletal muscle role in depression
 - Multi-omic approach to characterize the secretome of conditioned skeletal muscle
+<br>
+<br>
 
 # Education
 
-- [Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/){:target="_blank"}, [Kellis Lab @ MIT Computer Science and Broad Institute](http://compbio.mit.edu/compbio.html){:target="_blank"}, 2018-present, Postdoctoral Associate, Metabolism, Computational Biology and Deep Learning
-- [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, 2017, Postdoctoral Associate, Metabolism and Computational Biology  
-- [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, 2012-2017, PhD student, Metabolism and Computational Biology 
-- [Stockholm University, Dept of Neurochemistry, Chemistry section](https://www.kemi.su.se/utbildning/masterprogram/neurokemi-med-molekyl%C3%A4r-neurobiologi){:target="_blank"}, 2009-2011, MSc in Chemistry and Neurochemistry 
-- [Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}, 2002-2008, Medicine  
+- [Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/){:target="_blank"}, [Kellis Lab @ MIT Computer Science and Broad Institute](http://compbio.mit.edu/compbio.html){:target="_blank"}, Postdoctoral Associate, Metabolism, Computational Biology and Deep Learning.  2018-present
 
+- [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, Postdoctoral Associate, Metabolism and Computational Biology. 2017  
+
+- [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, PhD student, Metabolism and Computational Biology. 2012-2017
+
+- [Stockholm University, Dept of Neurochemistry, Chemistry section](https://www.kemi.su.se/utbildning/masterprogram/neurokemi-med-molekyl%C3%A4r-neurobiologi){:target="_blank"}, MSc in Chemistry and Neurochemistry. 2009-2011
+
+- [Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}, Medicine. 2002-2008  
+
+<br>
+<br>
 # Contact
 
 - [leandro@renesence.com](mailto:email@domain.com)
