@@ -20,7 +20,6 @@ Leandro is a postdoctoral associate at the [Computer Science and Artificial Inte
 
 <br>
 <br>
-
 # Key publications and manuscripts
 
 LEANDRO Z. AGUDELO †, Shamim Dadvar † et al. GPR35 restores mitochondrial function in white adipose tissue with impaired electric transport chain activity. In submission
