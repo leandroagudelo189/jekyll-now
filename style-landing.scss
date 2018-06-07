@@ -498,17 +498,25 @@ nav a {
   margin: 1em 0em;
   border-left: px solid #666;
   padding: 1em 1em;
-  color: #FF7043;
+  color: #268bd2;
   font-size: 14px;
   font-style: normal;
   letter-spacing: 0px;
   font-weight: 400;
   text-align: right;
   font-family: Roboto Mono,monospace;
-  opacity: .5;
+  opacity: .4;
   margin-top: -10px;
-  max-width: 750px;
+  max-width: 850px;
 }
+
+.post blockquote:hover {
+  opacity: .6;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+  filter: alpha(opacity=75);
+}
+
+
 .post .comments {
   margin-top: 10px;
 }
