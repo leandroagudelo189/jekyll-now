@@ -220,13 +220,17 @@ opacity: .65
 
 
 a {
-color:hsl(207, 88%, 58%);
-  text-decoration: none;
+  color: #ff7043;
+  text-decoration:   ;
   cursor: pointer;
-}
+  opacity:.55;
+
+  }
+
 a:hover, a:active {
   color: #FF7043;
   text-decoration: none;
+  opacity:8;
 }
 
 ul, ol {
