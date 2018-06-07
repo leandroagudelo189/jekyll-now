@@ -1171,3 +1171,401 @@ code {
   -ms-filter: none;
   filter: none;
 }
+
+
+button {
+    font-family: Roboto Mono,monospace;
+    background: none;
+    padding: 0;
+    outline: none;
+    border: none
+}
+
+.section-title {
+    text-transform: uppercase;
+    letter-spacing: .15em;
+    font-size: 10px;
+    opacity: .2;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+    filter: alpha(opacity=20);
+    color: #e2e6e8
+}
+
+.section-title:after {
+    content: '.'
+}
+
+@media screen and (max-width: 869px) {
+    .section-title {
+        margin-bottom:16px
+    }
+}
+
+@media screen and (min-width: 870px) {
+    .section-title {
+        -webkit-transform:translate(-100%);
+        transform: translate(-100%);
+        -webkit-transform: translate3d(-100%,0,0);
+        transform: translate3d(-100%,0,0);
+        position: absolute;
+        left: -16px
+    }
+}
+
+@-webkit-keyframes a {
+    to {
+        stroke-dashoffset: 0
+    }
+}
+
+@keyframes a {
+    to {
+        stroke-dashoffset: 0
+    }
+}
+
+@-webkit-keyframes b {
+    to {
+        -webkit-transform: none;
+        transform: none
+    }
+}
+
+@keyframes b {
+    to {
+        -webkit-transform: none;
+        transform: none
+    }
+}
+
+@-webkit-keyframes c {
+    0% {
+        opacity: .1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+        filter: alpha(opacity=10)
+    }
+
+    50% {
+        opacity: 1;
+        -ms-filter: none;
+        filter: none
+    }
+
+    to {
+        opacity: .1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+        filter: alpha(opacity=10)
+    }
+}
+
+@keyframes c {
+    0% {
+        opacity: .1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+        filter: alpha(opacity=10)
+    }
+
+    50% {
+        opacity: 1;
+        -ms-filter: none;
+        filter: none
+    }
+
+    to {
+        opacity: .1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+        filter: alpha(opacity=10)
+    }
+}
+
+@-webkit-keyframes d {
+    0% {
+        opacity: .1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+        filter: alpha(opacity=10)
+    }
+
+    50% {
+        opacity: .5;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+        filter: alpha(opacity=50)
+    }
+
+    to {
+        opacity: .1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+        filter: alpha(opacity=10)
+    }
+}
+
+@keyframes d {
+    0% {
+        opacity: .1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+        filter: alpha(opacity=10)
+    }
+
+    50% {
+        opacity: .5;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+        filter: alpha(opacity=50)
+    }
+
+    to {
+        opacity: .1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+        filter: alpha(opacity=10)
+    }
+}
+
+#application,.application-component {
+    font-family: Roboto Mono,monospace;
+    background: #16191b;
+    font-weight: 300;
+    color: #e2e6e8;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0
+}
+
+#application .container,.application-component .container {
+    -webkit-overflow-scrolling: touch;
+    -webkit-box-pack: center;
+    -o-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -o-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+   overflow-y: scroll;
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    bottom: 50px;
+    right: 0;
+    left: 80px;
+    top: 60px
+}
+
+
+@media screen and (max-width: 640px) {
+    #application .container,.application-component .container {
+    -webkit-overflow-scrolling: touch;
+    -webkit-box-pack: center;
+    -o-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -o-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+   overflow-y: scroll;
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    bottom: 50px;
+    right: 0;
+    left: 20px;
+    top: 60px
+
+    }
+    
+}
+
+#application .container .wrapper,.application-component .container .wrapper {
+    max-width: 920px;
+    padding: 115px 96px;
+    margin: auto;
+    width: 100%
+}
+
+@media screen and (max-width: 640px) {
+    #application .container .wrapper,.application-component .container .wrapper {
+        max-width: 920px;
+    padding: 40px 0px;
+    margin: auto;
+    width: 100%;
+    font-size: 10px;
+
+
+    }
+    }
+
+
+.about-component {
+    position: relative;
+    word-wrap: brea;
+    line-height: 1.7;
+  
+       font-size: 20px;
+    letter-spacing: 0.5px;
+    font-weight:100;
+    margin: 62px 0 62px;
+    opacity:.75;
+     color: #e2e6e8;
+}
+@media screen and (max-width: 640px) {
+    .about-component  {
+        -webkit-columns:1 auto;
+        -moz-columns: 1 auto;
+        columns: 1 auto;
+        font-size: 16px;
+         color: #e2e6e8;
+         opacity: 1
+    }
+}
+
+
+.about-component .section-title {
+    top: 10px;
+    opacity:.4;
+}
+
+.about-component .typer-component {
+    white-space: nowrap;
+    display: block!important
+}
+
+.menu-component {
+    position: relative
+}
+
+.menu-component .section-title {
+    top: 14px;
+        margin-top: px;
+        opacity: .3
+
+}
+
+.menu-component .projects {
+    -webkit-column-gap: 24px;
+    -moz-column-gap: 24px;
+    column-gap: 20px;
+     color: #e2e6e8;
+         line-height:1.9;
+
+   
+     font-size: 18px;
+    font-weight:100;
+     letter-spacing: 0.5px;
+    -webkit-columns: 1 auto;
+    -moz-columns: 1 auto;
+    columns: 1 auto;
+    opacity:.9;
+}
+
+@media screen and (max-width: 640px) {
+    .menu-component .projects {
+        -webkit-columns:1 auto;
+        -moz-columns: 1 auto;
+        columns: 1 auto;
+        font-size: 14px;
+        opacity:1;
+        line-height: 2;
+    }
+}
+
+
+@media screen and (max-width: 450px) {
+    .menu-component .projects {
+        -webkit-columns:1 auto;
+        -moz-columns: 1 auto;
+        columns: 1 auto
+    }
+}
+.menu-component .projects .link {
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  line-height: 1.9;
+    overflow: hidden;
+    display: block;
+    cursor: pointer;
+    color: inherit;
+    color: #FF7043;
+}
+
+.menu-component .projects .link .index {
+    margin-right: 10px;
+    opacity: .2;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+    filter: alpha(opacity=20)
+}
+
+.menu-component .projects .link .index,.menu-component .projects .link .title {
+    -webkit-transition: opacity .3s cubic-bezier(.23,1,.32,1);
+    transition: opacity .3s cubic-bezier(.23,1,.32,1)
+}
+
+.menu-component .projects .link .title {
+    position: relative;
+    overflow: hidden;
+    opacity: .9;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    filter: alpha(opacity=90);
+    color: #fff
+}
+
+.menu-component .projects .link .title:after {
+    -webkit-transition: all .5s cubic-bezier(.175,.885,.32,1.275);
+    transition: all .5s cubic-bezier(.175,.885,.32,1.275);
+    -webkit-transform: translate(calc(-100% - 8px));
+    transform: translate(calc(-100% - 8px));
+    -webkit-transform: translate3d(calc(-100% - 8px),0,0);
+    transform: translate3d(calc(-100% - 8px),0,0);
+    background: #262626;
+    position: absolute;
+    content: '';
+    bottom: -2px;
+    height: 1px;
+    width: 24px;
+    left: 0
+}
+
+.menu-component .projects .link:hover .index {
+    opacity: .6;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+    filter: alpha(opacity=40)
+}
+
+.menu-component .projects .link:hover .title {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none
+}
+
+.menu-component .projects .link:hover .title:after {
+    -webkit-transition: all .275s cubic-bezier(.23,1,.32,1);
+    transition: all .275s cubic-bezier(.23,1,.32,1);
+    -webkit-transform: none;
+    transform: none;
+    background: #bfbfbf;
+    width: 100%
+}
+.typer-component .temp {
+    opacity: .25;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
+    filter: alpha(opacity=25)
+}
+
+.greeting-title {
+     font-size: 28px;
+    opacity: .8;
+    letter-spacing: 1px;
+    display: flex;
+    color:hsl(207, 88%, 58%);
+    letter-spacing: 1px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: box;
+    margin-bottom: -9px;
+   
+}
+
