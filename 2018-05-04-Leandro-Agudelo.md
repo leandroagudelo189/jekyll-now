@@ -83,10 +83,10 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 [2012-2017] [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, PhD student, Metabolism and Computational Biology. 2012-2017
 <br>
 <br>
-[2009-2011] [Stockholm University, Dept of Neurochemistry, Chemistry section](https://www.kemi.su.se/utbildning/masterprogram/neurokemi-med-molekyl%C3%A4r-neurobiologi){:target="_blank"}, MSc in Chemistry and Neurochemistry. 2009-2011
+[2009-2011] [Stockholm University, Dept of Neurochemistry, Chemistry section](https://www.kemi.su.se/utbildning/masterprogram/neurokemi-med-molekyl%C3%A4r-neurobiologi){:target="_blank"}, MSc in Chemistry and Neurochemistry. 
 <br>
 <br>
-[2002-2008] [Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}, Medicine. 2002-2008  
+[2002-2008] [Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}, Medicine.   
 
 <br>
 <br>
