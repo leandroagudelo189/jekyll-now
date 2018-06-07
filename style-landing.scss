@@ -188,6 +188,20 @@ bg {
     font-size: 18px;
   }
 }
+
+
+.container-c {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 0 0px;
+  width: 90%;
+}
+
+@media screen and (max-width: 640px) {
+  .container-b {
+    font-size: 18px;
+  }
+}
 .container-title {
   margin: 0 auto;
   max-width: 800px;
