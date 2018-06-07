@@ -21,7 +21,7 @@ Leandro is a postdoctoral associate at the [Computer Science and Artificial Inte
 <br>
 <br>
 # Key publications and manuscripts
-
+<p style="font-size:20px">
 LEANDRO Z. AGUDELO †, Shamim Dadvar † et al. GPR35 restores mitochondrial function in white adipose tissue with impaired electric transport chain activity. In submission
 <br>
 <br>
@@ -41,16 +41,18 @@ Maja Schlittler, Michel Goiny, LEANDRO Z. AGUDELOet al. [Endurance exercise incr
 <br>
 <br>
 Richard Mills, Hermes Taylor-Weiner, Jorge C. Correia, LEANDRO Z. AGUDELO et al. [Neurturin is a PGC-1a1-controlled myokine that promotes motor neuron recruitment and neuromuscular junction formation](http://www.molmetab.com/article/S2212-8778(17)30866-9/pdf){:target="_blank"}. Molecular Metabolism, 2017
-
+<br>
+<br>
 Vicente Martínez-Redondo, Paulo R. Jannig et al. [Peroxisome Proliferator-activated Receptor Coactivator-1 Isoforms Selectively Regulate Multiple Splicing Events on
 Target Genes](http://www.jbc.org/content/291/29/15169.full.pdf){:target="_blank"}. JBC, 2016
 <br>
 <br>
 Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing towards FXRα2 to modulate hepatic lipolysis and fatty acid metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4731735/){:target="_blank"}. Molecular Metabolism, 2015
-
+<br>
+<br>
 († equal contribution)
-<br>
-<br>
+</p>
+
 
 # Computational Projects
 
@@ -72,15 +74,19 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 
 # Education
 
-- [Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/){:target="_blank"}, [Kellis Lab @ MIT Computer Science and Broad Institute](http://compbio.mit.edu/compbio.html){:target="_blank"}, Postdoctoral Associate, Metabolism, Computational Biology and Deep Learning.  2018-present
-
-- [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, Postdoctoral Associate, Metabolism and Computational Biology. 2017  
-
-- [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, PhD student, Metabolism and Computational Biology. 2012-2017
-
-- [Stockholm University, Dept of Neurochemistry, Chemistry section](https://www.kemi.su.se/utbildning/masterprogram/neurokemi-med-molekyl%C3%A4r-neurobiologi){:target="_blank"}, MSc in Chemistry and Neurochemistry. 2009-2011
-
-- [Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}, Medicine. 2002-2008  
+[Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/){:target="_blank"}, [Kellis Lab @ MIT Computer Science and Broad Institute](http://compbio.mit.edu/compbio.html){:target="_blank"}, Postdoctoral Associate, Metabolism, Computational Biology and Deep Learning.  2018-present
+<br>
+<br>
+[Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, Postdoctoral Associate, Metabolism and Computational Biology. 2017  
+<br>
+<br>
+[Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, PhD student, Metabolism and Computational Biology. 2012-2017
+<br>
+<br>
+[Stockholm University, Dept of Neurochemistry, Chemistry section](https://www.kemi.su.se/utbildning/masterprogram/neurokemi-med-molekyl%C3%A4r-neurobiologi){:target="_blank"}, MSc in Chemistry and Neurochemistry. 2009-2011
+<br>
+<br>
+[Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}, Medicine. 2002-2008  
 
 <br>
 <br>
