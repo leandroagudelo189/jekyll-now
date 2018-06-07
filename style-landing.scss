@@ -1330,7 +1330,7 @@ button {
     top: 0
 }
 
-#application .container,.application-component .container {
+#application .container-soul,.application-component .container-soul {
     -webkit-overflow-scrolling: touch;
     -webkit-box-pack: center;
     -o-box-pack: center;
@@ -1354,7 +1354,7 @@ button {
 
 
 @media screen and (max-width: 640px) {
-    #application .container,.application-component .container {
+    #application .container-soul,.application-component .container-soul {
     -webkit-overflow-scrolling: touch;
     -webkit-box-pack: center;
     -o-box-pack: center;
@@ -1379,7 +1379,7 @@ button {
     
 }
 
-#application .container .wrapper,.application-component .container .wrapper {
+#application .container-soul .wrapper,.application-component .container-soul .wrapper {
     max-width: 920px;
     padding: 115px 96px;
     margin: auto;
@@ -1387,7 +1387,7 @@ button {
 }
 
 @media screen and (max-width: 640px) {
-    #application .container .wrapper,.application-component .container .wrapper {
+    #application .container-soul .wrapper,.application-component .container-soul .wrapper {
         max-width: 920px;
     padding: 40px 0px;
     margin: auto;
