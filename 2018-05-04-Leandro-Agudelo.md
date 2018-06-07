@@ -18,10 +18,10 @@ Leandro is a postdoctoral associate at the [Computer Science and Artificial Inte
 - Multi-omic deep learning inference of comorbid molecular components across metabolic disorders
 - Hybrid deep learning models for multi-omic discovery of regulatory networks (autoencoders and reinforcement learning)
 
-<br>
+
 <br>
 # Key publications and manuscripts
-<p style="font-size:20px">
+<br>
 LEANDRO Z. AGUDELO †, Shamim Dadvar † et al. GPR35 restores mitochondrial function in white adipose tissue with impaired electric transport chain activity. In submission
 <br>
 <br>
@@ -51,7 +51,7 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 <br>
 <br>
 († equal contribution)
-</p>
+
 
 
 # Computational Projects
@@ -73,20 +73,20 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 <br>
 
 # Education
-
-[Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/){:target="_blank"}, [Kellis Lab @ MIT Computer Science and Broad Institute](http://compbio.mit.edu/compbio.html){:target="_blank"}, Postdoctoral Associate, Metabolism, Computational Biology and Deep Learning.  2018-present
+<br>
+[2018-present] [Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/){:target="_blank"}, [Kellis Lab @ MIT Computer Science and Broad Institute](http://compbio.mit.edu/compbio.html){:target="_blank"}, Postdoctoral Associate, Metabolism, Computational Biology and Deep Learning.  
 <br>
 <br>
-[Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, Postdoctoral Associate, Metabolism and Computational Biology. 2017  
+[2017] [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, Postdoctoral Associate, Metabolism and Computational Biology.  
 <br>
 <br>
-[Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, PhD student, Metabolism and Computational Biology. 2012-2017
+[2012-2017] [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, PhD student, Metabolism and Computational Biology. 2012-2017
 <br>
 <br>
-[Stockholm University, Dept of Neurochemistry, Chemistry section](https://www.kemi.su.se/utbildning/masterprogram/neurokemi-med-molekyl%C3%A4r-neurobiologi){:target="_blank"}, MSc in Chemistry and Neurochemistry. 2009-2011
+[2009-2011] [Stockholm University, Dept of Neurochemistry, Chemistry section](https://www.kemi.su.se/utbildning/masterprogram/neurokemi-med-molekyl%C3%A4r-neurobiologi){:target="_blank"}, MSc in Chemistry and Neurochemistry. 2009-2011
 <br>
 <br>
-[Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}, Medicine. 2002-2008  
+[2002-2008] [Universidad Libre](http://www.unilibrecali.edu.co/index.php/en/programas-academicos/pregrado/fac-ciencias-salud-2/medicina){:target="_blank"}, Medicine. 2002-2008  
 
 <br>
 <br>
