@@ -4,7 +4,6 @@
 //
 // IMPORTS
 //
-
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono:100,300,400,500);
 .typer-component {
   display: inline-block;
@@ -1404,8 +1403,7 @@ button {
   margin: 62px 0 62px;
   opacity: .6;
   color: #e2e6e8;
-    font-family: Roboto Mono,monospace;
-
+  font-family: Roboto Mono,monospace;
 }
 
 @media screen and (max-width: 640px) {
@@ -1436,7 +1434,7 @@ button {
   top: 1px;
   margin-top: px;
   opacity: 0.3;
-    font-family: Roboto Mono,monospace;
+  font-family: Roboto Mono,monospace;
 }
 
 .menu-component .projects {
@@ -1452,8 +1450,8 @@ button {
   -moz-columns: 1 auto;
   columns: 1 auto;
   opacity: .9;
-    font-family: Roboto Mono,monospace;
-    margin-top: 120px
+  font-family: Roboto Mono,monospace;
+  margin-top: 120px;
 }
 
 @media screen and (max-width: 640px) {
@@ -1484,39 +1482,36 @@ button {
   color: inherit;
   color: #FF7043;
   font-family: Roboto Mono,monospace;
-       font-size: 20px;
-
-
+  font-size: 20px;
 }
 
 .menu-component .projects .link .index {
   margin-right: 10px;
-  opacity: .2;
+  opacity: .4;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
   filter: alpha(opacity=20);
-    font-family: Roboto Mono,monospace;
-         font-size: 20px;
-
-
+  font-family: Roboto Mono,monospace;
+  font-size: 20px;
 }
 
 .menu-component .projects .link .index, .menu-component .projects .link .title {
   -webkit-transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
-    font-family: Roboto Mono,monospace;
-     font-size: 20px;
-    }
+  font-family: Roboto Mono,monospace;
+  font-size: 18px;
+font-weight:100
+}
 
 .menu-component .projects .link .title {
   position: relative;
   overflow: hidden;
-  opacity: .7;
+  opacity:1;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
   filter: alpha(opacity=90);
   color: #fff;
-  font-size: 18px;
-  font-weight: 100;
-  letter-spacing: 0px
+  font-size: 20px;
+  font-weight: 200;
+  letter-spacing: 0px;
 }
 
 .menu-component .projects .link .title:after {
@@ -1533,24 +1528,21 @@ button {
   height: 1px;
   width: 24px;
   left: 0;
-    font-weight: 100;
-
+  font-weight: 100;
 }
 
 .menu-component .projects .link:hover .index {
   opacity: .6;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
   filter: alpha(opacity=40);
-    font-weight: 100;
-
+  font-weight: 100;
 }
 
 .menu-component .projects .link:hover .title {
   opacity: 1;
   -ms-filter: none;
   filter: none;
-    font-weight: 100;
-
+  font-weight: 100;
 }
 
 .menu-component .projects .link:hover .title:after {
@@ -1560,8 +1552,7 @@ button {
   transform: none;
   background: #bfbfbf;
   width: 100%;
-    font-weight: 100;
-
+  font-weight: 100;
 }
 
 .typer-component .temp {
@@ -1582,10 +1573,9 @@ button {
   display: box;
   margin-bottom: -9px;
   font-family: Roboto Mono,monospace;
-  font-weight:300;
-  margin-top: 120px
+  font-weight: 300;
+  margin-top: 120px;
 }
-
 
 .greeting-title-2 {
   font-size: 28px;
@@ -1599,6 +1589,7 @@ button {
   display: box;
   margin-bottom: -20px;
   font-family: Roboto Mono,monospace;
-  font-weight:300;
-  margin-top: -27px
+  font-weight: 300;
+  margin-top: -27px;
 }
+
