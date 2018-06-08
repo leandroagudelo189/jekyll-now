@@ -1440,40 +1440,49 @@ button {
   font-weight: 100
 }
 
+@media screen and (max-width: 640px) {
+  .menu-component .section-title {
+  font-family: Roboto Mono,monospace;
+  margin-top: 50px;
+  margin-bottom: -20px
+  }
+}
+
+
 .menu-component .projects {
   -webkit-column-gap: 24px;
   -moz-column-gap: 24px;
   column-gap: 20px;
   color: #e2e6e8;
   line-height: 1.9;
-  font-size: 18px;
-  font-weight: 00;
+  font-weight: 100;
   letter-spacing: 0.5px;
   -webkit-columns: 1 auto;
   -moz-columns: 1 auto;
   columns: 1 auto;
   opacity: 1;
   font-family: Roboto Mono,monospace;
-  margin-top: 120px;
+  margin-top: 150px;
 }
 
 @media screen and (max-width: 640px) {
   .menu-component .projects {
-    -webkit-columns: 1 auto;
-    -moz-columns: 1 auto;
-    columns: 1 auto;
-    font-size: 14px;
-    opacity: 1;
-    line-height: 2;
+  color: #e2e6e8;
+  font-family: Roboto Mono,monospace;
   }
 }
 @media screen and (max-width: 450px) {
   .menu-component .projects {
-    -webkit-columns: 1 auto;
     -moz-columns: 1 auto;
     columns: 1 auto;
+      margin-top: 0px;
+      margin-right: 0px;
+
   }
 }
+
+
+
 .menu-component .projects .link {
   text-decoration: none;
   text-overflow: ellipsis;
@@ -1486,8 +1495,24 @@ button {
   color: #FF7043;
   font-family: Roboto Mono,monospace;
   font-size: 20px;
-  opacity: .8
+  opacity: .87
 }
+
+@media screen and (max-width: 640px) {
+ .menu-component .projects .link  {
+  color: #FF7043;
+  font-family: Roboto Mono,monospace;
+  font-size: 14px;
+  opacity: 0.9;
+  line-height: 1.3;
+  text-align: left;
+  margin-right: 1px;
+  margin-left: -20px; 
+    margin-top: 0px
+
+  }
+}
+
 
 .menu-component .projects .link .index {
   margin-right: 10px;
@@ -1497,6 +1522,18 @@ button {
   font-family: Roboto Mono,monospace;
   font-size: 20px;
 }
+@media screen and (max-width: 640px) {
+ .menu-component .projects .link .index {
+    margin-left:  0px;
+  opacity: .25;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+  filter: alpha(opacity=20);
+  font-family: Roboto Mono,monospace;
+  margin-right: 0px;
+
+  }
+}
+
 
 .menu-component .projects .link .index, .menu-component .projects .link .title {
   -webkit-transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
@@ -1505,6 +1542,19 @@ button {
   font-size: 18px;
   font-weight: 100;
 }
+@media screen and (max-width: 640px) {
+ .menu-component .projects .link .index, .menu-component .projects .link .title {
+    -webkit-transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+  font-family: Roboto Mono,monospace;
+  font-size:0px;
+  font-weight: 100;
+  text-align: left;
+  line-height: inherit;
+
+  
+    }
+}
 
 .menu-component .projects .link .title {
   position: relative;
@@ -1512,10 +1562,26 @@ button {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
   filter: alpha(opacity=90);
   color: #fff;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 200;
   letter-spacing: 0px;
 }
+@media screen and (max-width: 640px) {
+ .menu-component .projects .link .title {
+    position: relative;
+  overflow: hidden;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+  filter: alpha(opacity=90);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 200;
+line-height: inherit;
+text-align: left;
+line-height: 1.2
+
+  }
+}
+
 
 .menu-component .projects .link .title:after {
   -webkit-transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -1533,6 +1599,25 @@ button {
   left: 0;
   font-weight: 100;
 }
+@media screen and (max-width: 640px) {
+ .menu-component .projects .link .title:after{
+    -webkit-transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  -webkit-transform: translate(calc(-100% - 8px));
+  transform: translate(calc(-100% - 8px));
+  -webkit-transform: translate3d(calc(-100% - 8px), 0, 0);
+  transform: translate3d(calc(-100% - 8px), 0, 0);
+  background: #262626;
+  position: absolute;
+  content: '';
+  bottom: -2px;
+  height: 1px;
+  width: 24px;
+  left: ;
+  font-weight: 100;
+
+  }
+}
 
 .menu-component .projects .link:hover .index {
   opacity: .6;
@@ -1540,12 +1625,31 @@ button {
   filter: alpha(opacity=40);
   font-weight: 100;
 }
+@media screen and (max-width: 640px) {
+ .menu-component .projects .link:hover .index {
+    opacity: .6;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+  filter: alpha(opacity=40);
+  font-weight: 100;
+
+  }
+}
+
 
 .menu-component .projects .link:hover .title {
   opacity: 1;
   -ms-filter: none;
   filter: none;
   font-weight: 100;
+}
+@media screen and (max-width: 640px) {
+ .menu-component .projects .link:hover .title {
+   opacity: 1;
+  -ms-filter: none;
+  filter: none;
+  font-weight: 100;
+
+  }
 }
 
 .menu-component .projects .link:hover .title:after {
@@ -1557,6 +1661,15 @@ button {
   width: 100%;
   font-weight: 100;
 }
+@media screen and (max-width: 640px) {
+ .menu-component .projects .link:hover .title:after {
+   -webkit-transition: all 0.275s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.275s cubic-bezier(0.23, 1, 0.32, 1);
+  transform: none;  
+
+  }
+}
+
 
 .typer-component .temp {
   opacity: .25;
