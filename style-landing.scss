@@ -121,7 +121,7 @@ bg {
 }
 
 .greeting-component {
-  opacity: .85;
+  opacity: .9;
   display: flex;
   color: #369df2;
   letter-spacing: -1px;
@@ -1580,6 +1580,11 @@ button {
   margin-top: 120px;
 }
 
+@media screen and (max-width: 640px) {
+  .greeting-title {
+    margin-top: 60px
+  }
+}
 .greeting-title-2 {
   font-size: 28px;
   opacity: .8;
@@ -1594,5 +1599,10 @@ button {
   font-family: Roboto Mono,monospace;
   font-weight: 300;
   margin-top: -27px;
+}
+@media screen and (max-width: 640px) {
+  .greeting-title-2 {
+    margin-bottom: -20px
+  }
 }
 
