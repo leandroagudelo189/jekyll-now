@@ -388,6 +388,34 @@ img-b {
     margin-top: auto;
   }
 }
+
+img-c {
+  max-width: 1450px;
+  display: block;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: static;
+  margin-left: auto;
+  margin-top: -165px;
+  z-index: 1;
+}
+
+@media screen and (max-width: 640px) {
+  img-c {
+    display: block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+    position: static;
+    margin-left: auto;
+    margin-top: auto;
+  }
+}
+
 .gmnoprint img {
   max-width: none;
 }
