@@ -607,11 +607,35 @@ nav a {
   text-align: right;
   font-family: Roboto Mono,monospace;
   opacity: .4;
-  margin-top: -10px;
+  margin-top: 70px;
   max-width: 850px;
 }
 
 .page blockquote:hover {
+  opacity: .75;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+  filter: alpha(opacity=75);
+  color: #e2e6e8;
+  font-weight: 200
+}
+
+.read blockquote {
+  margin: 1em 0em;
+  border-left: px solid #666;
+  padding: 1em 1em;
+  color: #268bd2;
+  font-size: 14px;
+  font-style: normal;
+  letter-spacing: 0px;
+  font-weight: 400;
+  text-align: right;
+  font-family: Roboto Mono,monospace;
+  opacity: .4;
+  margin-bottom: 70px;
+  max-width: 850px;
+}
+
+.read blockquote:hover {
   opacity: .75;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
   filter: alpha(opacity=75);
