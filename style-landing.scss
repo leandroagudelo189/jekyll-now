@@ -596,13 +596,27 @@ nav a {
 }
 
 .page blockquote {
-  margin: 0em .8em;
-  border-left: 1px solid #666;
-  padding: 0.1em 1em;
-  color: #93a1a1;
-  font-size: 16px;
-  font-style: italic;
-  letter-spacing: 2px;
+  margin: 1em 0em;
+  border-left: px solid #666;
+  padding: 1em 1em;
+  color: #268bd2;
+  font-size: 14px;
+  font-style: normal;
+  letter-spacing: 0px;
+  font-weight: 400;
+  text-align: right;
+  font-family: Roboto Mono,monospace;
+  opacity: .4;
+  margin-top: -10px;
+  max-width: 850px;
+}
+
+.page blockquote:hover {
+  opacity: .75;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+  filter: alpha(opacity=75);
+  color: #e2e6e8;
+  font-weight: 200
 }
 
 .page .comments {
