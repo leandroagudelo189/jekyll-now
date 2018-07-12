@@ -91,5 +91,5 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 # Contact
 
 - [leandro@renesence.com](mailto:email@domain.com)
-- [leandroagudelo189@gmail.com](mailto:email@domain.com)
-- currently waiting for [leandroagudelo@csail.mit.edu](mailto:email@domain.com)
+- [agudelo@mit.edu](mailto:email@domain.com)
+- [lagudelo@csail.mit.edu](mailto:email@domain.com)
