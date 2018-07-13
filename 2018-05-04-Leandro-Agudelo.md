@@ -25,7 +25,6 @@ Leandro is a postdoctoral associate at the [Computer Science and Artificial Inte
 
 <br>
 <br>
-
 # Research interest
 
 - Identification of regulatory networks mediating adaptations to metabolic challenges (i.e. obesity, diabetes and exercise)
@@ -35,7 +34,6 @@ Leandro is a postdoctoral associate at the [Computer Science and Artificial Inte
 - Multi-omic deep learning inference of comorbid molecular components across metabolic disorders
 
 - Hybrid deep learning models for multi-omic discovery of regulatory networks (autoencoders and reinforcement learning)
-
 <br>
 <br>
 # Key publications and manuscripts
@@ -71,8 +69,6 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 († equal contribution)
 <br>
 <br> 
-
-
 # Computational Projects
 
 - Deep autoencoders and self-organizing maps (SOMs) for interrogation of gene-regulatory networks 
@@ -102,7 +98,6 @@ Jorge C. Correia, Julie Massart et al. [Bioenergetic cues shift FXR splicing tow
 - Multi-omic approach to characterize the secretome of conditioned skeletal muscle
 <br>
 <br>
-
 
 # Contact
 
