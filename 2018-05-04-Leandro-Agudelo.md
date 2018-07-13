@@ -11,7 +11,7 @@ Leandro is a postdoctoral associate at the [Computer Science and Artificial Inte
 <br> 
 
 # Education
-[2018-present] [Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/){:target="_blank"}, [Kellis Lab @ MIT Computer Science and Broad Institute](http://compbio.mit.edu/compbio.html){:target="_blank"}, Postdoctoral Associate, Metabolism, Computational Biology and Deep Learning.  
+[2018-present] [Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/){:target="_blank"}, [Kellis Lab](http://compbio.mit.edu/compbio.html){:target="_blank"}, Postdoctoral Associate, Metabolism, Computational Biology and Deep Learning.  
 <br>
 [2017] [Karolinska Institute](https://ki.se/en/fyfa/startpage){:target="_blank"}, [Molecular Physiology](https://ki.se/en/fyfa/molecular-and-cellular-exercise-physiology){:target="_blank"}, Postdoctoral Associate, Metabolism and Computational Biology.  
 <br>
