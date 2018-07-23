@@ -385,7 +385,7 @@ img-b {
     height: auto;
     position: static;
     margin-left: auto;
-    margin-top: auto;
+    margin-top: -180px;
   }
 }
 img-c {
@@ -1173,7 +1173,7 @@ code {
   display: flex;
   font-size: 14px;
   letter-spacing: 1px;
-  font-weight: 200;
+  font-weight: 300;
   opacity: .8;
 }
 
@@ -1783,7 +1783,7 @@ button {
   display: box;
   margin-bottom: -20px;
   font-family: Roboto Mono,monospace;
-  font-weight: 300;
+  font-weight: 400;
   margin-top: -27px;
 }
 
