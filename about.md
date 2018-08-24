@@ -42,7 +42,7 @@ See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
   <br>
 
 ### Alice Martin
-Alice Martin is currently finishing a 3-month intensive training in Data Science where she is applying the latest Machine Learning techniques. In parallel, she is using a deep learning approach to model decision making in Parkinson Disease Progression. Starting from November 2018, she will be a PhD student in Machine Learning at Ecole Polytechnique (Paris) while also working part-time as a Machine Learning Engineer.
+Alice Martin is currently finishing a 3-month intensive training in Data Science where she is applying the latest Machine Learning techniques. In parallel, she is using a deep learning approach to model Parkinson Disease Progression and decision-making in the choice of patients’ treatments. Starting from November 2018, she will be a PhD student in Machine Learning at Ecole Polytechnique (Paris) while also working part-time as a Machine Learning Engineer.
 Before that, she studied in one of the French top-league engineering schools where she gained hands-on experience in diverse subjects such as advanced mathematics, computer science, physics and business strategy. She later worked as a data analyst for an Aerospace company in California.
 Through her past experiences, she has worked in a broad range of scientific fields, and now she wants to focus on the integration of the areas she has loved the most since high-school: Mathematics, Computer Science and Biology.
 
