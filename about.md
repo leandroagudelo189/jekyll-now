@@ -41,6 +41,15 @@ See [full bio here]({{ site.baseurl }}/2018-05-04-Leandro-Agudelo)
   <br>
   <br>
 
+### Alice Martin
+Alice Martin is currently finishing a 3-month intensive training in Data Science where she is applying the latest Machine Learning techniques. In parallel, she is using a deep learning approach to model decision making in Parkinson Disease Progression. Starting from November 2018, she will be a PhD student in Machine Learning at Ecole Polytechnique (Paris) while also working part-time as a Machine Learning Engineer.
+Before that, she studied in one of the French top-league engineering schools where she gained hands-on experience in diverse subjects such as advanced mathematics, computer science, physics and business strategy. She later worked as a data analyst for an Aerospace company in California.
+Through her past experiences, she has worked in a broad range of scientific fields, and now she wants to focus on the integration of the areas she has loved the most since high-school: Mathematics, Computer Science and Biology.
+
+<br>
+  <br>
+  <br>
+
 ### Åsa Segerstolpe, PhD
 Åsa is a research scientist at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"} in [the Klarman Cell Observatory](https://www.broadinstitute.org/klarman-cell-observatory){:target="_blank"}, where she works developing high throughput methods for systems biology. Åsa has extensive experience with single-RNA seq and RNA biology. She is currently interested in understanding complex regulatory circuits in type-1 and type-2 diabetes. Åsa is also involved in the human cell atlas project, where the goal is to map individually all human cells. This will be a step forward towards our understanding of several disease processes. 
 
