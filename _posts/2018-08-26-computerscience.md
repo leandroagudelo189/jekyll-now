@@ -1,4 +1,3 @@
-
 ---
 layout: computerscience
 title: ''
