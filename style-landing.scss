@@ -362,7 +362,6 @@ img {
     margin-top: auto;
   }
 }
-
 img-l {
   max-width: 1450px;
   display: block;
@@ -372,7 +371,7 @@ img-l {
   width: 100%;
   position: static;
   margin-left: auto;
-  margin-top: -165px;
+  margin-top: -265px;
   z-index: 1;
 }
 
@@ -637,9 +636,9 @@ nav a {
   text-align: right;
   font-family: Roboto Mono,monospace;
   opacity: .4;
-  margin-top: 90px;
+  margin-top: 40px;
   max-width: 850px;
-  margin-bottom: -10px;
+  margin-bottom: -50px;
 }
 
 .page blockquote:hover {
@@ -662,8 +661,8 @@ nav a {
   text-align: right;
   font-family: Roboto Mono,monospace;
   opacity: .4;
-  margin-bottom: 260px;
-  margin-top: -20px;
+  margin-bottom: -0px;
+  margin-top: -50px;
   max-width: 850px;
 }
 
