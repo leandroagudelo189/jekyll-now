@@ -1043,13 +1043,13 @@ code {
   font-size: 1px;
   letter-spacing: px;
   opacity: .6;
-  font-weight: 500;
+  font-weight: 400;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
   filter: alpha(opacity=25);
 }
 
 .header-component .status:hover {
-  opacity: .75;
+  opacity: .9;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
   filter: alpha(opacity=75);
 }
