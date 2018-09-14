@@ -12,7 +12,7 @@ published: true
         marginwidth="0" 
         marginheight="0" 
         scrolling="no" 
-        allowfullscreen webkitallowfullscreen mozallowfullscreen> 
+        allowfullscreen > 
 </iframe>
 </div>
  
