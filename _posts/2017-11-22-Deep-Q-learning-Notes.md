@@ -2,9 +2,11 @@
 published: true
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75.0019%; padding-top: 38px;">
 
-<iframe src="https://www.slideshare.net/LeandroAgudelo2/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+<iframe src="https://www.slideshare.net/LeandroAgudelo2/slideshelf" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe>
 
+</div>
 
  
 # [See implementation](https://leandroagudelo189.github.io/Deep-Q-Learning-Implementation-part-1/)
