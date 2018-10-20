@@ -91,7 +91,7 @@ html {
 }
 
 body {
-  background: #16191c;
+  background: #f2f2f2;
   font: 24px/1.6 Helvetica, Arial, sans-serif;
   color: #bac0c3;
 }
@@ -224,7 +224,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 15px;
   padding: 0;
   font-family: Roboto Mono,monospace;
-  opacity: .8;
+  opacity: 1;
 }
 
 @media screen and (max-width: 640px) {
@@ -252,7 +252,7 @@ h3 {
   font-size: 26px;
   letter-spacing: 1px;
   color: #369df2;
-  opacity: 0.8;
+  opacity: 1;
 }
 
 h4 {
@@ -267,9 +267,9 @@ p {
   letter-spacing: -1px;
   font-weight: 400;
   font-family: Roboto Mono,monospace;
-  color: #e2e6e8;
+  color: #373737;
   font-size: 24px;
-  opacity: 0.65;
+  opacity: 0.9;
 }
 
 @media screen and (max-width: 640px) {
@@ -284,13 +284,13 @@ a {
   color: #ff7043;
   text-decoration: none;
   cursor: pointer;
-  opacity: .6;
+  opacity: 1;
 }
 
 a:hover, a:active {
   color: #FF7043;
   text-decoration: none;
-  opacity: 85;
+  opacity: 0.65;
 }
 
 ul, ol {
@@ -305,7 +305,7 @@ ul {
   font-family: Roboto Mono,monospace;
   color: #e2e6e8;
   font-size: 24px;
-  opacity: .65;
+  opacity:1;
 }
 
 @media screen and (max-width: 640px) {
@@ -313,7 +313,7 @@ ul {
     display: block;
     font-size: 16px;
     text-align: left;
-    opacity: .8;
+    opacity: 1;
   }
 }
 ol {
