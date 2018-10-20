@@ -411,7 +411,7 @@ img-b {
     height: auto;
     position: static;
     margin-left: auto;
-    margin-top: -180px;
+    margin-top: 60px;
   }
 }
 img-c {
@@ -619,18 +619,18 @@ nav a {
   font-weight: 400;
   text-align: right;
   font-family: Roboto Mono,monospace;
-  opacity: .4;
+  opacity: 1;
   margin-top: 0px;
   margin-bottom: 50px;
   max-width: 850px;
 }
 
 .post blockquote:hover {
-  opacity: .75;
+  opacity: .5;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
   filter: alpha(opacity=75);
-  color: #e2e6e8;
-  font-weight: 200;
+  color: #268bd2;
+  font-weight: 400;
 }
 
 .post .comments {
@@ -663,19 +663,29 @@ nav a {
   font-weight: 400;
   text-align: right;
   font-family: Roboto Mono,monospace;
-  opacity: .4;
+  opacity: 0.8;
   margin-top: 40px;
   max-width: 850px;
   margin-bottom: -50px;
 }
 
 .page blockquote:hover {
-  opacity: .75;
+  opacity: .5;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
   filter: alpha(opacity=75);
-  color: #e2e6e8;
-  font-weight: 200;
+  color: #268bd2;
+  font-weight: 400;
 }
+
+
+@media screen and (max-width: 640px) {
+  .page blockquote {
+  margin-top: 40px;
+  max-width: 850px;
+  margin-bottom: 0px;
+}
+}
+
 
 .read blockquote {
   margin: 1em 0em;
@@ -688,18 +698,18 @@ nav a {
   font-weight: 400;
   text-align: right;
   font-family: Roboto Mono,monospace;
-  opacity: .4;
+  opacity: .8;
   margin-bottom: -0px;
   margin-top: -50px;
   max-width: 850px;
 }
 
 .read blockquote:hover {
-  opacity: .75;
+  opacity: .5;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
   filter: alpha(opacity=75);
   color: #e2e6e8;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 .page .comments {
@@ -1569,7 +1579,7 @@ button {
 }
 .about-component .section-title {
   top: 1px;
-  opacity: .4;
+  opacity: .9;
   font-weight: 100;
 }
 
@@ -1584,7 +1594,7 @@ button {
 
 .menu-component .section-title {
   top: 1px;
-  opacity: 0.3;
+  opacity: 1;
   font-family: Roboto Mono,monospace;
   font-weight: 100;
 }
@@ -1637,8 +1647,8 @@ button {
   color: inherit;
   color: #FF7043;
   font-family: Roboto Mono,monospace;
-  font-size: 20px;
-  opacity: 0.87;
+  font-size: 0px;
+  opacity: 1;
 }
 
 @media screen and (max-width: 640px) {
@@ -1656,7 +1666,7 @@ button {
 }
 .menu-component .projects .link .index {
   margin-right: 10px;
-  opacity: .25;
+  opacity:1;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
   filter: alpha(opacity=20);
   font-family: Roboto Mono,monospace;
@@ -1666,7 +1676,7 @@ button {
 @media screen and (max-width: 640px) {
   .menu-component .projects .link .index {
     margin-left: 0px;
-    opacity: .25;
+    opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
     filter: alpha(opacity=20);
     font-family: Roboto Mono,monospace;
@@ -1677,7 +1687,7 @@ button {
   -webkit-transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   font-family: Roboto Mono,monospace;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 100;
 }
 
@@ -1697,10 +1707,10 @@ button {
   overflow: hidden;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
   filter: alpha(opacity=90);
-  color: #fff;
-  font-size: 18px;
-  font-weight: 100;
-  letter-spacing: 1px;
+  color: #373737;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0px;
 }
 
 @media screen and (max-width: 640px) {
@@ -1709,9 +1719,9 @@ button {
     overflow: hidden;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
     filter: alpha(opacity=90);
-    color: #fff;
+    color: #373737;
     font-size: 14px;
-    font-weight: 200;
+    font-weight: 400;
     line-height: inherit;
     text-align: left;
     line-height: 1.2;
@@ -1806,7 +1816,7 @@ button {
 
 .greeting-title {
   font-size: 28px;
-  opacity: .8;
+  opacity: 1;
   letter-spacing: 1px;
   display: flex;
   color: #369df2;
@@ -1827,7 +1837,7 @@ button {
 }
 .greeting-title-2 {
   font-size: 28px;
-  opacity: .8;
+  opacity: 1;
   letter-spacing: 1px;
   display: flex;
   color: #369df2;
