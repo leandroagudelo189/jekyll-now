@@ -1031,7 +1031,7 @@ code {
   font-size: 14px;
   letter-spacing: 1px;
   font-weight: 400;
-  opacity: .8;
+  opacity: 0.8;
 }
 
 .header-component .social .link {
@@ -1039,14 +1039,14 @@ code {
   transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   margin-left: 16px;
   text-decoration: none;
-  opacity: .8;
+  opacity: 0.8;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=66)";
   filter: alpha(opacity=66);
   color: #ebebeb;
 }
 
 .header-component .social .link:hover {
-  opacity: .8;
+  opacity: 0.8;
   color: #FF7043;
   -ms-filter: none;
   filter: none;
@@ -1060,14 +1060,14 @@ code {
   overflow: hidden;
   font-size: 1px;
   letter-spacing: px;
-  opacity: .6;
+  opacity: 0.6;
   font-weight: 400;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
   filter: alpha(opacity=25);
 }
 
 .header-component .status:hover {
-  opacity: .9;
+  opacity: 0.9;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
   filter: alpha(opacity=75);
 }
@@ -1106,14 +1106,14 @@ code {
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-  opacity: .45;
+  opacity: 0.45;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
   filter: alpha(opacity=25);
   font-weight: 500;
 }
 
 .footer-component .status:hover {
-  opacity: .75;
+  opacity: 0.75;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
   filter: alpha(opacity=75);
 }
@@ -1124,7 +1124,7 @@ code {
   display: box;
   display: flex;
   letter-spacing: 1px;
-  opacity: .8;
+  opacity: 0.8;
   font-size: 14px;
   font-weight: 400;
 }
@@ -1134,14 +1134,14 @@ code {
   transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   margin-left: 16px;
   text-decoration: none;
-  opacity: .8;
+  opacity: 0.8;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=66)";
   filter: alpha(opacity=66);
   color: #e2e6e8;
 }
 
 .footer-component .social .link:hover {
-  opacity: .8;
+  opacity: 0.8;
   color: #FF7043;
   -ms-filter: none;
   filter: none;
