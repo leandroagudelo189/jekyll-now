@@ -1230,6 +1230,7 @@ code {
   filter: none;
 }
 
+
 .header-component .social {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1240,7 +1241,6 @@ code {
   font-weight: 400;
   opacity: 1;
 }
-
 .header-component .social .link {
   -webkit-transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   transition: opacity 0.3s cubic-bezier(0.23, 1, 0.32, 1);
@@ -1251,13 +1251,43 @@ code {
   filter: alpha(opacity=66);
   color: #ebebeb;
 }
-
 .header-component .social .link:hover {
   opacity: 1;
   color: #FF7043;
   -ms-filter: none;
   filter: none;
 }
+
+
+
+.header-component .social .dropdown {
+   display: inline-block;
+  position: relative;
+ } 
+header-component .social .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+header-component .social .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+header-component .social .dropdown-content a:hover {background-color: #f1f1f1}
+
+header-component .social .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+
 
 .header-component .status {
   -webkit-transition: opacity 0.66s cubic-bezier(0.23, 1, 0.32, 1);
